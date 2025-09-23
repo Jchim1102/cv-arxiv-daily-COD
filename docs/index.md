@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.09.22
+## Updated on 2025.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -162,8 +162,8 @@ layout: default
 |**2025-09-10**|**Hyperspectral Mamba for Hyperspectral Object Tracking**|Long Gao et.al.|[2509.08265](http://arxiv.org/abs/2509.08265)|null|
 |**2025-09-09**|**DEPF: A UAV Multispectral Object Detector with Dual-Domain Enhancement and Priority-Guided Mamba Fusion**|Shucong Li et.al.|[2509.07327](http://arxiv.org/abs/2509.07327)|null|
 |**2025-09-05**|**MambaLite-Micro: Memory-Optimized Mamba Inference on MCUs**|Hongjun Xu et.al.|[2509.05488](http://arxiv.org/abs/2509.05488)|null|
-|**2025-09-05**|**Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution**|Haosong Liu et.al.|[2509.04824](http://arxiv.org/abs/2509.04824)|null|
-|**2025-09-05**|**CD-Mamba: Cloud detection with long-range spatial dependency modeling**|Tianxiang Xue et.al.|[2509.04729](http://arxiv.org/abs/2509.04729)|null|
+|**2025-09-05**|**Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution**|Haosong Liu et.al.|[2509.04824](http://arxiv.org/abs/2509.04824)|**[link](https://github.com/hsliu01/LFMT)**|
+|**2025-09-05**|**CD-Mamba: Cloud detection with long-range spatial dependency modeling**|Tianxiang Xue et.al.|[2509.04729](http://arxiv.org/abs/2509.04729)|**[link](https://github.com/kunzhan/CD-Mamba)**|
 |**2025-09-04**|**VCMamba: Bridging Convolutions with Multi-Directional Mamba for Efficient Visual Representation**|Mustafa Munir et.al.|[2509.04669](http://arxiv.org/abs/2509.04669)|null|
 |**2025-09-04**|**Rethinking the long-range dependency in Mamba/SSM and transformer models**|Cong Ma et.al.|[2509.04226](http://arxiv.org/abs/2509.04226)|null|
 |**2025-07-22**|**DeSamba: Decoupled Spectral Adaptive Framework for 3D Multi-Sequence MRI Lesion Classification**|Dezhen Wang et.al.|[2507.15487](http://arxiv.org/abs/2507.15487)|null|
@@ -912,7 +912,7 @@ layout: default
 |**2025-09-14**|**SPHERE: Semantic-PHysical Engaged REpresentation for 3D Semantic Scene Completion**|Zhiwen Yang et.al.|[2509.11171](http://arxiv.org/abs/2509.11171)|null|
 |**2025-09-14**|**Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.|[2509.11169](http://arxiv.org/abs/2509.11169)|null|
 |**2025-09-09**|**SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting**|Mahtab Dahaghin et.al.|[2509.07809](http://arxiv.org/abs/2509.07809)|null|
-|**2025-09-09**|**DiGS: Accurate and Complete Surface Reconstruction from 3D Gaussians via Direct SDF Learning**|Wenzhi Guo et.al.|[2509.07493](http://arxiv.org/abs/2509.07493)|null|
+|**2025-09-21**|**Accurate and Complete Surface Reconstruction from 3D Gaussians via Direct SDF Learning**|Wenzhi Guo et.al.|[2509.07493](http://arxiv.org/abs/2509.07493)|null|
 |**2025-09-03**|**GS-TG: 3D Gaussian Splatting Accelerator with Tile Grouping for Reducing Redundant Sorting while Preserving Rasterization Efficiency**|Joongho Jo et.al.|[2509.00911](http://arxiv.org/abs/2509.00911)|null|
 |**2025-08-31**|**SWAGSplatting: Semantic-guided Water-scene Augmented Gaussian Splatting**|Zhuodong Jiang et.al.|[2509.00800](http://arxiv.org/abs/2509.00800)|null|
 |**2025-08-28**|**Adam SLAM - the last mile of camera calibration with 3DGS**|Matthieu Gendrin et.al.|[2508.20526](http://arxiv.org/abs/2508.20526)|null|
@@ -1034,7 +1034,7 @@ layout: default
 |**2025-09-17**|**Investigating the Ways in Which Mobile Phone Images with Open-Source Data Can Be Used to Create an Augmented Virtual Environment (AVE)**|Russell Beale et.al.|[2509.14374](http://arxiv.org/abs/2509.14374)|null|
 |**2025-09-17**|**BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection**|Rongyu Zhang et.al.|[2509.14151](http://arxiv.org/abs/2509.14151)|null|
 |**2025-09-17**|**An Exploratory Study on Abstract Images and Visual Representations Learned from Them**|Haotian Li et.al.|[2509.14149](http://arxiv.org/abs/2509.14149)|null|
-|**2025-09-17**|**StableTracker: Learning to Stably Track Target via Differentiable Simulation**|Fanxing Li et.al.|[2509.14147](http://arxiv.org/abs/2509.14147)|null|
+|**2025-09-21**|**StableTracker: Learning to Stably Track Target via Differentiable Simulation**|Fanxing Li et.al.|[2509.14147](http://arxiv.org/abs/2509.14147)|null|
 |**2025-09-17**|**VSE-MOT: Multi-Object Tracking in Low-Quality Video Scenes Guided by Visual Semantic Enhancement**|Jun Du et.al.|[2509.14060](http://arxiv.org/abs/2509.14060)|null|
 |**2025-09-17**|**Performance Optimization of YOLO-FEDER FusionNet for Robust Drone Detection in Visually Complex Environments**|Tamara R. Lenhard et.al.|[2509.14012](http://arxiv.org/abs/2509.14012)|null|
 |**2025-09-17**|**Distractor-Aware Memory-Based Visual Object Tracking**|Jovana Videnovic et.al.|[2509.13864](http://arxiv.org/abs/2509.13864)|null|
@@ -1589,8 +1589,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-10**|**Analysis and Control of Acoustic Emissions from Marine Energy Converters**|Jiaqin He et.al.|[2509.08656](http://arxiv.org/abs/2509.08656)|null|
-|**2025-09-01**|**Articulated Object Estimation in the Wild**|Abdelrhman Werby et.al.|[2509.01708](http://arxiv.org/abs/2509.01708)|**[link](https://github.com/robot-learning-freiburg/artipoint)**|
-|**2025-08-28**|**Multi-View 3D Point Tracking**|Frano Rajič et.al.|[2508.21060](http://arxiv.org/abs/2508.21060)|**[link](https://github.com/ethz-vlg/mvtracker)**|
+|**2025-09-01**|**Articulated Object Estimation in the Wild**|Abdelrhman Werby et.al.|[2509.01708](http://arxiv.org/abs/2509.01708)|null|
+|**2025-08-28**|**Multi-View 3D Point Tracking**|Frano Rajič et.al.|[2508.21060](http://arxiv.org/abs/2508.21060)|null|
 |**2025-08-24**|**Minimal Solvers for Full DoF Motion Estimation from Asynchronous Tracks**|Petr Hruby et.al.|[2508.17537](http://arxiv.org/abs/2508.17537)|null|
 |**2025-08-24**|**Analysis of Circuit-based Per-Panel Diode Model of Photovoltaic Array**|Peng Sang et.al.|[2508.17374](http://arxiv.org/abs/2508.17374)|null|
 |**2025-08-21**|**Demystifying Reward Design in Reinforcement Learning for Upper Extremity Interaction: Practical Guidelines for Biomechanical Simulations in HCI**|Hannah Selder et.al.|[2508.15727](http://arxiv.org/abs/2508.15727)|null|
