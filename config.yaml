@@ -25,13 +25,16 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     # "Video Camouflaged Object Detection": {},"Camouflaged Object Detection": {},"Salient Object Detection": {},"Object Detection": {},
     "Video Camouflaged Object Detection":
-        filters: [ "Video Camouflaged Object Detection" ]
+        filters: [ "Video Camouflaged Object Detection", "Video Camouflaged Object Segmentation" ]
     "Camouflaged Object Detection":
-        filters: [ "Camouflaged Object Detection" ]
+        filters: [ "Camouflaged Object Detection", "Camouflaged Object Segmentation" ]
     "Salient Object Detection":
         filters: [ "Salient Object Detection" ]
     "Object Detection":
         filters: [ "Object Detection" ]
+    "SAM":
+        filters: [ "SAM" ]
+
 
     "Point Track":
         filters: [ "Point Track" ]
