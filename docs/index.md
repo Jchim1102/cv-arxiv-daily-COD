@@ -603,7 +603,7 @@ layout: default
 |**2025-05-16**|**Robust 2D lidar-based SLAM in arboreal environments without IMU/GNSS**|Paola Nazate-Burgos et.al.|[2505.10847](http://arxiv.org/abs/2505.10847)|null|
 |**2025-05-15**|**TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation**|Manthan Patel et.al.|[2505.10696](http://arxiv.org/abs/2505.10696)|null|
 |**2025-05-15**|**A hybrid SLAM-Payne framework for atmospheric parameter and abundance determination of early-type Stars from LAMOST DR9 low-resolution Spectra**|Weijia Sun et.al.|[2505.10310](http://arxiv.org/abs/2505.10310)|null|
-|**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
+|**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|**[link](https://github.com/lsg-slam/LSG-SLAM)**|
 |**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024](http://arxiv.org/abs/2505.09024)|null|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
 |**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230](http://arxiv.org/abs/2505.08230)|null|
@@ -787,7 +787,7 @@ layout: default
 |**2025-09-26**|**Johnson-Lindenstrauss Lemma Guided Network for Efficient 3D Medical Segmentation**|Jinpeng Lu et.al.|[2509.22307](http://arxiv.org/abs/2509.22307)|null|
 |**2025-09-23**|**SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment**|Binod Singh et.al.|[2509.20401](http://arxiv.org/abs/2509.20401)|null|
 |**2025-09-24**|**A Versatile Foundation Model for AI-enabled Mammogram Interpretation**|Fuxiang Huang et.al.|[2509.20271](http://arxiv.org/abs/2509.20271)|null|
-|**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|Ioanna Ntinou et.al.|[2509.19203](http://arxiv.org/abs/2509.19203)|null|
+|**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|Ioanna Ntinou et.al.|[2509.19203](http://arxiv.org/abs/2509.19203)|**[link](https://github.com/IoannaNti/LexiCLIP)**|
 |**2025-09-30**|**OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata**|Oussema Dhaouadi et.al.|[2509.18350](http://arxiv.org/abs/2509.18350)|null|
 |**2025-09-21**|**Learning Attribute-Aware Hash Codes for Fine-Grained Image Retrieval via Query Optimization**|Peng Wang et.al.|[2509.17049](http://arxiv.org/abs/2509.17049)|null|
 |**2025-09-25**|**Efficient Multimodal Dataset Distillation via Generative Models**|Zhenghao Zhao et.al.|[2509.15472](http://arxiv.org/abs/2509.15472)|null|
@@ -1401,7 +1401,7 @@ layout: default
 |**2025-09-17**|**Performance Optimization of YOLO-FEDER FusionNet for Robust Drone Detection in Visually Complex Environments**|Tamara R. Lenhard et.al.|[2509.14012](http://arxiv.org/abs/2509.14012)|null|
 |**2025-09-17**|**Distractor-Aware Memory-Based Visual Object Tracking**|Jovana Videnovic et.al.|[2509.13864](http://arxiv.org/abs/2509.13864)|null|
 |**2025-09-17**|**Bridging the Synthetic-Real Gap: Supervised Domain Adaptation for Robust Spacecraft 6-DoF Pose Estimation**|Inder Pal Singh et.al.|[2509.13792](http://arxiv.org/abs/2509.13792)|null|
-|**2025-09-17**|**Task-Aware Image Signal Processor for Advanced Visual Perception**|Kai Chen et.al.|[2509.13762](http://arxiv.org/abs/2509.13762)|null|
+|**2025-09-17**|**Task-Aware Image Signal Processor for Advanced Visual Perception**|Kai Chen et.al.|[2509.13762](http://arxiv.org/abs/2509.13762)|**[link](https://github.com/LabShuHangGU/TA-ISP)**|
 |**2025-09-16**|**Dynamic Aware: Adaptive Multi-Mode Out-of-Distribution Detection for Trajectory Prediction in Autonomous Vehicles**|Tongfei Guo et.al.|[2509.13577](http://arxiv.org/abs/2509.13577)|null|
 |**2025-09-16**|**Using Visual Language Models to Control Bionic Hands: Assessment of Object Perception and Grasp Inference**|Ozan Karaali et.al.|[2509.13572](http://arxiv.org/abs/2509.13572)|null|
 |**2025-09-16**|**LivePyxel: Accelerating image annotations with a Python-integrated webcam live streaming**|Uriel Garcilazo-Cruz et.al.|[2509.13504](http://arxiv.org/abs/2509.13504)|null|
@@ -1583,7 +1583,7 @@ layout: default
 |**2025-06-30**|**SQUASH: A SWAP-Based Quantum Attack to Sabotage Hybrid Quantum Neural Networks**|Rahul Kumar et.al.|[2506.24081](http://arxiv.org/abs/2506.24081)|null|
 |**2025-06-30**|**Dissipation Pathways in a Photosynthetic Complex**|Ignacio Gustin et.al.|[2506.24075](http://arxiv.org/abs/2506.24075)|null|
 |**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|
-|**2025-06-30**|**Beyond Distance: Mobility Neural Embeddings Reveal Visible and Invisible Barriers in Urban Space**|Guangyuan Weng et.al.|[2506.24061](http://arxiv.org/abs/2506.24061)|null|
+|**2025-06-30**|**Beyond Distance: Mobility Neural Embeddings Reveal Visible and Invisible Barriers in Urban Space**|Guangyuan Weng et.al.|[2506.24061](http://arxiv.org/abs/2506.24061)|**[link](https://github.com/SUNLab-NetSI/invisible_barriers)**|
 |**2025-06-30**|**Dynamical Heterogeneity in Supercooled Water and its Spectroscopic Fingerprints**|Cesare Malosso et.al.|[2506.24055](http://arxiv.org/abs/2506.24055)|null|
 |**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041](http://arxiv.org/abs/2506.24041)|null|
 |**2025-06-30**|**Quickest Detection of Adversarial Attacks Against Correlated Equilibria**|Kiarash Kazari et.al.|[2506.24040](http://arxiv.org/abs/2506.24040)|null|
@@ -2211,8 +2211,8 @@ layout: default
 |**2025-09-28**|**A Multi-Camera Vision-Based Approach for Fine-Grained Assembly Quality Control**|Ali Nazeri et.al.|[2509.23815](http://arxiv.org/abs/2509.23815)|null|
 |**2025-09-28**|**Diff-3DCap: Shape Captioning with Diffusion Models**|Zhenyu Shu et.al.|[2509.23718](http://arxiv.org/abs/2509.23718)|null|
 |**2025-09-27**|**On the Impact of LiDAR Point Cloud Compression on Remote Semantic Segmentation**|Tiago de S. Fernandes et.al.|[2509.23341](http://arxiv.org/abs/2509.23341)|null|
-|**2025-09-27**|**C3-OWD: A Curriculum Cross-modal Contrastive Learning Framework for Open-World Detection**|Siheng Wang et.al.|[2509.23316](http://arxiv.org/abs/2509.23316)|null|
-|**2025-09-27**|**FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection**|Ben Liang et.al.|[2509.23056](http://arxiv.org/abs/2509.23056)|null|
+|**2025-09-27**|**C3-OWD: A Curriculum Cross-modal Contrastive Learning Framework for Open-World Detection**|Siheng Wang et.al.|[2509.23316](http://arxiv.org/abs/2509.23316)|**[link](https://github.com/justin-herry/C3-OWD)**|
+|**2025-09-27**|**FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection**|Ben Liang et.al.|[2509.23056](http://arxiv.org/abs/2509.23056)|**[link](https://github.com/bloomingvision/FMC-DETR)**|
 |**2025-09-26**|**SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion**|Zixian Zhao et.al.|[2509.22450](http://arxiv.org/abs/2509.22450)|null|
 |**2025-09-26**|**$γ$ -Quant: Towards Learnable Quantization for Low-bit Pattern Recognition**|Mishal Fatima et.al.|[2509.22448](http://arxiv.org/abs/2509.22448)|null|
 |**2025-09-26**|**HierLight-YOLO: A Hierarchical and Lightweight Object Detection Network for UAV Photography**|Defan Chen et.al.|[2509.22365](http://arxiv.org/abs/2509.22365)|null|

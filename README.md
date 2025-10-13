@@ -995,8 +995,8 @@
 |**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|null|
 |**2024-12-18**|**Foundation Models Meet Low-Cost Sensors: Test-Time Adaptation for Rescaling Disparity for Zero-Shot Metric Depth Estimation**|Rémi Marsal et.al.|[2412.14103](http://arxiv.org/abs/2412.14103)|null|
 |**2024-12-16**|**Speech Foundation Models and Crowdsourcing for Efficient, High-Quality Data Collection**|Beomseok Lee et.al.|[2412.11978](http://arxiv.org/abs/2412.11978)|null|
-|**2024-12-18**|**SplineGS: Robust Motion-Adaptive Spline for Real-Time Dynamic 3D Gaussians from Monocular Video**|Jongmin Park et.al.|[2412.09982](http://arxiv.org/abs/2412.09982)|null|
-|**2024-12-12**|**CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework**|Yushan Han et.al.|[2412.08344](http://arxiv.org/abs/2412.08344)|null|
+|**2024-12-18**|**SplineGS: Robust Motion-Adaptive Spline for Real-Time Dynamic 3D Gaussians from Monocular Video**|Jongmin Park et.al.|[2412.09982](http://arxiv.org/abs/2412.09982)|**[link](https://github.com/KAIST-VICLab/SplineGS)**|
+|**2024-12-12**|**CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework**|Yushan Han et.al.|[2412.08344](http://arxiv.org/abs/2412.08344)|**[link](https://github.com/CatOneTwo/CoDTS)**|
 |**2024-12-10**|**Deep Non-rigid Structure-from-Motion Revisited: Canonicalization and Sequence Modeling**|Hui Deng et.al.|[2412.07230](http://arxiv.org/abs/2412.07230)|null|
 |**2024-12-08**|**Unveiling True Talent: The Soccer Factor Model for Skill Evaluation**|Alexandre Andorra et.al.|[2412.05911](http://arxiv.org/abs/2412.05911)|null|
 |**2024-12-08**|**Doppelgangers++: Improved Visual Disambiguation with Geometric 3D Features**|Yuanbo Xiangli et.al.|[2412.05826](http://arxiv.org/abs/2412.05826)|null|
