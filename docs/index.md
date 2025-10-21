@@ -466,7 +466,7 @@ layout: default
 |**2025-05-23**|**Hybrid Mamba-Transformer Decoder for Error-Correcting Codes**|Shy-el Cohen et.al.|[2505.17834](http://arxiv.org/abs/2505.17834)|null|
 |**2025-05-23**|**Structured Linear CDEs: Maximally Expressive and Parallel-in-Time Sequence Models**|Benjamin Walker et.al.|[2505.17761](http://arxiv.org/abs/2505.17761)|**[link](https://github.com/benjamin-walker/structured-linear-cdes)**|
 |**2025-05-23**|**Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach**|Yuting Huang et.al.|[2505.17637](http://arxiv.org/abs/2505.17637)|null|
-|**2025-05-23**|**MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation**|Kaixing Yang et.al.|[2505.17543](http://arxiv.org/abs/2505.17543)|null|
+|**2025-05-23**|**MEGADance: Mixture-of-Experts Architecture for Genre-Aware 3D Dance Generation**|Kaixing Yang et.al.|[2505.17543](http://arxiv.org/abs/2505.17543)|**[link](https://github.com/XulongT/MEGADance)**|
 |**2025-05-23**|**Graph Mamba for Efficient Whole Slide Image Understanding**|Jiaxuan Lu et.al.|[2505.17457](http://arxiv.org/abs/2505.17457)|null|
 |**2025-05-27**|**EVM-Fusion: An Explainable Vision Mamba Architecture with Neural Algorithmic Fusion**|Zichuan Yang et.al.|[2505.17367](http://arxiv.org/abs/2505.17367)|null|
 |**2025-05-22**|**JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model**|Qihao Duan et.al.|[2505.17257](http://arxiv.org/abs/2505.17257)|null|
@@ -734,7 +734,7 @@ layout: default
 |**2025-07-16**|**Spatial Frequency Modulation for Semantic Segmentation**|Linwei Chen et.al.|[2507.11893](http://arxiv.org/abs/2507.11893)|null|
 |**2025-07-20**|**Supporting SENCOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448](http://arxiv.org/abs/2507.08448)|null|
-|**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|null|
+|**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|**[link](https://github.com/3dv-casia/MGSfM)**|
 |**2025-06-30**|**Towards Initialization-free Calibrated Bundle Adjustment**|Carl Olsson et.al.|[2506.23808](http://arxiv.org/abs/2506.23808)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
 |**2025-06-27**|**Single-Scanline Relative Pose Estimation for Rolling Shutter Cameras**|Petr Hruby et.al.|[2506.22069](http://arxiv.org/abs/2506.22069)|null|
@@ -1283,7 +1283,7 @@ layout: default
 |**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441](http://arxiv.org/abs/2505.22441)|null|
 |**2025-05-28**|**Learning Fine-Grained Geometry for Sparse-View Splatting via Cascade Depth Loss**|Wenjun Lu et.al.|[2505.22279](http://arxiv.org/abs/2505.22279)|null|
 |**2025-05-28**|**Hyperspectral Gaussian Splatting**|Sunil Kumar Narayanan et.al.|[2505.21890](http://arxiv.org/abs/2505.21890)|null|
-|**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
+|**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|**[link](https://github.com/Aryia-Behroziuan/neurons)**|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|**[link](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)**|
 |**2025-05-30**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
 |**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813](http://arxiv.org/abs/2505.19813)|**[link](https://github.com/klmav-cuc/golf-nrt)**|
@@ -1563,7 +1563,7 @@ layout: default
 |**2025-07-16**|**Intrinsic alignment demographics for next-generation lensing: Revealing galaxy property trends with DESI Y1 direct measurements**|J. Siegel et.al.|[2507.11530](http://arxiv.org/abs/2507.11530)|null|
 |**2025-07-15**|**FlexCAST: Enabling Flexible Scientific Data Analyses**|Benjamin Nachman et.al.|[2507.11528](http://arxiv.org/abs/2507.11528)|null|
 |**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525](http://arxiv.org/abs/2507.11525)|null|
-|**2025-07-15**|**Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection**|Buddhi Wijenayake et.al.|[2507.11523](http://arxiv.org/abs/2507.11523)|null|
+|**2025-07-15**|**Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection**|Buddhi Wijenayake et.al.|[2507.11523](http://arxiv.org/abs/2507.11523)|**[link](https://github.com/Buddhi19/MambaCD)**|
 |**2025-07-16**|**Demographic Distribution Matching between real world and virtual phantom population**|Dhrubajyoti Ghosh et.al.|[2507.11511](http://arxiv.org/abs/2507.11511)|null|
 |**2025-07-15**|**Plane-layer Rayleigh-Bénard convection up to $Ra=10^{11}$ : Near-wall fluctuations and role of initial conditions**|Roshan J. Samuel et.al.|[2507.11510](http://arxiv.org/abs/2507.11510)|null|
 |**2025-07-15**|**A Transiting Giant on a 7.7-Year Orbit Revealed by TTVs in the TOI-201 System**|Gracjan Maciejewski et.al.|[2507.11504](http://arxiv.org/abs/2507.11504)|null|
@@ -2222,7 +2222,7 @@ layout: default
 |**2025-10-03**|**Towards Size-invariant Salient Object Detection: A Generic Evaluation and Optimization Approach**|Shilong Bao et.al.|[2509.15573](http://arxiv.org/abs/2509.15573)|null|
 |**2025-08-28**|**Graph-Based Uncertainty Modeling and Multimodal Fusion for Salient Object Detection**|Yuqi Xiong et.al.|[2508.20415](http://arxiv.org/abs/2508.20415)|null|
 |**2025-08-27**|**SPLF-SAM: Self-Prompting Segment Anything Model for Light Field Salient Object Detection**|Qiyao Xu et.al.|[2508.19746](http://arxiv.org/abs/2508.19746)|null|
-|**2025-09-15**|**First RAG, Second SEG: A Training-Free Paradigm for Camouflaged Object Detection**|Wutao Liu et.al.|[2508.15313](http://arxiv.org/abs/2508.15313)|null|
+|**2025-09-15**|**First RAG, Second SEG: A Training-Free Paradigm for Camouflaged Object Detection**|Wutao Liu et.al.|[2508.15313](http://arxiv.org/abs/2508.15313)|**[link](https://github.com/Lwt-diamond/RAG-SEG)**|
 |**2025-08-17**|**WXSOD: A Benchmark for Robust Salient Object Detection in Adverse Weather Conditions**|Quan Chen et.al.|[2508.12250](http://arxiv.org/abs/2508.12250)|null|
 |**2025-09-09**|**GCRPNet: Graph-Enhanced Contextual and Regional Perception Network for Salient Object Detection in Optical Remote Sensing Images**|Mengyu Ren et.al.|[2508.10542](http://arxiv.org/abs/2508.10542)|null|
 |**2025-08-11**|**GAPNet: A Lightweight Framework for Image and Video Salient Object Detection via Granularity-Aware Paradigm**|Yu-Huan Wu et.al.|[2508.07585](http://arxiv.org/abs/2508.07585)|null|

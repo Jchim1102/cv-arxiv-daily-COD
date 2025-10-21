@@ -42,7 +42,7 @@
 |**2025-05-30**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859](http://arxiv.org/abs/2502.13859)|null|
 |**2025-01-19**|**Green Video Camouflaged Object Detection**|Xinyu Wang et.al.|[2501.10914](http://arxiv.org/abs/2501.10914)|null|
 |**2025-05-10**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653](http://arxiv.org/abs/2409.18653)|null|
-|**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|null|
+|**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|**[link](https://github.com/SpiderNitt/SAM-PM)**|
 |**2025-04-28**|**Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2403.01968](http://arxiv.org/abs/2403.01968)|null|
 |**2024-02-01**|**TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection**|Zifan Yu et.al.|[2311.02535](http://arxiv.org/abs/2311.02535)|null|
 |**2022-03-15**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363](http://arxiv.org/abs/2203.07363)|null|
@@ -428,7 +428,7 @@
 |**2025-10-01**|**Evaluating New AI Cell Foundation Models on Challenging Kidney Pathology Cases Unaddressed by Previous Foundation Models**|Runchen Wang et.al.|[2510.01287](http://arxiv.org/abs/2510.01287)|null|
 |**2025-09-30**|**Mumford-type Shimura curves contained in the Torelli locus**|Thomas Bouchet et.al.|[2510.00093](http://arxiv.org/abs/2510.00093)|null|
 |**2025-09-30**|**Low-power integrated optical parametric amplification via second-harmonic resonance**|Devin J. Dean et.al.|[2509.26425](http://arxiv.org/abs/2509.26425)|null|
-|**2025-10-08**|**Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization**|Teng Zhang et.al.|[2509.26281](http://arxiv.org/abs/2509.26281)|null|
+|**2025-10-08**|**Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization**|Teng Zhang et.al.|[2509.26281](http://arxiv.org/abs/2509.26281)|**[link](https://github.com/VisionXLab/Point2RBox-v3)**|
 |**2025-09-30**|**EasyOcc: 3D Pseudo-Label Supervision for Fully Self-Supervised Semantic Occupancy Prediction Models**|Seamie Hayes et.al.|[2509.26087](http://arxiv.org/abs/2509.26087)|null|
 |**2025-09-30**|**Investigating four new candidate redback pulsars discovered in the image plane**|Flora Petrou et.al.|[2509.25943](http://arxiv.org/abs/2509.25943)|null|
 |**2025-09-30**|**Adapting SAM with Dynamic Similarity Graphs for Few-Shot Parameter-Efficient Small Dense Object Detection: A Case Study of Chickpea Pods in Field Conditions**|Xintong Jiang et.al.|[2509.25805](http://arxiv.org/abs/2509.25805)|null|
@@ -687,7 +687,7 @@
 |**2025-09-18**|**Synthetic-to-Real Object Detection using YOLOv11 and Domain Randomization Strategies**|Luisa Torquato Niño et.al.|[2509.15045](http://arxiv.org/abs/2509.15045)|null|
 |**2025-09-17**|**Investigating the Ways in Which Mobile Phone Images with Open-Source Data Can Be Used to Create an Augmented Virtual Environment (AVE)**|Russell Beale et.al.|[2509.14374](http://arxiv.org/abs/2509.14374)|null|
 |**2025-09-17**|**BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection**|Rongyu Zhang et.al.|[2509.14151](http://arxiv.org/abs/2509.14151)|null|
-|**2025-09-17**|**An Exploratory Study on Abstract Images and Visual Representations Learned from Them**|Haotian Li et.al.|[2509.14149](http://arxiv.org/abs/2509.14149)|null|
+|**2025-09-17**|**An Exploratory Study on Abstract Images and Visual Representations Learned from Them**|Haotian Li et.al.|[2509.14149](http://arxiv.org/abs/2509.14149)|**[link](https://github.com/Fronik-Lihaotian/HAID)**|
 |**2025-09-21**|**StableTracker: Learning to Stably Track Target via Differentiable Simulation**|Fanxing Li et.al.|[2509.14147](http://arxiv.org/abs/2509.14147)|null|
 |**2025-09-17**|**VSE-MOT: Multi-Object Tracking in Low-Quality Video Scenes Guided by Visual Semantic Enhancement**|Jun Du et.al.|[2509.14060](http://arxiv.org/abs/2509.14060)|null|
 |**2025-09-17**|**Performance Optimization of YOLO-FEDER FusionNet for Robust Drone Detection in Visually Complex Environments**|Tamara R. Lenhard et.al.|[2509.14012](http://arxiv.org/abs/2509.14012)|null|
@@ -954,8 +954,8 @@
 |**2025-09-01**|**SpectMamba: Integrating Frequency and State Space Models for Enhanced Medical Image Detection**|Yao Wang et.al.|[2509.01080](http://arxiv.org/abs/2509.01080)|null|
 |**2025-08-31**|**SCOUT: Toward Sub-Quadratic Attention via Segment Compression for Optimized Utility in Transformers**|Aref Jafari et.al.|[2509.00935](http://arxiv.org/abs/2509.00935)|null|
 |**2025-08-31**|**CSFMamba: Cross State Fusion Mamba Operator for Multimodal Remote Sensing Image Classification**|Qingyu Wang et.al.|[2509.00677](http://arxiv.org/abs/2509.00677)|null|
-|**2025-08-31**|**MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation**|Aviral Chharia et.al.|[2509.00649](http://arxiv.org/abs/2509.00649)|null|
-|**2025-08-30**|**Gated Associative Memory: A Parallel O(N) Architecture for Efficient Sequence Modeling**|Rishiraj Acharya et.al.|[2509.00605](http://arxiv.org/abs/2509.00605)|null|
+|**2025-08-31**|**MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation**|Aviral Chharia et.al.|[2509.00649](http://arxiv.org/abs/2509.00649)|**[link](https://github.com/aviralchharia/MV-SSM)**|
+|**2025-08-30**|**Gated Associative Memory: A Parallel O(N) Architecture for Efficient Sequence Modeling**|Rishiraj Acharya et.al.|[2509.00605](http://arxiv.org/abs/2509.00605)|**[link](https://github.com/rishiraj/gam)**|
 |**2025-08-29**|**Scaling Legal AI: Benchmarking Mamba and Transformers for Statutory Classification and Case Law Retrieval**|Anuraj Maurya et.al.|[2509.00141](http://arxiv.org/abs/2509.00141)|null|
 |**2025-08-28**|**Full-Frequency Temporal Patching and Structured Masking for Enhanced Audio Classification**|Aditya Makineni et.al.|[2508.21243](http://arxiv.org/abs/2508.21243)|null|
 |**2025-09-12**|**HiddenObject: Modality-Agnostic Fusion for Multimodal Hidden Object Detection**|Harris Song et.al.|[2508.21135](http://arxiv.org/abs/2508.21135)|null|
