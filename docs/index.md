@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.23
+## Updated on 2025.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,6 +16,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling**|Bingjie Gao et.al.|[2510.20206](http://arxiv.org/abs/2510.20206)|null|
+|**2025-10-21**|**MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models**|Aritra Bhowmik et.al.|[2510.19022](http://arxiv.org/abs/2510.19022)|null|
 |**2025-10-21**|**VelocityNet: Real-Time Crowd Anomaly Detection via Person-Specific Velocity Analysis**|Fatima AlGhamdi et.al.|[2510.18187](http://arxiv.org/abs/2510.18187)|null|
 |**2025-10-20**|**AV1 Motion Vector Fidelity and Application for Efficient Optical Flow**|Julien Zouein et.al.|[2510.17427](http://arxiv.org/abs/2510.17427)|null|
 |**2025-10-18**|**Multiwavelength spectroscopic observations of a quiescent prominence**|Jianchao Xue et.al.|[2510.16288](http://arxiv.org/abs/2510.16288)|null|
@@ -209,7 +211,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-21**|**MLMA: Towards Multilingual with Mamba Based Architectures**|Mohamed Nabih Ali et.al.|[2510.18684](http://arxiv.org/abs/2510.18684)|null|
+|**2025-10-22**|**What is the Best Sequence Length for BABYLM?**|Suchir Salhan et.al.|[2510.19493](http://arxiv.org/abs/2510.19493)|null|
+|**2025-10-22**|**PRGCN: A Graph Memory Network for Cross-Sequence Pattern Reuse in 3D Human Pose Estimation**|Zhuoyang Xie et.al.|[2510.19475](http://arxiv.org/abs/2510.19475)|null|
+|**2025-10-23**|**Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge**|Penghao Wang et.al.|[2510.19266](http://arxiv.org/abs/2510.19266)|null|
+|**2025-10-23**|**MLMA: Towards Multilingual ASR With Mamba-based Architectures**|Mohamed Nabih Ali et.al.|[2510.18684](http://arxiv.org/abs/2510.18684)|null|
 |**2025-10-15**|**DMTrack: Deformable State-Space Modeling for UAV Multi-Object Tracking with Kalman Fusion and Uncertainty-Aware Association**|Zenghuang Fu et.al.|[2510.17860](http://arxiv.org/abs/2510.17860)|null|
 |**2025-10-21**|**TrajMamba: An Efficient and Semantic-rich Vehicle Trajectory Pre-training Model**|Yichen Liu et.al.|[2510.17545](http://arxiv.org/abs/2510.17545)|null|
 |**2025-10-20**|**MambaX-Net: Dual-Input Mamba-Enhanced Cross-Attention Network for Longitudinal MRI Segmentation**|Yovin Yahathugoda et.al.|[2510.17529](http://arxiv.org/abs/2510.17529)|null|
@@ -709,6 +714,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**RubbleSim: A Photorealistic Structural Collapse Simulator for Confined Space Mapping**|Constantine Frost et.al.|[2510.20529](http://arxiv.org/abs/2510.20529)|null|
 |**2025-10-20**|**Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS**|Feng Zhou et.al.|[2510.17479](http://arxiv.org/abs/2510.17479)|null|
 |**2025-10-21**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|
 |**2025-10-18**|**LightGlueStick: a Fast and Robust Glue for Joint Point-Line Matching**|Aidyn Ubingazhibov et.al.|[2510.16438](http://arxiv.org/abs/2510.16438)|null|
@@ -822,6 +828,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**BIOCAP: Exploiting Synthetic Captions Beyond Labels in Biological Foundation Models**|Ziheng Zhang et.al.|[2510.20095](http://arxiv.org/abs/2510.20095)|null|
+|**2025-10-18**|**Small Language Models Offer Significant Potential for Science Community**|Jian Zhang et.al.|[2510.18890](http://arxiv.org/abs/2510.18890)|null|
 |**2025-10-21**|**Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection**|Ji Du et.al.|[2510.18437](http://arxiv.org/abs/2510.18437)|null|
 |**2025-10-21**|**ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization**|Yuanhe Guo et.al.|[2510.18433](http://arxiv.org/abs/2510.18433)|null|
 |**2025-10-21**|**DualHash: A Stochastic Primal-Dual Algorithm with Theoretical Guarantee for Deep Hashing**|Luxuan Li et.al.|[2510.18218](http://arxiv.org/abs/2510.18218)|null|
@@ -1186,6 +1194,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**From Far and Near: Perceptual Evaluation of Crowd Representations Across Levels of Detail**|Xiaohan Sun et.al.|[2510.20558](http://arxiv.org/abs/2510.20558)|null|
+|**2025-10-22**|**Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses**|Damian Bowness et.al.|[2510.20027](http://arxiv.org/abs/2510.20027)|null|
+|**2025-10-22**|**AegisRF: Adversarial Perturbations Guided with Sensitivity for Protecting Intellectual Property of Neural Radiance Fields**|Woo Jae Kim et.al.|[2510.19371](http://arxiv.org/abs/2510.19371)|null|
+|**2025-10-22**|**Advances in 4D Representation: Geometry, Motion, and Interaction**|Mingrui Zhao et.al.|[2510.19255](http://arxiv.org/abs/2510.19255)|null|
 |**2025-10-16**|**GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering**|Alexander Valverde et.al.|[2510.14270](http://arxiv.org/abs/2510.14270)|null|
 |**2025-10-16**|**SimULi: Real-Time LiDAR and Camera Simulation with Unscented Transforms**|Haithem Turki et.al.|[2510.12901](http://arxiv.org/abs/2510.12901)|null|
 |**2025-10-13**|**Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency**|Yuxin Cheng et.al.|[2510.10993](http://arxiv.org/abs/2510.10993)|null|
@@ -1357,6 +1369,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**Video Prediction of Dynamic Physical Simulations With Pixel-Space Spatiotemporal Transformers**|Dean L Slack et.al.|[2510.20807](http://arxiv.org/abs/2510.20807)|null|
+|**2025-10-23**|**Radar-Camera Fused Multi-Object Tracking: Online Calibration and Common Feature**|Lei Cheng et.al.|[2510.20794](http://arxiv.org/abs/2510.20794)|null|
+|**2025-10-23**|**Synthetic Data for Robust Runway Detection**|Estelle Chigot et.al.|[2510.20349](http://arxiv.org/abs/2510.20349)|null|
+|**2025-10-23**|**Physics-Guided Fusion for Robust 3D Tracking of Fast Moving Small Objects**|Prithvi Raj Singh et.al.|[2510.20126](http://arxiv.org/abs/2510.20126)|null|
+|**2025-10-22**|**A Unified Detection Pipeline for Robust Object Detection in Fisheye-Based Traffic Surveillance**|Neema Jakisa Owor et.al.|[2510.20016](http://arxiv.org/abs/2510.20016)|null|
+|**2025-10-22**|**FutrTrack: A Camera-LiDAR Fusion Transformer for 3D Multiple Object Tracking**|Martha Teiko Teye et.al.|[2510.19981](http://arxiv.org/abs/2510.19981)|null|
+|**2025-10-22**|**Can You Trust What You See? Alpha Channel No-Box Attacks on Video Object Detection**|Ariana Yi et.al.|[2510.19574](http://arxiv.org/abs/2510.19574)|null|
+|**2025-10-22**|**HAD: Hierarchical Asymmetric Distillation to Bridge Spatio-Temporal Gaps in Event-Based Object Tracking**|Yao Deng et.al.|[2510.19560](http://arxiv.org/abs/2510.19560)|null|
+|**2025-10-22**|**Towards Single-Source Domain Generalized Object Detection via Causal Visual Prompts**|Chen Li et.al.|[2510.19487](http://arxiv.org/abs/2510.19487)|null|
+|**2025-10-22**|**Space Object Detection using Multi-frame Temporal Trajectory Completion Method**|Xiaoqing Lan et.al.|[2510.19220](http://arxiv.org/abs/2510.19220)|null|
+|**2025-10-22**|**SFGFusion: Surface Fitting Guided 3D Object Detection with 4D Radar and Camera Fusion**|Xiaozhi Li et.al.|[2510.19215](http://arxiv.org/abs/2510.19215)|null|
+|**2025-10-21**|**Kinematic Analysis and Integration of Vision Algorithms for a Mobile Manipulator Employed Inside a Self-Driving Laboratory**|Shifa Sulaiman et.al.|[2510.19081](http://arxiv.org/abs/2510.19081)|null|
+|**2025-10-21**|**UniHPR: Unified Human Pose Representation via Singular Value Contrastive Learning**|Zhongyu Jiang et.al.|[2510.19078](http://arxiv.org/abs/2510.19078)|null|
+|**2025-10-21**|**Practical Noise Mitigation for Quantum Annealing via Dynamical Decoupling -- Towards Industry-Relevant Optimization using Trapped Ions**|Sebastian Nagies et.al.|[2510.19073](http://arxiv.org/abs/2510.19073)|null|
 |**2025-10-21**|**GBlobs: Local LiDAR Geometry for Improved Sensor Placement Generalization**|Dušan Malić et.al.|[2510.18539](http://arxiv.org/abs/2510.18539)|null|
 |**2025-10-21**|**DWaste: Greener AI for Waste Sorting using Mobile and Edge Devices**|Suman Kunwar et.al.|[2510.18513](http://arxiv.org/abs/2510.18513)|null|
 |**2025-10-21**|**Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection**|Ji Du et.al.|[2510.18437](http://arxiv.org/abs/2510.18437)|null|
@@ -2111,6 +2137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**Is This Tracker On? A Benchmark Protocol for Dynamic Tracking**|Ilona Demler et.al.|[2510.19819](http://arxiv.org/abs/2510.19819)|null|
 |**2025-10-16**|**C4D: 4D Made from 3D through Dual Correspondences**|Shizun Wang et.al.|[2510.14960](http://arxiv.org/abs/2510.14960)|null|
 |**2025-10-15**|**Trace Anything: Representing Any Video in 4D via Trajectory Fields**|Xinhang Liu et.al.|[2510.13802](http://arxiv.org/abs/2510.13802)|null|
 |**2025-10-15**|**Leveraging 2D Priors and SDF Guidance for Dynamic Urban Scene Rendering**|Siddharth Tourani et.al.|[2510.13381](http://arxiv.org/abs/2510.13381)|null|
@@ -2325,6 +2352,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**Synthetic Data for Robust Runway Detection**|Estelle Chigot et.al.|[2510.20349](http://arxiv.org/abs/2510.20349)|null|
+|**2025-10-23**|**Physics-Guided Fusion for Robust 3D Tracking of Fast Moving Small Objects**|Prithvi Raj Singh et.al.|[2510.20126](http://arxiv.org/abs/2510.20126)|null|
+|**2025-10-22**|**A Unified Detection Pipeline for Robust Object Detection in Fisheye-Based Traffic Surveillance**|Neema Jakisa Owor et.al.|[2510.20016](http://arxiv.org/abs/2510.20016)|null|
+|**2025-10-22**|**Can You Trust What You See? Alpha Channel No-Box Attacks on Video Object Detection**|Ariana Yi et.al.|[2510.19574](http://arxiv.org/abs/2510.19574)|null|
+|**2025-10-22**|**Towards Single-Source Domain Generalized Object Detection via Causal Visual Prompts**|Chen Li et.al.|[2510.19487](http://arxiv.org/abs/2510.19487)|null|
+|**2025-10-22**|**Space Object Detection using Multi-frame Temporal Trajectory Completion Method**|Xiaoqing Lan et.al.|[2510.19220](http://arxiv.org/abs/2510.19220)|null|
+|**2025-10-22**|**SFGFusion: Surface Fitting Guided 3D Object Detection with 4D Radar and Camera Fusion**|Xiaozhi Li et.al.|[2510.19215](http://arxiv.org/abs/2510.19215)|null|
+|**2025-10-21**|**Kinematic Analysis and Integration of Vision Algorithms for a Mobile Manipulator Employed Inside a Self-Driving Laboratory**|Shifa Sulaiman et.al.|[2510.19081](http://arxiv.org/abs/2510.19081)|null|
 |**2025-10-21**|**GBlobs: Local LiDAR Geometry for Improved Sensor Placement Generalization**|Dušan Malić et.al.|[2510.18539](http://arxiv.org/abs/2510.18539)|null|
 |**2025-10-21**|**DWaste: Greener AI for Waste Sorting using Mobile and Edge Devices**|Suman Kunwar et.al.|[2510.18513](http://arxiv.org/abs/2510.18513)|null|
 |**2025-10-21**|**Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection**|Ji Du et.al.|[2510.18437](http://arxiv.org/abs/2510.18437)|null|
@@ -2525,6 +2560,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models**|Zelin Peng et.al.|[2510.20322](http://arxiv.org/abs/2510.20322)|null|
+|**2025-10-23**|**PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D Part Understanding**|Penghao Wang et.al.|[2510.20155](http://arxiv.org/abs/2510.20155)|null|
+|**2025-10-22**|**Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation**|Su Ho Han et.al.|[2510.19592](http://arxiv.org/abs/2510.19592)|null|
+|**2025-10-22**|**The Busemann Process and Steep Highways in Directed First Passage Percolation**|Sam McKeown et.al.|[2510.19159](http://arxiv.org/abs/2510.19159)|null|
+|**2025-10-21**|**Improved high-gradient performance for medium-velocity superconducting half-wave resonators: Surface preparation and trapped flux mitigation**|Yuting Wu et.al.|[2510.19076](http://arxiv.org/abs/2510.19076)|null|
 |**2025-10-22**|**SAM 2++: Tracking Anything at Any Granularity**|Jiaming Zhang et.al.|[2510.18822](http://arxiv.org/abs/2510.18822)|null|
 |**2025-10-21**|**Dynamical model parameters from ultrasound tongue kinematics**|Sam Kirkham et.al.|[2510.18629](http://arxiv.org/abs/2510.18629)|null|
 |**2025-10-21**|**Technomolecular Materials: 3D Printed 2D Nanosheets with Self Patterned Electrodes**|Hicham Hamoudi et.al.|[2510.18389](http://arxiv.org/abs/2510.18389)|null|
