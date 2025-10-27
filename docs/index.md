@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.10.25
+## Updated on 2025.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -861,7 +861,7 @@ layout: default
 |**2025-09-26**|**Johnson-Lindenstrauss Lemma Guided Network for Efficient 3D Medical Segmentation**|Jinpeng Lu et.al.|[2509.22307](http://arxiv.org/abs/2509.22307)|null|
 |**2025-10-16**|**SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment**|Binod Singh et.al.|[2509.20401](http://arxiv.org/abs/2509.20401)|null|
 |**2025-09-24**|**A Versatile Foundation Model for AI-enabled Mammogram Interpretation**|Fuxiang Huang et.al.|[2509.20271](http://arxiv.org/abs/2509.20271)|null|
-|**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|Ioanna Ntinou et.al.|[2509.19203](http://arxiv.org/abs/2509.19203)|null|
+|**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|Ioanna Ntinou et.al.|[2509.19203](http://arxiv.org/abs/2509.19203)|**[link](https://github.com/IoannaNti/LexiCLIP)**|
 |**2025-09-30**|**OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata**|Oussema Dhaouadi et.al.|[2509.18350](http://arxiv.org/abs/2509.18350)|null|
 |**2025-09-21**|**Learning Attribute-Aware Hash Codes for Fine-Grained Image Retrieval via Query Optimization**|Peng Wang et.al.|[2509.17049](http://arxiv.org/abs/2509.17049)|null|
 |**2025-09-25**|**Efficient Multimodal Dataset Distillation via Generative Models**|Zhenghao Zhao et.al.|[2509.15472](http://arxiv.org/abs/2509.15472)|null|
@@ -912,8 +912,8 @@ layout: default
 |**2025-08-12**|**A Pseudo Global Fusion Paradigm-Based Cross-View Network for LiDAR-Based Place Recognition**|Jintao Cheng et.al.|[2508.08917](http://arxiv.org/abs/2508.08917)|null|
 |**2025-08-06**|**ACM Multimedia Grand Challenge on ENT Endoscopy Analysis**|Trong-Thuan Nguyen et.al.|[2508.04801](http://arxiv.org/abs/2508.04801)|null|
 |**2025-08-06**|**Advanced Multi-Architecture Deep Learning Framework for BIRADS-Based Mammographic Image Retrieval: Comprehensive Performance Analysis with Super-Ensemble Optimization**|MD Shaikh Rahman et.al.|[2508.04790](http://arxiv.org/abs/2508.04790)|null|
-|**2025-08-06**|**Metric Learning in an RKHS**|Gokcan Tatli et.al.|[2508.04476](http://arxiv.org/abs/2508.04476)|null|
-|**2025-08-06**|**Composed Object Retrieval: Object-level Retrieval via Composed Expressions**|Tong Wang et.al.|[2508.04424](http://arxiv.org/abs/2508.04424)|null|
+|**2025-08-06**|**Metric Learning in an RKHS**|Gokcan Tatli et.al.|[2508.04476](http://arxiv.org/abs/2508.04476)|**[link](https://github.com/RamyaLab/metric-learning-RKHS)**|
+|**2025-08-06**|**Composed Object Retrieval: Object-level Retrieval via Composed Expressions**|Tong Wang et.al.|[2508.04424](http://arxiv.org/abs/2508.04424)|**[link](https://github.com/wangtong627/COR)**|
 |**2025-08-05**|**Prototype-Enhanced Confidence Modeling for Cross-Modal Medical Image-Report Retrieval**|Shreyank N Gowda et.al.|[2508.03494](http://arxiv.org/abs/2508.03494)|null|
 |**2025-07-20**|**LoopNet: A Multitasking Few-Shot Learning Approach for Loop Closure in Large Scale SLAM**|Mohammad-Maher Nakshbandi et.al.|[2507.15109](http://arxiv.org/abs/2507.15109)|null|
 |**2025-07-20**|**Visual Place Recognition for Large-Scale UAV Applications**|Ioannis Tsampikos Papapetros et.al.|[2507.15089](http://arxiv.org/abs/2507.15089)|null|
@@ -1545,12 +1545,12 @@ layout: default
 |**2025-09-22**|**RCTDistill: Cross-Modal Knowledge Distillation Framework for Radar-Camera 3D Object Detection with Temporal Fusion**|Geonho Bang et.al.|[2509.17712](http://arxiv.org/abs/2509.17712)|null|
 |**2025-09-22**|**Domain Adaptive Object Detection for Space Applications with Real-Time Constraints**|Samet Hicsonmez et.al.|[2509.17593](http://arxiv.org/abs/2509.17593)|null|
 |**2025-09-22**|**An Empirical Study on the Robustness of YOLO Models for Underwater Object Detection**|Edwine Nabahirwa et.al.|[2509.17561](http://arxiv.org/abs/2509.17561)|null|
-|**2025-09-22**|**MAESTRO: Task-Relevant Optimization via Adaptive Feature Enhancement and Suppression for Multi-task 3D Perception**|Changwon Kang et.al.|[2509.17462](http://arxiv.org/abs/2509.17462)|null|
+|**2025-09-22**|**MAESTRO: Task-Relevant Optimization via Adaptive Feature Enhancement and Suppression for Multi-task 3D Perception**|Changwon Kang et.al.|[2509.17462](http://arxiv.org/abs/2509.17462)|**[link](https://github.com/rkdckddnjs9/MAESTRO)**|
 |**2025-09-22**|**Real-Time Fish Detection in Indonesian Marine Ecosystems Using Lightweight YOLOv10-nano Architecture**|Jonathan Wuntu et.al.|[2509.17406](http://arxiv.org/abs/2509.17406)|null|
-|**2025-09-22**|**DepTR-MOT: Unveiling the Potential of Depth-Informed Trajectory Refinement for Multi-Object Tracking**|Buyin Deng et.al.|[2509.17323](http://arxiv.org/abs/2509.17323)|null|
+|**2025-09-22**|**DepTR-MOT: Unveiling the Potential of Depth-Informed Trajectory Refinement for Multi-Object Tracking**|Buyin Deng et.al.|[2509.17323](http://arxiv.org/abs/2509.17323)|**[link](https://github.com/warriordby/DepTR-MOT)**|
 |**2025-09-21**|**CoBEVMoE: Heterogeneity-aware Feature Fusion with Dynamic Mixture-of-Experts for Collaborative Perception**|Lingzhao Kong et.al.|[2509.17107](http://arxiv.org/abs/2509.17107)|null|
 |**2025-09-21**|**LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection**|Wei Liao et.al.|[2509.16970](http://arxiv.org/abs/2509.16970)|null|
-|**2025-09-21**|**MO R-CNN: Multispectral Oriented R-CNN for Object Detection in Remote Sensing Image**|Leiyu Wang et.al.|[2509.16957](http://arxiv.org/abs/2509.16957)|null|
+|**2025-09-21**|**MO R-CNN: Multispectral Oriented R-CNN for Object Detection in Remote Sensing Image**|Leiyu Wang et.al.|[2509.16957](http://arxiv.org/abs/2509.16957)|**[link](https://github.com/Iwill-github/MORCNN)**|
 |**2025-09-20**|**Improve bounding box in Carla Simulator**|Mohamad Mofeed Chaar et.al.|[2509.16773](http://arxiv.org/abs/2509.16773)|null|
 |**2025-09-20**|**Speech-to-See: End-to-End Speech-Driven Open-Set Object Detection**|Wenhuan Lu et.al.|[2509.16670](http://arxiv.org/abs/2509.16670)|null|
 |**2025-09-20**|**SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving**|Haiming Zhang et.al.|[2509.16588](http://arxiv.org/abs/2509.16588)|null|
@@ -1792,7 +1792,7 @@ layout: default
 |**2025-06-27**|**Detection of Personal Data in Structured Datasets Using a Large Language Model**|Albert Agisha Ntwali et.al.|[2506.22305](http://arxiv.org/abs/2506.22305)|null|
 |**2025-06-27**|**Signatures of rigidity and second sound in dipolar supersolids**|G. A. Bougas et.al.|[2506.22290](http://arxiv.org/abs/2506.22290)|null|
 |**2025-06-27**|**Daemonic ergotropy of Gaussian quantum states and the role of measurement-induced purification via general-dyne detection**|K. H. Kua et.al.|[2506.22288](http://arxiv.org/abs/2506.22288)|null|
-|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
+|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|**[link](https://github.com/PLAN-Lab/mTSBench)**|
 |**2025-06-26**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al.|[2506.21549](http://arxiv.org/abs/2506.21549)|null|
 |**2025-06-26**|**Natal kick by early-asymmetrical pairs of jets to the neutron star of supernova remnant S147**|Dmitry Shishkin et.al.|[2506.21548](http://arxiv.org/abs/2506.21548)|null|
 |**2025-06-26**|**Detecting weighted hidden cliques**|Urmisha Chatterjee et.al.|[2506.21543](http://arxiv.org/abs/2506.21543)|null|
