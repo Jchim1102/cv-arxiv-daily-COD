@@ -1136,7 +1136,7 @@
 |**2025-09-23**|**LCMF: Lightweight Cross-Modality Mambaformer for Embodied Robotics VQA**|Zeyi Kang et.al.|[2509.18576](http://arxiv.org/abs/2509.18576)|null|
 |**2025-09-22**|**HuMam: Humanoid Motion Control via End-to-End Deep Reinforcement Learning with Mamba**|Yinuo Wang et.al.|[2509.18046](http://arxiv.org/abs/2509.18046)|null|
 |**2025-09-22**|**M3ET: Efficient Vision-Language Learning for Robotics based on Multimodal Mamba-Enhanced Transformer**|Yanxin Zhang et.al.|[2509.18005](http://arxiv.org/abs/2509.18005)|null|
-|**2025-09-22**|**Does Audio Matter for Modern Video-LLMs and Their Benchmarks?**|Geewook Kim et.al.|[2509.17901](http://arxiv.org/abs/2509.17901)|null|
+|**2025-09-22**|**Does Audio Matter for Modern Video-LLMs and Their Benchmarks?**|Geewook Kim et.al.|[2509.17901](http://arxiv.org/abs/2509.17901)|**[link](https://github.com/naver-ai/LLaVA-AV-SSM)**|
 |**2025-09-22**|**DA-Mamba: Dialogue-aware selective state-space model for multimodal engagement estimation**|Shenwei Kang et.al.|[2509.17711](http://arxiv.org/abs/2509.17711)|null|
 |**2025-09-22**|**SISMA: Semantic Face Image Synthesis with Mamba**|Filippo Botti et.al.|[2509.17651](http://arxiv.org/abs/2509.17651)|null|
 |**2025-09-22**|**Achilles' Heel of Mamba: Essential difficulties of the Mamba architecture demonstrated by synthetic data**|Tianyi Chen et.al.|[2509.17514](http://arxiv.org/abs/2509.17514)|null|

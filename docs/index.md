@@ -569,9 +569,9 @@ layout: default
 |**2024-12-23**|**VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling**|Yunkang Cao et.al.|[2412.17263](http://arxiv.org/abs/2412.17263)|**[link](https://github.com/caoyunkang/VarAD)**|
 |**2024-12-22**|**Temporal-Frequency State Space Duality: An Efficient Paradigm for Speech Emotion Recognition**|Jiaqi Zhao et.al.|[2412.16904](http://arxiv.org/abs/2412.16904)|null|
 |**2024-12-21**|**ViM-Disparity: Bridging the Gap of Speed, Accuracy and Memory for Disparity Map Generation**|Maheswar Bora et.al.|[2412.16745](http://arxiv.org/abs/2412.16745)|**[link](https://github.com/mbora/vim-disparity)**|
-|**2024-12-21**|**Large Language Models Compression via Low-Rank Feature Distillation**|Yaya Sy et.al.|[2412.16719](http://arxiv.org/abs/2412.16719)|null|
+|**2024-12-21**|**Large Language Models Compression via Low-Rank Feature Distillation**|Yaya Sy et.al.|[2412.16719](http://arxiv.org/abs/2412.16719)|**[link](https://github.com/yaya-sy/lillama)**|
 |**2024-12-21**|**From Pixels to Gigapixels: Bridging Local Inductive Bias and Long-Range Dependencies with Pixel-Mamba**|Zhongwei Qiu et.al.|[2412.16711](http://arxiv.org/abs/2412.16711)|null|
-|**2024-12-21**|**Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement**|Junyu Wang et.al.|[2412.16626](http://arxiv.org/abs/2412.16626)|null|
+|**2024-12-21**|**Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement**|Junyu Wang et.al.|[2412.16626](http://arxiv.org/abs/2412.16626)|**[link](https://github.com/MyParadise21/Mamba-SEUNet)**|
 
 ## SLAM
 
@@ -1059,13 +1059,13 @@ layout: default
 |**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901](http://arxiv.org/abs/2504.08901)|null|
 |**2025-04-11**|**Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**|Joshua Fixelle et.al.|[2504.08710](http://arxiv.org/abs/2504.08710)|null|
 |**2024-12-24**|**ERVD: An Efficient and Robust ViT-Based Distillation Framework for Remote Sensing Image Retrieval**|Le Dong et.al.|[2412.18136](http://arxiv.org/abs/2412.18136)|**[link](https://github.com/milkyfun0/ERVD)**|
-|**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|null|
+|**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|**[link](https://github.com/yejy53/CVG-Text)**|
 |**2024-12-22**|**Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**|Shenghai Yuan et.al.|[2412.16880](http://arxiv.org/abs/2412.16880)|null|
 |**2024-12-24**|**Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**|Daichi Yashima et.al.|[2412.16576](http://arxiv.org/abs/2412.16576)|**[link](https://github.com/keio-smilab24/relax-former)**|
 |**2024-12-20**|**A New Method to Capturing Compositional Knowledge in Linguistic Space**|Jiahe Wan et.al.|[2412.15632](http://arxiv.org/abs/2412.15632)|null|
 |**2024-12-20**|**Stabilizing Laplacian Inversion in Fokker-Planck Image Retrieval using the Transport-of-Intensity Equation**|Samantha J Alloo et.al.|[2412.15513](http://arxiv.org/abs/2412.15513)|null|
 |**2024-12-19**|**Learning Visual Composition through Improved Semantic Guidance**|Austin Stone et.al.|[2412.15396](http://arxiv.org/abs/2412.15396)|null|
-|**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475](http://arxiv.org/abs/2412.14475)|null|
+|**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475](http://arxiv.org/abs/2412.14475)|**[link](https://github.com/VectorSpaceLab/MegaPairs)**|
 |**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113](http://arxiv.org/abs/2412.14113)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
 |**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834](http://arxiv.org/abs/2412.13834)|null|
 
@@ -2593,8 +2593,8 @@ layout: default
 |**2025-09-25**|**Finding 3D Positions of Distant Objects from Noisy Camera Movement and Semantic Segmentation Sequences**|Julius Pesonen et.al.|[2509.20906](http://arxiv.org/abs/2509.20906)|null|
 |**2025-09-25**|**FSMODNet: A Closer Look at Few-Shot Detection in Multispectral Data**|Manuel Nkegoum et.al.|[2509.20905](http://arxiv.org/abs/2509.20905)|null|
 |**2025-09-25**|**Punching Above Precision: Small Quantized Model Distillation with Learnable Regularizer**|Abdur Rehman et.al.|[2509.20854](http://arxiv.org/abs/2509.20854)|null|
-|**2025-09-26**|**Real-Time Object Detection Meets DINOv3**|Shihua Huang et.al.|[2509.20787](http://arxiv.org/abs/2509.20787)|null|
-|**2025-09-26**|**Neptune-X: Active X-to-Maritime Generation for Universal Maritime Object Detection**|Yu Guo et.al.|[2509.20745](http://arxiv.org/abs/2509.20745)|null|
+|**2025-09-26**|**Real-Time Object Detection Meets DINOv3**|Shihua Huang et.al.|[2509.20787](http://arxiv.org/abs/2509.20787)|**[link](https://github.com/Intellindust-AI-Lab/DEIMv2)**|
+|**2025-09-26**|**Neptune-X: Active X-to-Maritime Generation for Universal Maritime Object Detection**|Yu Guo et.al.|[2509.20745](http://arxiv.org/abs/2509.20745)|**[link](https://github.com/gy65896/Neptune-X)**|
 |**2025-09-25**|**Building Information Models to Robot-Ready Site Digital Twins (BIM2RDT): An Agentic AI Safety-First Framework**|Reza Akhavian et.al.|[2509.20705](http://arxiv.org/abs/2509.20705)|null|
 |**2025-09-24**|**Technical Memo: The impact of Nancy Grace Roman Telescope's default image processing on the detectability of moving Solar system objects**|Joseph Masiero et.al.|[2509.20469](http://arxiv.org/abs/2509.20469)|null|
 |**2025-09-29**|**Video models are zero-shot learners and reasoners**|Thaddäus Wiedemer et.al.|[2509.20328](http://arxiv.org/abs/2509.20328)|null|
