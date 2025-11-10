@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.09
+## Updated on 2025.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -42,12 +42,12 @@
 |**2025-05-30**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859](http://arxiv.org/abs/2502.13859)|null|
 |**2025-01-19**|**Green Video Camouflaged Object Detection**|Xinyu Wang et.al.|[2501.10914](http://arxiv.org/abs/2501.10914)|null|
 |**2025-05-10**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653](http://arxiv.org/abs/2409.18653)|null|
-|**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|null|
+|**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|**[link](https://github.com/SpiderNitt/SAM-PM)**|
 |**2025-04-28**|**Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2403.01968](http://arxiv.org/abs/2403.01968)|null|
 |**2024-02-01**|**TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection**|Zifan Yu et.al.|[2311.02535](http://arxiv.org/abs/2311.02535)|null|
 |**2022-03-15**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363](http://arxiv.org/abs/2203.07363)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Camouflaged Object Detection
 
@@ -118,7 +118,7 @@
 |**2024-08-15**|**CamoTeacher: Dual-Rotation Consistency Learning for Semi-Supervised Camouflaged Object Detection**|Xunfa Lai et.al.|[2408.08050](http://arxiv.org/abs/2408.08050)|null|
 |**2024-08-12**|**Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes**|Ke Zhou et.al.|[2408.05936](http://arxiv.org/abs/2408.05936)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Salient Object Detection
 
@@ -184,7 +184,7 @@
 |**2025-04-17**|**Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.03728](http://arxiv.org/abs/2411.03728)|null|
 |**2024-10-31**|**Localization, balance and affinity: a stronger multifaceted collaborative salient object detector in remote sensing images**|Yakun Xie et.al.|[2410.23991](http://arxiv.org/abs/2410.23991)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Object Detection
 
@@ -218,7 +218,7 @@
 |**2025-10-30**|**Improving Classification of Occluded Objects through Scene Context**|Courtney M. King et.al.|[2510.26681](http://arxiv.org/abs/2510.26681)|null|
 |**2025-10-30**|**All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles**|Sayed Pedram Haeri Boroujeni et.al.|[2510.26641](http://arxiv.org/abs/2510.26641)|null|
 |**2025-10-30**|**PT-DETR: Small Target Detection Based on Partially-Aware Detail Focus**|Bingcong Huo et.al.|[2510.26630](http://arxiv.org/abs/2510.26630)|null|
-|**2025-10-30**|**Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras**|Christoffer Koo Øhrstrøm et.al.|[2510.26614](http://arxiv.org/abs/2510.26614)|null|
+|**2025-10-30**|**Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras**|Christoffer Koo Øhrstrøm et.al.|[2510.26614](http://arxiv.org/abs/2510.26614)|**[link](https://github.com/DTU-PAS/spiking-patches)**|
 |**2025-10-30**|**Detecting Unauthorized Vehicles using Deep Learning for Smart Cities: A Case Study on Bangladesh**|Sudipto Das Sukanto et.al.|[2510.26154](http://arxiv.org/abs/2510.26154)|null|
 |**2025-10-29**|**Enhancing Underwater Object Detection through Spatio-Temporal Analysis and Spatial Attention Networks**|Sai Likhith Karri et.al.|[2510.25797](http://arxiv.org/abs/2510.25797)|null|
 |**2025-10-29**|**Prototype-Driven Adaptation for Few-Shot Object Detection**|Yushen Huang et.al.|[2510.25318](http://arxiv.org/abs/2510.25318)|null|
@@ -243,7 +243,7 @@
 |**2025-10-24**|**On Thin Ice: Towards Explainable Conservation Monitoring via Attribution and Perturbations**|Jiayi Zhou et.al.|[2510.21689](http://arxiv.org/abs/2510.21689)|null|
 |**2025-10-24**|**S3OD: Towards Generalizable Salient Object Detection with Synthetic Data**|Orest Kupyn et.al.|[2510.21605](http://arxiv.org/abs/2510.21605)|null|
 |**2025-10-30**|**Scalpel: Automotive Deep Learning Framework Testing via Assembling Model Components**|Yinglong Zou et.al.|[2510.21451](http://arxiv.org/abs/2510.21451)|null|
-|**2025-10-24**|**Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks**|Jieyuan Zhang et.al.|[2510.21403](http://arxiv.org/abs/2510.21403)|null|
+|**2025-10-24**|**Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks**|Jieyuan Zhang et.al.|[2510.21403](http://arxiv.org/abs/2510.21403)|**[link](https://github.com/EricZhang1412/Spatial-temporal-ERF)**|
 |**2025-10-27**|**WhaleVAD-BPN: Improving Baleen Whale Call Detection with Boundary Proposal Networks and Post-processing Optimisation**|Christiaan M. Geldenhuys et.al.|[2510.21280](http://arxiv.org/abs/2510.21280)|null|
 |**2025-10-23**|**BioDet: Boosting Industrial Object Detection with Image Preprocessing Strategies**|Jiaqi Hu et.al.|[2510.21000](http://arxiv.org/abs/2510.21000)|null|
 |**2025-10-23**|**Synthetic Data for Robust Runway Detection**|Estelle Chigot et.al.|[2510.20349](http://arxiv.org/abs/2510.20349)|null|
@@ -383,7 +383,7 @@
 |**2025-09-25**|**Building Information Models to Robot-Ready Site Digital Twins (BIM2RDT): An Agentic AI Safety-First Framework**|Reza Akhavian et.al.|[2509.20705](http://arxiv.org/abs/2509.20705)|null|
 |**2025-09-24**|**Technical Memo: The impact of Nancy Grace Roman Telescope's default image processing on the detectability of moving Solar system objects**|Joseph Masiero et.al.|[2509.20469](http://arxiv.org/abs/2509.20469)|null|
 |**2025-09-29**|**Video models are zero-shot learners and reasoners**|Thaddäus Wiedemer et.al.|[2509.20328](http://arxiv.org/abs/2509.20328)|null|
-|**2025-09-24**|**Table Detection with Active Learning**|Somraj Gautam et.al.|[2509.20003](http://arxiv.org/abs/2509.20003)|null|
+|**2025-09-24**|**Table Detection with Active Learning**|Somraj Gautam et.al.|[2509.20003](http://arxiv.org/abs/2509.20003)|**[link](https://github.com/swati1024/torrents)**|
 |**2025-09-24**|**SDE-DET: A Precision Network for Shatian Pomelo Detection in Complex Orchard Environments**|Yihao Hu et.al.|[2509.19990](http://arxiv.org/abs/2509.19990)|null|
 |**2025-09-24**|**Interactive Semantic Segmentation for Phosphene Vision Neuroprosthetics**|Eleftherios Papadopoulos et.al.|[2509.19957](http://arxiv.org/abs/2509.19957)|null|
 |**2025-09-24**|**Adaptive Guidance Semantically Enhanced via Multimodal LLM for Edge-Cloud Object Detection**|Yunqing Hu et.al.|[2509.19875](http://arxiv.org/abs/2509.19875)|null|
@@ -450,7 +450,7 @@
 |**2025-09-11**|**WAVE-DETR Multi-Modal Visible and Acoustic Real-Life Drone Detector**|Razvan Stefanescu et.al.|[2509.09859](http://arxiv.org/abs/2509.09859)|null|
 |**2025-09-11**|**A Co-Training Semi-Supervised Framework Using Faster R-CNN and YOLO Networks for Object Detection in Densely Packed Retail Images**|Hossein Yazdanjouei et.al.|[2509.09750](http://arxiv.org/abs/2509.09750)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## SAM
 
@@ -500,7 +500,7 @@
 |**2025-10-25**|**Two $t$ -analogues of the tree inversion enumerator**|Sam Hopkins et.al.|[2510.22385](http://arxiv.org/abs/2510.22385)|null|
 |**2025-10-24**|**RSK via local transformations**|Sam Hopkins et.al.|[2510.22082](http://arxiv.org/abs/2510.22082)|null|
 |**2025-10-20**|**Morphology-Aware KOA Classification: Integrating Graph Priors with Vision Models**|Marouane Tliba et.al.|[2510.21801](http://arxiv.org/abs/2510.21801)|null|
-|**2025-10-18**|**Promptable Fire Segmentation: Unleashing SAM2's Potential for Real-Time Mobile Deployment with Strategic Bounding Box Guidance**|Emmanuel U. Ugwu et.al.|[2510.21782](http://arxiv.org/abs/2510.21782)|null|
+|**2025-10-18**|**Promptable Fire Segmentation: Unleashing SAM2's Potential for Real-Time Mobile Deployment with Strategic Bounding Box Guidance**|Emmanuel U. Ugwu et.al.|[2510.21782](http://arxiv.org/abs/2510.21782)|**[link](https://github.com/UEmmanuel5/ProFSAM)**|
 |**2025-10-24**|**To Survive or to Shatter: The Impact of Cosmic Rays on the Fate of Stripped Cold Clouds**|Manami Roy et.al.|[2510.21699](http://arxiv.org/abs/2510.21699)|null|
 |**2025-10-24**|**Why Registration Quality Matters: Enhancing sCT Synthesis with IMPACT-Based Registration**|Valentin Boussot et.al.|[2510.21358](http://arxiv.org/abs/2510.21358)|null|
 |**2025-10-23**|**BioDet: Boosting Industrial Object Detection with Image Preprocessing Strategies**|Jiaqi Hu et.al.|[2510.21000](http://arxiv.org/abs/2510.21000)|null|
@@ -605,7 +605,7 @@
 |**2025-09-26**|**KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields**|Yu Li et.al.|[2509.21750](http://arxiv.org/abs/2509.21750)|null|
 |**2025-09-25**|**The Morita $(\infty,2)$-category of a monoidal category as a $2$ -complicial set**|Arghan Dutta et.al.|[2509.21472](http://arxiv.org/abs/2509.21472)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Point Track
 
@@ -660,7 +660,7 @@
 |**2025-06-09**|**DragNeXt: Rethinking Drag-Based Image Editing**|Yuan Zhou et.al.|[2506.07611](http://arxiv.org/abs/2506.07611)|null|
 |**2025-08-01**|**AllTracker: Efficient Dense Point Tracking at High Resolution**|Adam W. Harley et.al.|[2506.07310](http://arxiv.org/abs/2506.07310)|null|
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150](http://arxiv.org/abs/2506.03150)|null|
-|**2025-07-10**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933](http://arxiv.org/abs/2506.01933)|null|
+|**2025-07-10**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933](http://arxiv.org/abs/2506.01933)|**[link](https://github.com/VITA-Group/E3D-Bench)**|
 |**2025-06-02**|**UMA: Ultra-detailed Human Avatars via Multi-level Surface Alignment**|Heming Zhu et.al.|[2506.01802](http://arxiv.org/abs/2506.01802)|null|
 |**2025-05-20**|**DragLoRA: Online Optimization of LoRA Adapters for Drag-based Image Editing in Diffusion Model**|Siwei Xia et.al.|[2505.12427](http://arxiv.org/abs/2505.12427)|null|
 |**2025-05-09**|**Hyperbolic and Elliptic Points Tracking Algorithm (HEPTA) in two-dimensional non-stationary velocity fields defined on a discrete grid**|A. A. Udalov et.al.|[2505.05975](http://arxiv.org/abs/2505.05975)|null|
@@ -677,7 +677,7 @@
 |**2025-08-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692](http://arxiv.org/abs/2504.05692)|null|
 |**2025-03-31**|**Point Tracking in Surgery--The 2024 Surgical Tattoos in Infrared (STIR) Challenge**|Adam Schmidt et.al.|[2503.24306](http://arxiv.org/abs/2503.24306)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Object Dection and Track
 
@@ -745,7 +745,7 @@
 |**2025-10-24**|**S3OD: Towards Generalizable Salient Object Detection with Synthetic Data**|Orest Kupyn et.al.|[2510.21605](http://arxiv.org/abs/2510.21605)|null|
 |**2025-10-24**|**GRAP-MOT: Unsupervised Graph-based Position Weighted Person Multi-camera Multi-object Tracking in a Highly Congested Space**|Marek Socha et.al.|[2510.21482](http://arxiv.org/abs/2510.21482)|null|
 |**2025-10-30**|**Scalpel: Automotive Deep Learning Framework Testing via Assembling Model Components**|Yinglong Zou et.al.|[2510.21451](http://arxiv.org/abs/2510.21451)|null|
-|**2025-10-24**|**Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks**|Jieyuan Zhang et.al.|[2510.21403](http://arxiv.org/abs/2510.21403)|null|
+|**2025-10-24**|**Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks**|Jieyuan Zhang et.al.|[2510.21403](http://arxiv.org/abs/2510.21403)|**[link](https://github.com/EricZhang1412/Spatial-temporal-ERF)**|
 |**2025-10-27**|**WhaleVAD-BPN: Improving Baleen Whale Call Detection with Boundary Proposal Networks and Post-processing Optimisation**|Christiaan M. Geldenhuys et.al.|[2510.21280](http://arxiv.org/abs/2510.21280)|null|
 |**2025-10-23**|**BioDet: Boosting Industrial Object Detection with Image Preprocessing Strategies**|Jiaqi Hu et.al.|[2510.21000](http://arxiv.org/abs/2510.21000)|null|
 |**2025-10-23**|**Video Prediction of Dynamic Physical Simulations With Pixel-Space Spatiotemporal Transformers**|Dean L Slack et.al.|[2510.20807](http://arxiv.org/abs/2510.20807)|null|
@@ -834,7 +834,7 @@
 |**2025-10-09**|**Re-Identifying Kākā with AI-Automated Video Key Frame Extraction**|Paula Maddigan et.al.|[2510.08775](http://arxiv.org/abs/2510.08775)|null|
 |**2025-10-03**|**Beyond CNNs: Efficient Fine-Tuning of Multi-Modal LLMs for Object Detection on Low-Data Regimes**|Nirmal Elamon et.al.|[2510.08589](http://arxiv.org/abs/2510.08589)|null|
 |**2025-10-10**|**A Multimodal Depth-Aware Method For Embodied Reference Understanding**|Fevziye Irem Eyiokur et.al.|[2510.08278](http://arxiv.org/abs/2510.08278)|null|
-|**2025-10-09**|**RayFusion: Ray Fusion Enhanced Collaborative Visual Perception**|Shaohong Wang et.al.|[2510.08017](http://arxiv.org/abs/2510.08017)|null|
+|**2025-10-09**|**RayFusion: Ray Fusion Enhanced Collaborative Visual Perception**|Shaohong Wang et.al.|[2510.08017](http://arxiv.org/abs/2510.08017)|**[link](https://github.com/wangsh0111/RayFusion)**|
 |**2025-10-10**|**Robust Measurement of Stellar Streams Around the Milky Way: Correcting Spatially Variable Observational Selection Effects in Optical Imaging Surveys**|K. Boone et.al.|[2510.07511](http://arxiv.org/abs/2510.07511)|null|
 |**2025-10-08**|**A million-solar-mass object detected at cosmological distance using gravitational imaging**|D. M. Powell et.al.|[2510.07382](http://arxiv.org/abs/2510.07382)|null|
 |**2025-10-08**|**Inconsistent Affective Reaction: Sentiment of Perception and Opinion in Urban Environments**|Jingfei Huang et.al.|[2510.07359](http://arxiv.org/abs/2510.07359)|null|
@@ -992,7 +992,7 @@
 |**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|null|
 |**2025-05-15**|**Arbitrarily Small Execution-Time Certificate: What was Missed in Analog Optimization**|Liang Wu et.al.|[2505.10366](http://arxiv.org/abs/2505.10366)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Optical Flow
 
@@ -1126,7 +1126,7 @@
 |**2024-12-16**|**Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising**|Zikang Chen et.al.|[2412.11820](http://arxiv.org/abs/2412.11820)|**[link](https://github.com/zkccz/stbn)**|
 |**2024-12-16**|**Exploring More from Multiple Gait Modalities for Human Identification**|Dongyang Jin et.al.|[2412.11495](http://arxiv.org/abs/2412.11495)|**[link](https://github.com/shiqiyu/opengait)**|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Mamba
 
@@ -1214,11 +1214,11 @@
 |**2025-09-29**|**Machine Learning Algorithms for Improving Black Box Optimization Solvers**|Morteza Kimiaei et.al.|[2509.25592](http://arxiv.org/abs/2509.25592)|null|
 |**2025-09-29**|**An Enhanced Pyramid Feature Network Based on Long-Range Dependencies for Multi-Organ Medical Image Segmentation**|Dayu Tan et.al.|[2509.24358](http://arxiv.org/abs/2509.24358)|null|
 |**2025-09-29**|**Wavelet-Assisted Mamba for Satellite-Derived Sea Surface Temperature Super-Resolution**|Wankun Chen et.al.|[2509.24334](http://arxiv.org/abs/2509.24334)|null|
-|**2025-09-29**|**Similarity-Aware Selective State-Space Modeling for Semantic Correspondence**|Seungwook Kim et.al.|[2509.24318](http://arxiv.org/abs/2509.24318)|null|
-|**2025-09-28**|**HyMaTE: A Hybrid Mamba and Transformer Model for EHR Representation Learning**|Md Mozaharul Mottalib et.al.|[2509.24118](http://arxiv.org/abs/2509.24118)|null|
+|**2025-09-29**|**Similarity-Aware Selective State-Space Modeling for Semantic Correspondence**|Seungwook Kim et.al.|[2509.24318](http://arxiv.org/abs/2509.24318)|**[link](https://github.com/wookiekim/MambaMatcher)**|
+|**2025-09-28**|**HyMaTE: A Hybrid Mamba and Transformer Model for EHR Representation Learning**|Md Mozaharul Mottalib et.al.|[2509.24118](http://arxiv.org/abs/2509.24118)|**[link](https://github.com/mmmdip/HyMaTE)**|
 |**2025-09-28**|**Hazy Pedestrian Trajectory Prediction via Physical Priors and Graph-Mamba**|Jian Chen et.al.|[2509.24020](http://arxiv.org/abs/2509.24020)|null|
 |**2025-09-28**|**Trained Mamba Emulates Online Gradient Descent in In-Context Linear Regression**|Jiarui Jiang et.al.|[2509.23779](http://arxiv.org/abs/2509.23779)|null|
-|**2025-10-04**|**EfficientMIL: Efficient Linear-Complexity MIL Method for WSI Classification**|Chengying She et.al.|[2509.23640](http://arxiv.org/abs/2509.23640)|null|
+|**2025-10-04**|**EfficientMIL: Efficient Linear-Complexity MIL Method for WSI Classification**|Chengying She et.al.|[2509.23640](http://arxiv.org/abs/2509.23640)|**[link](https://github.com/chengyingshe/EfficientMIL)**|
 |**2025-09-28**|**VAMamba: An Efficient Visual Adaptive Mamba for Image Restoration**|Han Hu et.al.|[2509.23601](http://arxiv.org/abs/2509.23601)|null|
 |**2025-09-27**|**Balanced Diffusion-Guided Fusion for Multimodal Remote Sensing Classification**|Hao Liu et.al.|[2509.23310](http://arxiv.org/abs/2509.23310)|null|
 |**2025-09-26**|**Multimodal Slice Interaction Network Enhanced by Transfer Learning for Precise Segmentation of Internal Gross Tumor Volume in Lung Cancer PET/CT Imaging**|Yi Luo et.al.|[2509.22841](http://arxiv.org/abs/2509.22841)|null|
@@ -1318,7 +1318,7 @@
 |**2024-12-21**|**From Pixels to Gigapixels: Bridging Local Inductive Bias and Long-Range Dependencies with Pixel-Mamba**|Zhongwei Qiu et.al.|[2412.16711](http://arxiv.org/abs/2412.16711)|null|
 |**2024-12-21**|**Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement**|Junyu Wang et.al.|[2412.16626](http://arxiv.org/abs/2412.16626)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## SLAM
 
@@ -1406,7 +1406,7 @@
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
 |**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176](http://arxiv.org/abs/2412.13176)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## SFM
 
@@ -1507,7 +1507,7 @@
 |**2024-12-06**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463](http://arxiv.org/abs/2412.04463)|null|
 |**2024-12-03**|**ASANet: Asymmetric Semantic Aligning Network for RGB and SAR image land cover classification**|Pan Zhang et.al.|[2412.02044](http://arxiv.org/abs/2412.02044)|**[link](https://github.com/whu-pzhang/asanet)**|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1649,7 +1649,7 @@
 |**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113](http://arxiv.org/abs/2412.14113)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
 |**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834](http://arxiv.org/abs/2412.13834)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1723,7 +1723,7 @@
 |**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422](http://arxiv.org/abs/2412.01422)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1813,7 +1813,7 @@
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
 |**2024-11-05**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 ## NeRF
 
@@ -1929,7 +1929,7 @@
 |**2024-12-19**|**Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**|Min Wang et.al.|[2412.14547](http://arxiv.org/abs/2412.14547)|null|
 |**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
