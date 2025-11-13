@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.11.11
+## Updated on 2025.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -138,7 +138,7 @@ layout: default
 |**2025-07-01**|**TRACE: Temporally Reliable Anatomically-Conditioned 3D CT Generation with Enhanced Efficiency**|Minye Shao et.al.|[2507.00802](http://arxiv.org/abs/2507.00802)|null|
 |**2025-07-01**|**DIJE: Dense Image Jacobian Estimation for Robust Robotic Self-Recognition and Visual Servoing**|Yasunori Toshimitsu et.al.|[2507.00446](http://arxiv.org/abs/2507.00446)|null|
 |**2025-06-30**|**C3VDv2 -- Colonoscopy 3D video dataset with enhanced realism**|Mayank V. Golhar et.al.|[2506.24074](http://arxiv.org/abs/2506.24074)|null|
-|**2025-07-03**|**PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View**|Longliang Liu et.al.|[2506.23897](http://arxiv.org/abs/2506.23897)|null|
+|**2025-07-04**|**PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View**|Longliang Liu et.al.|[2506.23897](http://arxiv.org/abs/2506.23897)|null|
 |**2025-06-30**|**Proteus-ID: ID-Consistent and Motion-Coherent Video Customization**|Guiyu Zhang et.al.|[2506.23729](http://arxiv.org/abs/2506.23729)|null|
 |**2025-06-29**|**MEMFOF: High-Resolution Training for Memory-Efficient Multi-Frame Optical Flow Estimation**|Vladislav Bargatin et.al.|[2506.23151](http://arxiv.org/abs/2506.23151)|null|
 |**2025-06-26**|**WAFT: Warping-Alone Field Transforms for Optical Flow**|Yihan Wang et.al.|[2506.21526](http://arxiv.org/abs/2506.21526)|null|
@@ -219,6 +219,55 @@ layout: default
 |**2024-12-17**|**GG-SSMs: Graph-Generating State Space Models**|Nikola Zubić et.al.|[2412.12423](http://arxiv.org/abs/2412.12423)|null|
 |**2024-12-16**|**Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising**|Zikang Chen et.al.|[2412.11820](http://arxiv.org/abs/2412.11820)|**[link](https://github.com/zkccz/stbn)**|
 |**2024-12-16**|**Exploring More from Multiple Gait Modalities for Human Identification**|Dongyang Jin et.al.|[2412.11495](http://arxiv.org/abs/2412.11495)|**[link](https://github.com/shiqiyu/opengait)**|
+|**2024-12-10**|**Local Attention Transformers for High-Detail Optical Flow Upsampling**|Alexander Gielisse et.al.|[2412.06439](http://arxiv.org/abs/2412.06439)|null|
+|**2024-11-25**|**Benchmarking the Robustness of Optical Flow Estimation to Corruptions**|Zhonghua Yi et.al.|[2411.14865](http://arxiv.org/abs/2411.14865)|null|
+|**2025-01-14**|**Time-Harmonic Optical Flow with Applications in Elastography**|Oleh Melnyk et.al.|[2405.15507](http://arxiv.org/abs/2405.15507)|null|
+|**2023-12-29**|**FlowDA: Unsupervised Domain Adaptive Framework for Optical Flow Estimation**|Miaojie Feng et.al.|[2312.16995](http://arxiv.org/abs/2312.16995)|null|
+|**2024-05-08**|**Amodal Optical Flow**|Maximilian Luz et.al.|[2311.07761](http://arxiv.org/abs/2311.07761)|null|
+|**2023-11-16**|**ADFactory: An Effective Framework for Generalizing Optical Flow with Nerf**|Han Ling et.al.|[2311.04246](http://arxiv.org/abs/2311.04246)|null|
+|**2023-09-29**|**GAFlow: Incorporating Gaussian Attention into Optical Flow**|Ao Luo et.al.|[2309.16217](http://arxiv.org/abs/2309.16217)|null|
+|**2023-09-14**|**MPI-Flow: Learning Realistic Optical Flow with Multiplane Images**|Yingping Liang et.al.|[2309.06714](http://arxiv.org/abs/2309.06714)|null|
+|**2023-08-04**|**Freespace Optical Flow Modeling for Automated Driving**|Yi Feng et.al.|[2307.15989](http://arxiv.org/abs/2307.15989)|null|
+|**2025-05-14**|**Towards Anytime Optical Flow Estimation with Event Cameras**|Yaozu Ye et.al.|[2307.05033](http://arxiv.org/abs/2307.05033)|null|
+|**2023-08-09**|**SemARFlow: Injecting Semantics into Unsupervised Optical Flow Estimation for Autonomous Driving**|Shuai Yuan et.al.|[2303.06209](http://arxiv.org/abs/2303.06209)|null|
+|**2024-03-20**|**Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting**|Kaidong Zhang et.al.|[2301.10048](http://arxiv.org/abs/2301.10048)|null|
+|**2023-01-12**|**Optical Flow for Autonomous Driving: Applications, Challenges and Improvements**|Shihao Shen et.al.|[2301.04422](http://arxiv.org/abs/2301.04422)|null|
+|**2022-10-31**|**Bootstrapping Human Optical Flow and Pose**|Aritro Roy Arko et.al.|[2210.15121](http://arxiv.org/abs/2210.15121)|**[link](https://github.com/ubc-vision/bootstrapping-human-optical-flow-and-pose)**|
+|**2022-03-15**|**Photovoltaic-ferroelectric materials for the realization of all-optical devices**|A. Makhort et.al.|[2203.06515](http://arxiv.org/abs/2203.06515)|null|
+|**2021-11-17**|**Consistent Semantic Attacks on Optical Flow**|Tom Koren et.al.|[2111.08485](http://arxiv.org/abs/2111.08485)|null|
+|**2021-10-01**|**Sensor-Guided Optical Flow**|Matteo Poggi et.al.|[2109.15321](http://arxiv.org/abs/2109.15321)|null|
+|**2021-07-09**|**NccFlow: Unsupervised Learning of Optical Flow With Non-occlusion from Geometry**|Guangming Wang et.al.|[2107.03610](http://arxiv.org/abs/2107.03610)|null|
+|**2021-05-18**|**PCA Event-Based Optical Flow for Visual Odometry**|Mahmoud Z. Khairallah et.al.|[2105.03760](http://arxiv.org/abs/2105.03760)|null|
+|**2021-05-05**|**Self-Supervised Approach for Facial Movement Based Optical Flow**|Muhannad Alkaddour et.al.|[2105.01256](http://arxiv.org/abs/2105.01256)|null|
+|**2021-04-19**|**OmniFlow: Human Omnidirectional Optical Flow**|Roman Seidel et.al.|[2104.07960](http://arxiv.org/abs/2104.07960)|null|
+|**2022-06-16**|**Towards Understanding Adversarial Robustness of Optical Flow Networks**|Simon Schrodi et.al.|[2103.16255](http://arxiv.org/abs/2103.16255)|null|
+|**2023-06-13**|**GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning**|Haipeng Li et.al.|[2103.13725](http://arxiv.org/abs/2103.13725)|null|
+|**2020-09-15**|**PRAFlow_RVC: Pyramid Recurrent All-Pairs Field Transforms for Optical Flow Estimation in Robust Vision Challenge 2020**|Zhexiong Wan et.al.|[2009.06360](http://arxiv.org/abs/2009.06360)|null|
+|**2020-07-20**|**Two-stream Fusion Model for Dynamic Hand Gesture Recognition using 3D-CNN and 2D-CNN Optical Flow guided Motion Template**|Debajit Sarma et.al.|[2007.08847](http://arxiv.org/abs/2007.08847)|null|
+|**2019-12-18**|**Evolution of Robust High Speed Optical-Flow-Based Landing for Autonomous MAVs**|Kirk Y. W. Scheper et.al.|[1912.07735](http://arxiv.org/abs/1912.07735)|null|
+|**2020-03-18**|**Optical modes of multilayered photonic structure containing nematic layer with abnormal electroconvective rolls**|Vladimir A. Gunyakov et.al.|[1912.00368](http://arxiv.org/abs/1912.00368)|null|
+|**2019-12-20**|**Learning Multi-Human Optical Flow**|Anurag Ranjan et.al.|[1910.11667](http://arxiv.org/abs/1910.11667)|null|
+|**2019-10-23**|**Attacking Optical Flow**|Anurag Ranjan et.al.|[1910.10053](http://arxiv.org/abs/1910.10053)|null|
+|**2019-07-29**|**Unsupervised Learning for Optical Flow Estimation Using Pyramid Convolution LSTM**|Shuosen Guan et.al.|[1907.11628](http://arxiv.org/abs/1907.11628)|null|
+|**2019-06-24**|**Hallucinating Optical Flow Features for Video Classification**|Yongyi Tang et.al.|[1905.11799](http://arxiv.org/abs/1905.11799)|null|
+|**2019-04-22**|**SelFlow: Self-Supervised Learning of Optical Flow**|Pengpeng Liu et.al.|[1904.09117](http://arxiv.org/abs/1904.09117)|null|
+|**2020-05-19**|**Surgical Gesture Recognition with Optical Flow only**|Duygu Sarikaya et.al.|[1904.01143](http://arxiv.org/abs/1904.01143)|null|
+|**2019-05-21**|**DeGraF-Flow: Extending DeGraF Features for accurate and efficient sparse-to-dense optical flow estimation**|Felix Stephenson et.al.|[1901.09971](http://arxiv.org/abs/1901.09971)|null|
+|**2021-09-16**|**Automatic Generation of Dense Non-rigid Optical Flow**|Hoàng-Ân Lê et.al.|[1812.01946](http://arxiv.org/abs/1812.01946)|null|
+|**2020-07-14**|**A torus model for optical flow**|Henry Adams et.al.|[1812.00875](http://arxiv.org/abs/1812.00875)|null|
+|**2018-11-20**|**Optical Flow Dataset and Benchmark for Visual Crowd Analysis**|Gregory Schröder et.al.|[1811.07170](http://arxiv.org/abs/1811.07170)|null|
+|**2018-09-17**|**Using phase instead of optical flow for action recognition**|Omar Hommos et.al.|[1809.03258](http://arxiv.org/abs/1809.03258)|null|
+|**2018-07-24**|**Learning Human Optical Flow**|Anurag Ranjan et.al.|[1806.05666](http://arxiv.org/abs/1806.05666)|null|
+|**2018-03-01**|**4D blood flow mapping using SPIM-microPIV in the developing zebrafish heart**|Vytautas Zickus et.al.|[1802.05646](http://arxiv.org/abs/1802.05646)|null|
+|**2018-06-22**|**Combining Stereo Disparity and Optical Flow for Basic Scene Flow**|René Schuster et.al.|[1801.04720](http://arxiv.org/abs/1801.04720)|null|
+|**2017-12-25**|**On the Integration of Optical Flow and Action Recognition**|Laura Sevilla-Lara et.al.|[1712.08416](http://arxiv.org/abs/1712.08416)|null|
+|**2018-07-10**|**Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition**|Shuyang Sun et.al.|[1711.11152](http://arxiv.org/abs/1711.11152)|**[link](https://github.com/reallongnguyen/Optical-Flow-Guided-Feature)**|
+|**2017-11-29**|**Fast Multi-frame Stereo Scene Flow with Motion Segmentation**|Tatsunori Taniai et.al.|[1707.01307](http://arxiv.org/abs/1707.01307)|null|
+|**2017-05-04**|**Optical Flow in Mostly Rigid Scenes**|Jonas Wulff et.al.|[1705.01352](http://arxiv.org/abs/1705.01352)|null|
+|**2017-07-04**|**Guided Optical Flow Learning**|Yi Zhu et.al.|[1702.02295](http://arxiv.org/abs/1702.02295)|null|
+|**2017-04-10**|**Hybrid Learning of Optical Flow and Next Frame Prediction to Boost Optical Flow in the Wild**|Nima Sedaghat et.al.|[1612.03777](http://arxiv.org/abs/1612.03777)|null|
+|**2018-08-21**|**Bayesian Optical Flow with Uncertainty Quantification**|Jie Sun et.al.|[1611.01230](http://arxiv.org/abs/1611.01230)|null|
+|**2021-06-09**|**Convective regularization for optical flow**|José A. Iglesias et.al.|[1505.04938](http://arxiv.org/abs/1505.04938)|null|
 
 ## Mamba
 
@@ -271,7 +320,7 @@ layout: default
 |**2025-10-17**|**VM-BeautyNet: A Synergistic Ensemble of Vision Transformer and Mamba for Facial Beauty Prediction**|Djamel Eddine Boukhari et.al.|[2510.16220](http://arxiv.org/abs/2510.16220)|null|
 |**2025-10-17**|**Rethinking Efficient Hierarchical Mixing Architecture for Low-light RAW Image Enhancement**|Xianmin Chen et.al.|[2510.15497](http://arxiv.org/abs/2510.15497)|null|
 |**2025-10-16**|**EdgeNavMamba: Mamba Optimized Object Detection for Energy Efficient Edge Devices**|Romina Aalishah et.al.|[2510.14946](http://arxiv.org/abs/2510.14946)|null|
-|**2025-10-20**|**Vision Mamba for Permeability Prediction of Porous Media**|Ali Kashefi et.al.|[2510.14516](http://arxiv.org/abs/2510.14516)|null|
+|**2025-10-21**|**Vision Mamba for Permeability Prediction of Porous Media**|Ali Kashefi et.al.|[2510.14516](http://arxiv.org/abs/2510.14516)|null|
 |**2025-10-28**|**DRBD-Mamba for Robust and Efficient Brain Tumor Segmentation with Analytical Insights**|Danish Ali et.al.|[2510.14383](http://arxiv.org/abs/2510.14383)|null|
 |**2025-10-15**|**Context-Selective State Space Models: Feedback is All You Need**|Riccardo Zattra et.al.|[2510.14027](http://arxiv.org/abs/2510.14027)|null|
 |**2025-10-15**|**End-to-End Multi-Modal Diffusion Mamba**|Chunhao Lu et.al.|[2510.13253](http://arxiv.org/abs/2510.13253)|null|
@@ -281,7 +330,7 @@ layout: default
 |**2025-10-15**|**Mamba Can Learn Low-Dimensional Targets In-Context via Test-Time Feature Learning**|Junsoo Oh et.al.|[2510.12026](http://arxiv.org/abs/2510.12026)|null|
 |**2025-10-13**|**Robust Photoplethysmography Signal Denoising via Mamba Networks**|I Chiu et.al.|[2510.11058](http://arxiv.org/abs/2510.11058)|null|
 |**2025-10-13**|**High-Resolution Spatiotemporal Modeling with Global-Local State Space Models for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2510.11017](http://arxiv.org/abs/2510.11017)|null|
-|**2025-10-16**|**MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition**|Deng Li et.al.|[2510.10478](http://arxiv.org/abs/2510.10478)|null|
+|**2025-10-17**|**MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition**|Deng Li et.al.|[2510.10478](http://arxiv.org/abs/2510.10478)|null|
 |**2025-10-11**|**SaFiRe: Saccade-Fixation Reiteration with Mamba for Referring Image Segmentation**|Zhenjie Mao et.al.|[2510.10160](http://arxiv.org/abs/2510.10160)|null|
 |**2025-10-10**|**CALM: A Causal Analysis Language Model for Tabular Data in Complex Systems with Local Scores, Conditional Independence Tests, and Relation Attributes**|Zhenjiang Fan et.al.|[2510.09846](http://arxiv.org/abs/2510.09846)|null|
 |**2025-10-08**|**Knowledge-Aware Mamba for Joint Change Detection and Classification from MODIS Times Series**|Zhengsen Xu et.al.|[2510.09679](http://arxiv.org/abs/2510.09679)|null|
@@ -334,7 +383,7 @@ layout: default
 |**2025-09-22**|**Does Audio Matter for Modern Video-LLMs and Their Benchmarks?**|Geewook Kim et.al.|[2509.17901](http://arxiv.org/abs/2509.17901)|null|
 |**2025-09-22**|**DA-Mamba: Dialogue-aware selective state-space model for multimodal engagement estimation**|Shenwei Kang et.al.|[2509.17711](http://arxiv.org/abs/2509.17711)|null|
 |**2025-09-22**|**SISMA: Semantic Face Image Synthesis with Mamba**|Filippo Botti et.al.|[2509.17651](http://arxiv.org/abs/2509.17651)|null|
-|**2025-09-22**|**Achilles' Heel of Mamba: Essential difficulties of the Mamba architecture demonstrated by synthetic data**|Tianyi Chen et.al.|[2509.17514](http://arxiv.org/abs/2509.17514)|null|
+|**2025-09-23**|**Achilles' Heel of Mamba: Essential difficulties of the Mamba architecture demonstrated by synthetic data**|Tianyi Chen et.al.|[2509.17514](http://arxiv.org/abs/2509.17514)|null|
 |**2025-09-22**|**Diff-GNSS: Diffusion-based Pseudorange Error Estimation**|Jiaqi Zhu et.al.|[2509.17397](http://arxiv.org/abs/2509.17397)|null|
 |**2025-09-21**|**SynergyNet: Fusing Generative Priors and State-Space Models for Facial Beauty Prediction**|Djamel Eddine Boukhari et.al.|[2509.17172](http://arxiv.org/abs/2509.17172)|null|
 |**2025-09-21**|**ME-Mamba: Multi-Expert Mamba with Efficient Knowledge Capture and Fusion for Multimodal Survival Analysis**|Chengsheng Zhang et.al.|[2509.16900](http://arxiv.org/abs/2509.16900)|null|
@@ -379,6 +428,7 @@ layout: default
 |**2025-08-28**|**Enhancing Mamba Decoder with Bidirectional Interaction in Multi-Task Dense Prediction**|Mang Cao et.al.|[2508.20376](http://arxiv.org/abs/2508.20376)|**[link](https://github.com/mmm-cc/BIM_for_MTL)**|
 |**2025-08-27**|**FusionSort: Enhanced Cluttered Waste Segmentation with Advanced Decoding and Comprehensive Modality Optimization**|Muhammad Ali et.al.|[2508.19798](http://arxiv.org/abs/2508.19798)|null|
 |**2025-08-27**|**High-Speed FHD Full-Color Video Computer-Generated Holography**|Haomiao Zhang et.al.|[2508.19579](http://arxiv.org/abs/2508.19579)|null|
+|**2025-08-14**|**HiFi-Mamba: Dual-Stream W-Laplacian Enhanced Mamba for High-Fidelity MRI Reconstruction**|Hongli Chen et.al.|[2508.09179](http://arxiv.org/abs/2508.09179)|null|
 |**2025-07-22**|**DeSamba: Decoupled Spectral Adaptive Framework for 3D Multi-Sequence MRI Lesion Classification**|Dezhen Wang et.al.|[2507.15487](http://arxiv.org/abs/2507.15487)|null|
 |**2025-07-21**|**Few-Shot Object Detection via Spatial-Channel State Space Model**|Zhimeng Xin et.al.|[2507.15308](http://arxiv.org/abs/2507.15308)|null|
 |**2025-07-21**|**MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction**|Yusuke Yoshiyasu et.al.|[2507.15212](http://arxiv.org/abs/2507.15212)|null|
@@ -398,7 +448,7 @@ layout: default
 |**2025-07-09**|**Spatial-Temporal Graph Mamba for Music-Guided Dance Video Synthesis**|Hao Tang et.al.|[2507.06689](http://arxiv.org/abs/2507.06689)|null|
 |**2025-07-09**|**Exploring State-Space-Model based Language Model in Music Generation**|Wei-Jaw Lee et.al.|[2507.06674](http://arxiv.org/abs/2507.06674)|null|
 |**2025-07-08**|**Mamba Goes HoME: Hierarchical Soft Mixture-of-Experts for 3D Medical Image Segmentation**|Szymon Płotka et.al.|[2507.06363](http://arxiv.org/abs/2507.06363)|null|
-|**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204](http://arxiv.org/abs/2507.06204)|null|
+|**2025-10-30**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204](http://arxiv.org/abs/2507.06204)|null|
 |**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
 |**2025-07-08**|**Non-Intrusive Binaural Speech Intelligibility Prediction Using Mamba for Hearing-Impaired Listeners**|Katsuhiko Yamamoto et.al.|[2507.05729](http://arxiv.org/abs/2507.05729)|null|
 |**2025-07-08**|**MMW: Side Talk Rejection Multi-Microphone Whisper on Smart Glasses**|Yang Liu et.al.|[2507.05609](http://arxiv.org/abs/2507.05609)|null|
@@ -411,21 +461,21 @@ layout: default
 |**2025-07-06**|**MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection**|Hanshi Wang et.al.|[2507.04369](http://arxiv.org/abs/2507.04369)|null|
 |**2025-07-06**|**Long-Context Modeling Networks for Monaural Speech Enhancement: A Comparative Study**|Qiquan Zhang et.al.|[2507.04368](http://arxiv.org/abs/2507.04368)|null|
 |**2025-07-06**|**DMAT: An End-to-End Framework for Joint Atmospheric Turbulence Mitigation and Object Detection**|Paul Hill et.al.|[2507.04323](http://arxiv.org/abs/2507.04323)|null|
-|**2025-07-05**|**MCST-Mamba: Multivariate Mamba-Based Model for Traffic Prediction**|Mohamed Hamad et.al.|[2507.03927](http://arxiv.org/abs/2507.03927)|null|
+|**2025-07-08**|**MCST-Mamba: Multivariate Mamba-Based Model for Traffic Prediction**|Mohamed Hamad et.al.|[2507.03927](http://arxiv.org/abs/2507.03927)|null|
 |**2025-07-04**|**Adaptive Gate-Aware Mamba Networks for Magnetic Resonance Fingerprinting**|Tianyi Ding et.al.|[2507.03369](http://arxiv.org/abs/2507.03369)|null|
 |**2025-07-04**|**Label-Free Long-Horizon 3D UAV Trajectory Prediction via Motion-Aligned RGB and Event Cues**|Hanfang Liang et.al.|[2507.03365](http://arxiv.org/abs/2507.03365)|null|
 |**2025-06-26**|**DKGCM: A Spatio-Temporal Prediction Model for Traffic Flow by Fusing Spatial Node Clustering Method and Fourier Bidirectional Mamba Mechanism**|Siqing Long et.al.|[2507.01982](http://arxiv.org/abs/2507.01982)|null|
-|**2025-07-02**|**TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking**|Bingxi Liu et.al.|[2507.01535](http://arxiv.org/abs/2507.01535)|null|
+|**2025-07-03**|**TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking**|Bingxi Liu et.al.|[2507.01535](http://arxiv.org/abs/2507.01535)|null|
 |**2025-07-02**|**Mamba Guided Boundary Prior Matters: A New Perspective for Generalized Polyp Segmentation**|Tapas K. Dutta et.al.|[2507.01509](http://arxiv.org/abs/2507.01509)|null|
 |**2025-07-02**|**MUG: Pseudo Labeling Augmented Audio-Visual Mamba Network for Audio-Visual Video Parsing**|Langyu Wang et.al.|[2507.01384](http://arxiv.org/abs/2507.01384)|null|
 |**2025-07-02**|**SWinMamba: Serpentine Window State Space Model for Vascular Segmentation**|Rongchang Zhao et.al.|[2507.01323](http://arxiv.org/abs/2507.01323)|null|
 |**2025-07-01**|**MEGA: xLSTM with Multihead Exponential Gated Fusion for Precise Aspect-based Sentiment Analysis**|Adamu Lawan et.al.|[2507.01213](http://arxiv.org/abs/2507.01213)|null|
 |**2025-07-01**|**MambAttention: Mamba with Multi-Head Attention for Generalizable Single-Channel Speech Enhancement**|Nikolai Lund Kühne et.al.|[2507.00966](http://arxiv.org/abs/2507.00966)|null|
-|**2025-07-01**|**UAVD-Mamba: Deformable Token Fusion Vision Mamba for Multimodal UAV Detection**|Wei Li et.al.|[2507.00849](http://arxiv.org/abs/2507.00849)|null|
+|**2025-07-02**|**UAVD-Mamba: Deformable Token Fusion Vision Mamba for Multimodal UAV Detection**|Wei Li et.al.|[2507.00849](http://arxiv.org/abs/2507.00849)|null|
 |**2025-07-01**|**BadViM: Backdoor Attack against Vision Mamba**|Yinghao Wu et.al.|[2507.00577](http://arxiv.org/abs/2507.00577)|null|
 |**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
 |**2025-06-30**|**MamNet: A Novel Hybrid Model for Time-Series Forecasting and Frequency Pattern Analysis in Network Traffic**|Yujun Zhang et.al.|[2507.00304](http://arxiv.org/abs/2507.00304)|null|
-|**2025-06-30**|**Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking**|Shiao Wang et.al.|[2506.23783](http://arxiv.org/abs/2506.23783)|null|
+|**2025-07-01**|**Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking**|Shiao Wang et.al.|[2506.23783](http://arxiv.org/abs/2506.23783)|null|
 |**2025-06-30**|**MDPG: Multi-domain Diffusion Prior Guidance for MRI Reconstruction**|Lingtong Zhang et.al.|[2506.23701](http://arxiv.org/abs/2506.23701)|null|
 |**2025-06-29**|**MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition**|Yuhuan Yang et.al.|[2506.23283](http://arxiv.org/abs/2506.23283)|null|
 |**2025-06-28**|**VSRM: A Robust Mamba-Based Framework for Video Super-Resolution**|Dinh Phu Tran et.al.|[2506.22762](http://arxiv.org/abs/2506.22762)|null|
@@ -570,7 +620,7 @@ layout: default
 |**2025-05-14**|**MrTrack: Register Mamba for Needle Tracking with Rapid Reciprocating Motion during Ultrasound-Guided Aspiration Biopsy**|Yuelin Zhang et.al.|[2505.09450](http://arxiv.org/abs/2505.09450)|null|
 |**2025-05-14**|**Efficient LiDAR Reflectance Compression via Scanning Serialization**|Jiahao Zhu et.al.|[2505.09433](http://arxiv.org/abs/2505.09433)|null|
 |**2025-05-14**|**HMamba: Hyperbolic Mamba for Sequential Recommendation**|Qianru Zhang et.al.|[2505.09205](http://arxiv.org/abs/2505.09205)|null|
-|**2025-05-13**|**Block-Biased Mamba for Long-Range Sequence Processing**|Annan Yu et.al.|[2505.09022](http://arxiv.org/abs/2505.09022)|null|
+|**2025-05-15**|**Block-Biased Mamba for Long-Range Sequence Processing**|Annan Yu et.al.|[2505.09022](http://arxiv.org/abs/2505.09022)|null|
 |**2025-05-13**|**SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models**|Suhan Guo et.al.|[2505.08768](http://arxiv.org/abs/2505.08768)|null|
 |**2025-05-13**|**A Mamba-based Network for Semi-supervised Singing Melody Extraction Using Confidence Binary Regularization**|Xiaoliang He et.al.|[2505.08681](http://arxiv.org/abs/2505.08681)|**[link](https://github.com/tinkle01/spectmamba)**|
 |**2025-05-13**|**ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking**|Haofeng Liu et.al.|[2505.08581](http://arxiv.org/abs/2505.08581)|**[link](https://github.com/jinlab-imvr/resurgsam2)**|
@@ -583,6 +633,13 @@ layout: default
 |**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397](http://arxiv.org/abs/2505.05397)|null|
 |**2025-05-08**|**EDmamba: A Simple yet Effective Event Denoising Method with State Space Model**|Ciyu Ruan et.al.|[2505.05391](http://arxiv.org/abs/2505.05391)|null|
 |**2025-05-08**|**PRE-Mamba: A 4D State Space Model for Ultra-High-Frequent Event Camera Deraining**|Ciyu Ruan et.al.|[2505.05307](http://arxiv.org/abs/2505.05307)|null|
+|**2025-04-25**|**Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation**|Zihan Cheng et.al.|[2504.17515](http://arxiv.org/abs/2504.17515)|null|
+|**2025-04-23**|**HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification**|Hongxing Peng et.al.|[2504.15612](http://arxiv.org/abs/2504.15612)|null|
+|**2025-09-23**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|null|
+|**2025-04-11**|**ms-Mamba: Multi-scale Mamba for Time-Series Forecasting**|Yusuf Meric Karadag et.al.|[2504.07654](http://arxiv.org/abs/2504.07654)|null|
+|**2025-04-08**|**Dynamic Vision Mamba**|Mengxuan Wu et.al.|[2504.04787](http://arxiv.org/abs/2504.04787)|null|
+|**2025-10-07**|**Mamba base PKD for efficient knowledge compression**|José Medina et.al.|[2503.01727](http://arxiv.org/abs/2503.01727)|null|
+|**2025-02-12**|**A Survey on Mamba Architecture for Vision Applications**|Fady Ibrahim et.al.|[2502.07161](http://arxiv.org/abs/2502.07161)|null|
 |**2024-12-24**|**Exploring Graph Mamba: A Comprehensive Survey on State-Space Models for Graph Learning**|Safa Ben Atitallah et.al.|[2412.18322](http://arxiv.org/abs/2412.18322)|null|
 |**2024-12-24**|**U-Mamba-Net: A highly efficient Mamba-based U-net style network for noisy and reverberant speech separation**|Shaoxiang Dang et.al.|[2412.18217](http://arxiv.org/abs/2412.18217)|null|
 |**2024-12-24**|**COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection**|Chang Liu et.al.|[2412.18076](http://arxiv.org/abs/2412.18076)|null|
@@ -592,7 +649,39 @@ layout: default
 |**2024-12-21**|**ViM-Disparity: Bridging the Gap of Speed, Accuracy and Memory for Disparity Map Generation**|Maheswar Bora et.al.|[2412.16745](http://arxiv.org/abs/2412.16745)|**[link](https://github.com/mbora/vim-disparity)**|
 |**2024-12-21**|**Large Language Models Compression via Low-Rank Feature Distillation**|Yaya Sy et.al.|[2412.16719](http://arxiv.org/abs/2412.16719)|**[link](https://github.com/yaya-sy/lillama)**|
 |**2024-12-21**|**From Pixels to Gigapixels: Bridging Local Inductive Bias and Long-Range Dependencies with Pixel-Mamba**|Zhongwei Qiu et.al.|[2412.16711](http://arxiv.org/abs/2412.16711)|null|
-|**2024-12-21**|**Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement**|Junyu Wang et.al.|[2412.16626](http://arxiv.org/abs/2412.16626)|**[link](https://github.com/MyParadise21/Mamba-SEUNet)**|
+|**2025-01-03**|**Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement**|Junyu Wang et.al.|[2412.16626](http://arxiv.org/abs/2412.16626)|null|
+|**2025-03-12**|**Deformable Mamba for Wide Field of View Segmentation**|Jie Hu et.al.|[2411.16481](http://arxiv.org/abs/2411.16481)|null|
+|**2025-04-02**|**MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba**|Masakazu Yoshimura et.al.|[2411.03855](http://arxiv.org/abs/2411.03855)|null|
+|**2024-10-15**|**Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution**|Junbo Qiao et.al.|[2410.10140](http://arxiv.org/abs/2410.10140)|null|
+|**2024-10-11**|**Mamba-based Segmentation Model for Speaker Diarization**|Alexis Plaquet et.al.|[2410.06459](http://arxiv.org/abs/2410.06459)|null|
+|**2024-10-10**|**Falcon Mamba: The First Competitive Attention-free 7B Language Model**|Jingwei Zuo et.al.|[2410.05355](http://arxiv.org/abs/2410.05355)|null|
+|**2025-05-30**|**Exploring the Limitations of Mamba in COPY and CoT Reasoning**|Ruifeng Ren et.al.|[2410.03810](http://arxiv.org/abs/2410.03810)|null|
+|**2024-09-27**|**Mamba for Scalable and Efficient Personalized Recommendations**|Andrew Starnes et.al.|[2409.17165](http://arxiv.org/abs/2409.17165)|null|
+|**2024-08-23**|**Mamba-Spike: Enhancing the Mamba Architecture with a Spiking Front-End for Efficient Temporal Data Processing**|Jiahao Qin et.al.|[2408.11823](http://arxiv.org/abs/2408.11823)|null|
+|**2024-08-23**|**Mamba Retriever: Utilizing Mamba for Effective and Efficient Dense Retrieval**|Hanqi Zhang et.al.|[2408.08066](http://arxiv.org/abs/2408.08066)|null|
+|**2025-06-18**|**A Survey of Mamba**|Haohao Qu et.al.|[2408.01129](http://arxiv.org/abs/2408.01129)|null|
+|**2024-07-23**|**Mamba meets crack segmentation**|Zhili He et.al.|[2407.15714](http://arxiv.org/abs/2407.15714)|null|
+|**2024-07-18**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
+|**2025-06-30**|**Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning**|Xiaojie Li et.al.|[2407.06136](http://arxiv.org/abs/2407.06136)|null|
+|**2024-07-09**|**Mamba Hawkes Process**|Anningzhe Gao et.al.|[2407.05302](http://arxiv.org/abs/2407.05302)|null|
+|**2024-06-27**|**Deep Mamba Multi-modal Learning**|Jian Zhu et.al.|[2406.18007](http://arxiv.org/abs/2406.18007)|null|
+|**2024-06-25**|**Venturing into Uncharted Waters: The Navigation Compass from Transformer to Mamba**|Yuchen Zou et.al.|[2406.16722](http://arxiv.org/abs/2406.16722)|null|
+|**2024-06-12**|**Autoregressive Pretraining with Mamba in Vision**|Sucheng Ren et.al.|[2406.07537](http://arxiv.org/abs/2406.07537)|null|
+|**2024-06-06**|**Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**|Mehmet Hamza Erol et.al.|[2406.03344](http://arxiv.org/abs/2406.03344)|null|
+|**2025-06-02**|**Mamba-R: Vision Mamba ALSO Needs Registers**|Feng Wang et.al.|[2405.14858](http://arxiv.org/abs/2405.14858)|null|
+|**2025-04-29**|**Mamba in Speech: Towards an Alternative to Self-Attention**|Xiangyu Zhang et.al.|[2405.12609](http://arxiv.org/abs/2405.12609)|null|
+|**2024-07-16**|**Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**|Weilian Zhou et.al.|[2405.12003](http://arxiv.org/abs/2405.12003)|null|
+|**2024-05-21**|**MambaOut: Do We Really Need Mamba for Vision?**|Weihao Yu et.al.|[2405.07992](http://arxiv.org/abs/2405.07992)|null|
+|**2024-10-18**|**Decision Mamba Architectures**|André Correia et.al.|[2405.07943](http://arxiv.org/abs/2405.07943)|null|
+|**2024-05-08**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404](http://arxiv.org/abs/2405.04404)|null|
+|**2024-05-01**|**CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation**|Weiquan Huang et.al.|[2404.19394](http://arxiv.org/abs/2404.19394)|null|
+|**2024-11-12**|**Visual Mamba: A Survey and New Outlooks**|Rui Xu et.al.|[2404.18861](http://arxiv.org/abs/2404.18861)|null|
+|**2024-08-02**|**Spectral-Spatial Mamba for Hyperspectral Image Classification**|Lingbo Huang et.al.|[2404.18401](http://arxiv.org/abs/2404.18401)|null|
+|**2024-04-29**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
+|**2024-06-28**|**Bi-Mamba+: Bidirectional Mamba for Time Series Forecasting**|Aobo Liang et.al.|[2404.15772](http://arxiv.org/abs/2404.15772)|null|
+|**2024-08-06**|**Locating and Editing Factual Associations in Mamba**|Arnab Sen Sharma et.al.|[2404.03646](http://arxiv.org/abs/2404.03646)|null|
+|**2024-06-25**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[2403.02148](http://arxiv.org/abs/2403.02148)|null|
+|**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|null|
 
 ## SLAM
 
@@ -603,7 +692,7 @@ layout: default
 |**2025-10-21**|**DeepDetect: Learning All-in-One Dense Keypoints**|Shaharyar Ahmed Khan Tareen et.al.|[2510.17422](http://arxiv.org/abs/2510.17422)|null|
 |**2025-10-14**|**SPORTS: Simultaneous Panoptic Odometry, Rendering, Tracking and Segmentation for Urban Scenes Understanding**|Zhiliu Yang et.al.|[2510.12749](http://arxiv.org/abs/2510.12749)|null|
 |**2025-10-14**|**PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing**|Bingquan Li et.al.|[2510.12346](http://arxiv.org/abs/2510.12346)|null|
-|**2025-10-02**|**Visual Odometry with Transformers**|Vlardimir Yugay et.al.|[2510.03348](http://arxiv.org/abs/2510.03348)|null|
+|**2025-10-07**|**Visual Odometry with Transformers**|Vlardimir Yugay et.al.|[2510.03348](http://arxiv.org/abs/2510.03348)|null|
 |**2025-09-19**|**Omni-LIVO: Robust RGB-Colored Multi-Camera Visual-Inertial-LiDAR Odometry via Photometric Migration and ESIKF Fusion**|Yinong Cao et.al.|[2509.15673](http://arxiv.org/abs/2509.15673)|null|
 |**2025-09-18**|**BEV-ODOM2: Enhanced BEV-based Monocular Visual Odometry with PV-BEV Fusion and Dense Flow Supervision for Ground Robots**|Yufei Wei et.al.|[2509.14636](http://arxiv.org/abs/2509.14636)|null|
 |**2025-09-17**|**UM-Depth : Uncertainty Masked Self-Supervised Monocular Depth Estimation with Visual Odometry**|Tae-Wook Um et.al.|[2509.13713](http://arxiv.org/abs/2509.13713)|null|
@@ -636,7 +725,7 @@ layout: default
 |**2025-07-04**|**Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps**|Chong Cheng et.al.|[2507.03737](http://arxiv.org/abs/2507.03737)|null|
 |**2025-07-01**|**RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles**|David Hunt et.al.|[2507.00937](http://arxiv.org/abs/2507.00937)|null|
 |**2025-07-01**|**Generation of Indoor Open Street Maps for Robot Navigation from CAD Files**|Jiajie Zhang et.al.|[2507.00552](http://arxiv.org/abs/2507.00552)|null|
-|**2025-06-30**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243](http://arxiv.org/abs/2507.00243)|null|
+|**2025-07-02**|**VOCAL: Visual Odometry via ContrAstive Learning**|Chi-Yao Huang et.al.|[2507.00243](http://arxiv.org/abs/2507.00243)|null|
 |**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan et.al.|[2506.23207](http://arxiv.org/abs/2506.23207)|null|
 |**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078](http://arxiv.org/abs/2506.23078)|null|
 |**2025-06-26**|**Adaptive Multipath-Based SLAM for Distributed MIMO Systems**|Xuhong Li et.al.|[2506.21798](http://arxiv.org/abs/2506.21798)|null|
@@ -708,6 +797,7 @@ layout: default
 |**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230](http://arxiv.org/abs/2505.08230)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
+|**2025-10-06**|**Learned IMU Bias Prediction for Invariant Visual Inertial Odometry**|Abdullah Altawaitan et.al.|[2505.06748](http://arxiv.org/abs/2505.06748)|null|
 |**2025-05-07**|**Scalable Aerial GNSS Localization for Marine Robots**|Shuo Wen et.al.|[2505.04095](http://arxiv.org/abs/2505.04095)|**[link](https://github.com/stevvwen/aerial_gnss)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-06**|**AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames**|Yifan Peng et.al.|[2505.03448](http://arxiv.org/abs/2505.03448)|null|
@@ -754,11 +844,61 @@ layout: default
 |**2024-12-18**|**Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation**|Sait Akturk et.al.|[2412.13752](http://arxiv.org/abs/2412.13752)|null|
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
 |**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176](http://arxiv.org/abs/2412.13176)|null|
+|**2024-12-16**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
+|**2024-09-19**|**Online Refractive Camera Model Calibration in Visual Inertial Odometry**|Mohit Singh et.al.|[2409.12074](http://arxiv.org/abs/2409.12074)|null|
+|**2025-09-16**|**Panoramic Direct LiDAR-assisted Visual Odometry**|Qirui Hu et.al.|[2409.09287](http://arxiv.org/abs/2409.09287)|null|
+|**2024-07-26**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
+|**2024-02-09**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254](http://arxiv.org/abs/2402.05254)|null|
+|**2024-05-06**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249](http://arxiv.org/abs/2309.05249)|null|
+|**2025-01-22**|**Transformer-Based Model for Monocular Visual Odometry: A Video Understanding Approach**|André O. Françani et.al.|[2305.06121](http://arxiv.org/abs/2305.06121)|null|
+|**2023-07-11**|**Visual-LiDAR Odometry and Mapping with Monocular Scale Correction and Visual Bootstrapping**|Hanyu Cai et.al.|[2304.08978](http://arxiv.org/abs/2304.08978)|null|
+|**2023-07-26**|**Stereo Event-based Visual-Inertial Odometry**|Kunfeng Wang et.al.|[2303.05086](http://arxiv.org/abs/2303.05086)|null|
+|**2023-02-21**|**EdgeVO: An Efficient and Accurate Edge-based Visual Odometry**|Hui Zhao et.al.|[2302.09493](http://arxiv.org/abs/2302.09493)|null|
+|**2023-01-09**|**Dense Prediction Transformer for Scale Estimation in Monocular Visual Odometry**|André O. Françani et.al.|[2210.01723](http://arxiv.org/abs/2210.01723)|null|
+|**2024-06-28**|**Visual Odometry with Neuromorphic Resonator Networks**|Alpha Renner et.al.|[2209.02000](http://arxiv.org/abs/2209.02000)|null|
+|**2022-09-07**|**Pseudo-LiDAR for Visual Odometry**|Huiying Deng et.al.|[2209.01567](http://arxiv.org/abs/2209.01567)|null|
+|**2023-05-24**|**Deep Patch Visual Odometry**|Zachary Teed et.al.|[2208.04726](http://arxiv.org/abs/2208.04726)|null|
+|**2023-03-28**|**PVO: Panoptic Visual Odometry**|Weicai Ye et.al.|[2207.01610](http://arxiv.org/abs/2207.01610)|null|
+|**2022-03-30**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119](http://arxiv.org/abs/2203.15119)|null|
+|**2021-07-13**|**Feature-based Event Stereo Visual Odometry**|Antea Hadviger et.al.|[2107.04921](http://arxiv.org/abs/2107.04921)|null|
+|**2021-07-08**|**RAM-VO: Less is more in Visual Odometry**|Iury Cleveston et.al.|[2107.02974](http://arxiv.org/abs/2107.02974)|null|
+|**2021-06-09**|**Experimental Comparison of Visual and Single-Receiver GPS Odometry**|Benjamin Congram et.al.|[2106.02122](http://arxiv.org/abs/2106.02122)|null|
+|**2021-04-09**|**An Equivariant Filter for Visual Inertial Odometry**|Pieter van Goor et.al.|[2104.03532](http://arxiv.org/abs/2104.03532)|null|
+|**2021-03-26**|**MBA-VO: Motion Blur Aware Visual Odometry**|Peidong Liu et.al.|[2103.13684](http://arxiv.org/abs/2103.13684)|null|
+|**2021-03-23**|**Spatiotemporal Registration for Event-based Visual Odometry**|Daqi Liu et.al.|[2103.05955](http://arxiv.org/abs/2103.05955)|null|
+|**2021-03-02**|**DF-VO: What Should Be Learnt for Visual Odometry?**|Huangying Zhan et.al.|[2103.00933](http://arxiv.org/abs/2103.00933)|null|
+|**2021-01-06**|**Self-supervised Visual-LiDAR Odometry with Flip Consistency**|Bin Li et.al.|[2101.01322](http://arxiv.org/abs/2101.01322)|null|
+|**2020-11-18**|**Exploring Self-Attention for Visual Odometry**|Hamed Damirchi et.al.|[2011.08634](http://arxiv.org/abs/2011.08634)|null|
+|**2020-09-22**|**A Review of Visual Odometry Methods and Its Applications for Autonomous Driving**|Kai Li Lim et.al.|[2009.09193](http://arxiv.org/abs/2009.09193)|null|
+|**2020-08-05**|**Deep Visual Odometry with Adaptive Memory**|Fei Xue et.al.|[2008.01655](http://arxiv.org/abs/2008.01655)|null|
+|**2020-07-30**|**Simultaneously Learning Corrections and Error Models for Geometry-based Visual Odometry Methods**|Andrea De Maio et.al.|[2007.14943](http://arxiv.org/abs/2007.14943)|null|
+|**2020-03-31**|**D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry**|Nan Yang et.al.|[2003.01060](http://arxiv.org/abs/2003.01060)|null|
+|**2020-02-03**|**Joint Forward-Backward Visual Odometry for Stereo Cameras**|Raghav Sardana et.al.|[1912.10293](http://arxiv.org/abs/1912.10293)|null|
+|**2020-06-25**|**ViPR: Visual-Odometry-aided Pose Regression for 6DoF Camera Localization**|Felix Ott et.al.|[1912.08263](http://arxiv.org/abs/1912.08263)|null|
+|**2019-10-30**|**A Robust Pavement Mapping System Based on Normal-Constrained Stereo Visual Odometry**|Huaiyang Huang et.al.|[1910.13102](http://arxiv.org/abs/1910.13102)|null|
+|**2019-10-16**|**Multi-Frame GAN: Image Enhancement for Stereo Visual Odometry in Low Light**|Eunah Jung et.al.|[1910.06632](http://arxiv.org/abs/1910.06632)|null|
+|**2019-10-16**|**Stereo-based Multi-motion Visual Odometry for Mobile Robots**|Qing Zhao et.al.|[1910.06607](http://arxiv.org/abs/1910.06607)|null|
+|**2019-10-08**|**Direct Visual-Inertial Odometry with Semi-Dense Mapping**|Wenju Xu et.al.|[1910.02106](http://arxiv.org/abs/1910.02106)|null|
+|**2020-01-22**|**DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination**|Muhamad Risqi U. Saputra et.al.|[1909.07231](http://arxiv.org/abs/1909.07231)|null|
+|**2019-09-06**|**Neuromorphic Visual Odometry System for Intelligent Vehicle Application with Bio-inspired Vision Sensor**|Dekai Zhu et.al.|[1909.02490](http://arxiv.org/abs/1909.02490)|null|
+|**2019-09-18**|**Extending Monocular Visual Odometry to Stereo Camera Systems by Scale Optimization**|Jiawei Mo et.al.|[1905.12723](http://arxiv.org/abs/1905.12723)|null|
+|**2019-03-18**|**Pose Graph Optimization for Unsupervised Monocular Visual Odometry**|Yang Li et.al.|[1903.06315](http://arxiv.org/abs/1903.06315)|null|
+|**2019-03-07**|**Lidar-Monocular Visual Odometry with Genetic Algorithm for Parameter Optimization**|Adarsh Sehgal et.al.|[1903.02046](http://arxiv.org/abs/1903.02046)|null|
+|**2019-09-17**|**DSVO: Direct Stereo Visual Odometry**|Jiawei Mo et.al.|[1810.03963](http://arxiv.org/abs/1810.03963)|null|
+|**2018-08-01**|**Deep Visual Odometry Methods for Mobile Robots**|Jahanzaib Shabbir et.al.|[1807.11745](http://arxiv.org/abs/1807.11745)|null|
+|**2018-08-28**|**A Synchronized Stereo and Plenoptic Visual Odometry Dataset**|Niclas Zeller et.al.|[1807.09372](http://arxiv.org/abs/1807.09372)|null|
+|**2020-02-28**|**Real-time Monocular Visual Odometry for Turbid and Dynamic Underwater Environments**|Maxime Ferrera et.al.|[1806.05842](http://arxiv.org/abs/1806.05842)|null|
+|**2018-04-06**|**Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction**|Huangying Zhan et.al.|[1803.03893](http://arxiv.org/abs/1803.03893)|null|
+|**2017-04-19**|**MOMA: Visual Mobile Marker Odometry**|Raul Acuna et.al.|[1704.02222](http://arxiv.org/abs/1704.02222)|null|
+|**2016-07-04**|**Noise Models in Feature-based Stereo Visual Odometry**|Pablo F. Alcantarilla et.al.|[1607.00273](http://arxiv.org/abs/1607.00273)|null|
 
 ## SFM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2010-02-17**|**Neutron Structure Functions From Nuclear Data**|W. Melnitchouk et.al.|[nucl-th/9603021](http://arxiv.org/abs/nucl-th/9603021)|null|
+|**2009-10-22**|**A Nonlocal Contour Dynamics Model for Chemical Front Motion**|Dean M. Petrich et.al.|[cond-mat/9401036](http://arxiv.org/abs/cond-mat/9401036)|null|
+|**2015-06-24**|**Cosmic Ray Acceleration during Large Scale Structure Formation**|Pasquale Blasi et.al.|[astro-ph/0412572](http://arxiv.org/abs/astro-ph/0412572)|null|
 |**2025-11-04**|**Cycle-Sync: Robust Global Camera Pose Estimation through Enhanced Cycle-Consistent Synchronization**|Shaohan Li et.al.|[2511.02329](http://arxiv.org/abs/2511.02329)|null|
 |**2025-11-01**|**Oitijjo-3D: Generative AI Framework for Rapid 3D Heritage Reconstruction from Street View Imagery**|Momen Khandoker Ope et.al.|[2511.00362](http://arxiv.org/abs/2511.00362)|null|
 |**2025-10-23**|**RubbleSim: A Photorealistic Structural Collapse Simulator for Confined Space Mapping**|Constantine Frost et.al.|[2510.20529](http://arxiv.org/abs/2510.20529)|null|
@@ -795,7 +935,8 @@ layout: default
 |**2025-08-07**|**EndoMatcher: Generalizable Endoscopic Image Matcher via Multi-Domain Pre-training for Robot-Assisted Surgery**|Bingyu Yang et.al.|[2508.05205](http://arxiv.org/abs/2508.05205)|null|
 |**2025-08-07**|**Refining Gaussian Splatting: A Volumetric Densification Approach**|Mohamed Abdul Gafoor et.al.|[2508.05187](http://arxiv.org/abs/2508.05187)|null|
 |**2025-08-03**|**CVD-SfM: A Cross-View Deep Front-end Structure-from-Motion System for Sparse Localization in Multi-Altitude Scenes**|Yaxuan Li et.al.|[2508.01936](http://arxiv.org/abs/2508.01936)|null|
-|**2025-08-01**|**3D Reconstruction via Incremental Structure From Motion**|Muhammad Zeeshan et.al.|[2508.01019](http://arxiv.org/abs/2508.01019)|null|
+|**2025-08-05**|**3D Reconstruction via Incremental Structure From Motion**|Muhammad Zeeshan et.al.|[2508.01019](http://arxiv.org/abs/2508.01019)|null|
+|**2025-08-15**|**A Linear N-Point Solver for Structure and Motion from Asynchronous Tracks**|Hang Su et.al.|[2507.22733](http://arxiv.org/abs/2507.22733)|null|
 |**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
 |**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683](http://arxiv.org/abs/2507.15683)|null|
 |**2025-07-21**|**Few-Shot Object Detection via Spatial-Channel State Space Model**|Zhimeng Xin et.al.|[2507.15308](http://arxiv.org/abs/2507.15308)|null|
@@ -806,6 +947,7 @@ layout: default
 |**2025-07-16**|**Spatial Frequency Modulation for Semantic Segmentation**|Linwei Chen et.al.|[2507.11893](http://arxiv.org/abs/2507.11893)|null|
 |**2025-07-20**|**Supporting SENCOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448](http://arxiv.org/abs/2507.08448)|null|
+|**2025-09-19**|**UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots**|Kangning Yin et.al.|[2507.07356](http://arxiv.org/abs/2507.07356)|null|
 |**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|null|
 |**2025-06-30**|**Towards Initialization-free Calibrated Bundle Adjustment**|Carl Olsson et.al.|[2506.23808](http://arxiv.org/abs/2506.23808)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
@@ -837,7 +979,7 @@ layout: default
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-23**|**Corporate Needs You to Find the Difference: Revisiting Submodular and Supermodular Ratio Optimization Problems**|Elfarouk Harb et.al.|[2505.17443](http://arxiv.org/abs/2505.17443)|**[link](https://github.com/FaroukY/CorporateEquivalence)**|
 |**2025-05-23**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|null|
-|**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
+|**2025-05-22**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
 |**2025-05-18**|**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**|Dong Yang et.al.|[2505.12226](http://arxiv.org/abs/2505.12226)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-13**|**Unveiling the Best Practices for Applying Speech Foundation Models to Speech Intelligibility Prediction for Hearing-Impaired People**|Haoshuai Zhou et.al.|[2505.08215](http://arxiv.org/abs/2505.08215)|null|
@@ -860,16 +1002,59 @@ layout: default
 |**2025-04-23**|**PRaDA: Projective Radial Distortion Averaging**|Daniil Sinitsyn et.al.|[2504.16499](http://arxiv.org/abs/2504.16499)|null|
 |**2025-04-21**|**Traversing the Star-Forming Main Sequence with Molecular Gas Stacks of z~1.6 Cluster Galaxies**|Alex Pigarelli et.al.|[2504.15381](http://arxiv.org/abs/2504.15381)|null|
 |**2025-04-21**|**Towards Understanding Camera Motions in Any Video**|Zhiqiu Lin et.al.|[2504.15376](http://arxiv.org/abs/2504.15376)|null|
+|**2025-03-25**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
 |**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|**[link](https://github.com/hongsukchoi/hsfm_release)**|
 |**2024-12-18**|**Foundation Models Meet Low-Cost Sensors: Test-Time Adaptation for Rescaling Disparity for Zero-Shot Metric Depth Estimation**|Rémi Marsal et.al.|[2412.14103](http://arxiv.org/abs/2412.14103)|null|
 |**2024-12-16**|**Speech Foundation Models and Crowdsourcing for Efficient, High-Quality Data Collection**|Beomseok Lee et.al.|[2412.11978](http://arxiv.org/abs/2412.11978)|null|
 |**2024-12-18**|**SplineGS: Robust Motion-Adaptive Spline for Real-Time Dynamic 3D Gaussians from Monocular Video**|Jongmin Park et.al.|[2412.09982](http://arxiv.org/abs/2412.09982)|null|
 |**2024-12-12**|**CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework**|Yushan Han et.al.|[2412.08344](http://arxiv.org/abs/2412.08344)|null|
+|**2025-05-23**|**Motion by Queries: Identity-Motion Trade-offs in Text-to-Video Generation**|Yuval Atzmon et.al.|[2412.07750](http://arxiv.org/abs/2412.07750)|null|
 |**2024-12-10**|**Deep Non-rigid Structure-from-Motion Revisited: Canonicalization and Sequence Modeling**|Hui Deng et.al.|[2412.07230](http://arxiv.org/abs/2412.07230)|null|
 |**2024-12-08**|**Unveiling True Talent: The Soccer Factor Model for Skill Evaluation**|Alexandre Andorra et.al.|[2412.05911](http://arxiv.org/abs/2412.05911)|null|
 |**2024-12-08**|**Doppelgangers++: Improved Visual Disambiguation with Geometric 3D Features**|Yuanbo Xiangli et.al.|[2412.05826](http://arxiv.org/abs/2412.05826)|null|
 |**2024-12-06**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463](http://arxiv.org/abs/2412.04463)|null|
 |**2024-12-03**|**ASANet: Asymmetric Semantic Aligning Network for RGB and SAR image land cover classification**|Pan Zhang et.al.|[2412.02044](http://arxiv.org/abs/2412.02044)|**[link](https://github.com/whu-pzhang/asanet)**|
+|**2024-12-02**|**RoMo: Robust Motion Segmentation Improves Structure from Motion**|Lily Goli et.al.|[2411.18650](http://arxiv.org/abs/2411.18650)|null|
+|**2024-10-22**|**Initialization of Monocular Visual Navigation for Autonomous Agents Using Modified Structure from Small Motion**|Juan-Diego Florez et.al.|[2409.16465](http://arxiv.org/abs/2409.16465)|null|
+|**2024-08-05**|**Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris**|Kentaro Uno et.al.|[2408.01035](http://arxiv.org/abs/2408.01035)|null|
+|**2024-09-24**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219](http://arxiv.org/abs/2407.20219)|null|
+|**2025-08-22**|**RESfM: Robust Deep Equivariant Structure from Motion**|Fadi Khatib et.al.|[2404.14280](http://arxiv.org/abs/2404.14280)|null|
+|**2024-07-18**|**Spatio-Temporal Branching for Motion Prediction using Motion Increments**|Jiexin Wang et.al.|[2308.01097](http://arxiv.org/abs/2308.01097)|null|
+|**2023-06-28**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|null|
+|**2023-10-19**|**Unravelling densification during sintering by multiscale modelling of grain motion**|Marco Seiz et.al.|[2305.19910](http://arxiv.org/abs/2305.19910)|null|
+|**2023-04-06**|**Semantic Validation in Structure from Motion**|Joseph Rowell et.al.|[2304.02420](http://arxiv.org/abs/2304.02420)|null|
+|**2022-07-19**|**Organic Priors in Non-Rigid Structure from Motion**|Suryansh Kumar et.al.|[2207.06262](http://arxiv.org/abs/2207.06262)|null|
+|**2024-08-14**|**Deep Non-rigid Structure-from-Motion: A Sequence-to-Sequence Translation Perspective**|Hui Deng et.al.|[2204.04730](http://arxiv.org/abs/2204.04730)|null|
+|**2022-03-30**|**Style-ERD: Responsive and Coherent Online Motion Style Transfer**|Tianxin Tao et.al.|[2203.02574](http://arxiv.org/abs/2203.02574)|null|
+|**2021-10-26**|**Deep Permutation Equivariant Structure from Motion**|Dror Moran et.al.|[2104.06703](http://arxiv.org/abs/2104.06703)|null|
+|**2021-01-27**|**VIO-Aided Structure from Motion Under Challenging Environments**|Zijie Jiang et.al.|[2101.09657](http://arxiv.org/abs/2101.09657)|null|
+|**2020-10-15**|**Reducing Drift in Structure From Motion Using Extended Features**|Aleksander Holynski et.al.|[2008.12295](http://arxiv.org/abs/2008.12295)|null|
+|**2020-06-09**|**Robotic Motion Planning using Learned Critical Sources and Local Sampling**|Rajat Kumar Jenamani et.al.|[2006.04194](http://arxiv.org/abs/2006.04194)|null|
+|**2020-08-11**|**DeepSFM: Structure From Motion Via Deep Bundle Adjustment**|Xingkui Wei et.al.|[1912.09697](http://arxiv.org/abs/1912.09697)|null|
+|**2019-08-13**|**Deep Non-Rigid Structure from Motion**|Chen Kong et.al.|[1908.00052](http://arxiv.org/abs/1908.00052)|null|
+|**2019-06-11**|**Structure from Motion for Panorama-Style Videos**|Chris Sweeney et.al.|[1906.03539](http://arxiv.org/abs/1906.03539)|null|
+|**2019-11-13**|**Structure from Articulated Motion: Accurate and Stable Monocular 3D Reconstruction without Training Data**|Onorina Kovalenko et.al.|[1905.04789](http://arxiv.org/abs/1905.04789)|null|
+|**2018-12-20**|**Rigid Body Structure and Motion From Two-Frame Point-Correspondences Under Perspective Projection**|Mieczysław A. Kłopotek et.al.|[1812.07971](http://arxiv.org/abs/1812.07971)|null|
+|**2018-12-03**|**Structure and Motion from Multiframes**|Mieczysław A. Kłopotek et.al.|[1811.12797](http://arxiv.org/abs/1811.12797)|null|
+|**2018-10-31**|**Fully automatic structure from motion with a spline-based environment representation**|Zhirui Wang et.al.|[1810.12532](http://arxiv.org/abs/1810.12532)|null|
+|**2018-10-22**|**Learning structure-from-motion from motion**|Clément Pinard et.al.|[1809.04471](http://arxiv.org/abs/1809.04471)|null|
+|**2018-06-20**|**Distinguishing Refracted Features using Light Field Cameras with Application to Structure from Motion**|Dorian Tsai et.al.|[1806.07375](http://arxiv.org/abs/1806.07375)|null|
+|**2018-07-12**|**Progressive Structure from Motion**|Alex Locher et.al.|[1803.07349](http://arxiv.org/abs/1803.07349)|null|
+|**2020-11-12**|**A Benchmark and Evaluation of Non-Rigid Structure from Motion**|Sebastian Hoppe Nesgaard Jensen et.al.|[1801.08388](http://arxiv.org/abs/1801.08388)|null|
+|**2017-05-16**|**Spatial-Temporal Union of Subspaces for Multi-body Non-rigid Structure-from-Motion**|Suryansh Kumar et.al.|[1705.04916](http://arxiv.org/abs/1705.04916)|null|
+|**2019-02-22**|**The Structure of Extreme Level Sets in Branching Brownian Motion**|Aser Cortines et.al.|[1703.06529](http://arxiv.org/abs/1703.06529)|null|
+|**2017-06-06**|**Parallel Structure from Motion from Local Increment to Global Averaging**|Siyu Zhu et.al.|[1702.08601](http://arxiv.org/abs/1702.08601)|null|
+|**2017-05-10**|**A Survey of Structure from Motion**|Onur Ozyesil et.al.|[1701.08493](http://arxiv.org/abs/1701.08493)|null|
+|**2016-12-06**|**Panoramic Structure from Motion via Geometric Relationship Detection**|Satoshi Ikehata et.al.|[1612.01256](http://arxiv.org/abs/1612.01256)|null|
+|**2017-08-14**|**Inertial-Based Scale Estimation for Structure from Motion on Mobile Devices**|Janne Mustaniemi et.al.|[1611.09498](http://arxiv.org/abs/1611.09498)|null|
+|**2016-09-23**|**Symmetric Non-Rigid Structure from Motion for Category-Specific Object Structure Estimation**|Yuan Gao et.al.|[1609.06988](http://arxiv.org/abs/1609.06988)|null|
+|**2017-01-02**|**Robust Structure from Motion in the Presence of Outliers and Missing Data**|Guanghui Wang et.al.|[1609.02638](http://arxiv.org/abs/1609.02638)|null|
+|**2016-08-10**|**A Factorization Approach to Inertial Affine Structure from Motion**|Roberto Tron et.al.|[1608.02680](http://arxiv.org/abs/1608.02680)|null|
+|**2016-07-18**|**Multi-body Non-rigid Structure-from-Motion**|Suryansh Kumar et.al.|[1607.04515](http://arxiv.org/abs/1607.04515)|null|
+|**2016-09-06**|**Structure from Motion on a Sphere**|Jonathan Ventura et.al.|[1604.00409](http://arxiv.org/abs/1604.00409)|null|
+|**2016-07-19**|**Online Algorithms for Factorization-Based Structure from Motion**|Ryan Kennedy et.al.|[1309.6964](http://arxiv.org/abs/1309.6964)|null|
+|**2014-01-03**|**Oxygen isotope effect on structural parameters and on the thermal motion in La $_2$CuO$_4$**|Petra S. Häfliger et.al.|[0811.0160](http://arxiv.org/abs/0811.0160)|null|
+|**2007-08-21**|**A structure from motion inequality**|Oliver Knill et.al.|[0708.2432](http://arxiv.org/abs/0708.2432)|null|
 
 ## Visual Localization
 
@@ -921,7 +1106,7 @@ layout: default
 |**2025-09-30**|**Video Object Segmentation-Aware Audio Generation**|Ilpo Viertola et.al.|[2509.26604](http://arxiv.org/abs/2509.26604)|null|
 |**2025-09-30**|**SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval**|Ren-Di Wu et.al.|[2509.26330](http://arxiv.org/abs/2509.26330)|null|
 |**2025-09-30**|**SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval**|Yuqi Xiao et.al.|[2509.26012](http://arxiv.org/abs/2509.26012)|null|
-|**2025-09-30**|**SAGE: Spatial-visual Adaptive Graph Exploration for Visual Place Recognition**|Shunpeng Chen et.al.|[2509.25723](http://arxiv.org/abs/2509.25723)|null|
+|**2025-10-01**|**SAGE: Spatial-visual Adaptive Graph Exploration for Visual Place Recognition**|Shunpeng Chen et.al.|[2509.25723](http://arxiv.org/abs/2509.25723)|null|
 |**2025-09-29**|**Robust Visual Localization in Compute-Constrained Environments by Salient Edge Rendering and Weighted Hamming Similarity**|Tu-Hoa Pham et.al.|[2509.25520](http://arxiv.org/abs/2509.25520)|null|
 |**2025-09-29**|**Performance-Efficiency Trade-off for Fashion Image Retrieval**|Julio Hurtado et.al.|[2509.24477](http://arxiv.org/abs/2509.24477)|null|
 |**2025-09-28**|**Prepare for Warp Speed: Sub-millisecond Visual Place Recognition Using Event Cameras**|Vignesh Ramanathan et.al.|[2509.24094](http://arxiv.org/abs/2509.24094)|null|
@@ -1040,6 +1225,7 @@ layout: default
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
 |**2025-06-10**|**Robust Visual Localization via Semantic-Guided Multi-Scale Transformer**|Zhongtao Tian et.al.|[2506.08526](http://arxiv.org/abs/2506.08526)|null|
 |**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji et.al.|[2506.07045](http://arxiv.org/abs/2506.07045)|null|
+|**2025-06-17**|**AR-RAG: Autoregressive Retrieval Augmentation for Image Generation**|Jingyuan Qi et.al.|[2506.06962](http://arxiv.org/abs/2506.06962)|null|
 |**2025-06-07**|**Zero Shot Composed Image Retrieval**|Santhosh Kakarla et.al.|[2506.06602](http://arxiv.org/abs/2506.06602)|**[link](https://github.com/miccunifi/SEARLE)**|
 |**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
 |**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205](http://arxiv.org/abs/2506.06205)|null|
@@ -1052,7 +1238,7 @@ layout: default
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098](http://arxiv.org/abs/2505.22098)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
-|**2025-05-27**|**Visual Loop Closure Detection Through Deep Graph Consensus**|Martin Büchner et.al.|[2505.21754](http://arxiv.org/abs/2505.21754)|null|
+|**2025-05-29**|**Visual Loop Closure Detection Through Deep Graph Consensus**|Martin Büchner et.al.|[2505.21754](http://arxiv.org/abs/2505.21754)|null|
 |**2025-05-27**|**QuARI: Query Adaptive Retrieval Improvement**|Eric Xing et.al.|[2505.21647](http://arxiv.org/abs/2505.21647)|null|
 |**2025-05-27**|**ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval**|Eric Xing et.al.|[2505.20764](http://arxiv.org/abs/2505.20764)|**[link](https://github.com/mvrl/context-cir)**|
 |**2025-05-26**|**Visualized Text-to-Image Retrieval**|Di Wu et.al.|[2505.20291](http://arxiv.org/abs/2505.20291)|**[link](https://github.com/xiaowu0162/visualize-then-retrieve)**|
@@ -1087,12 +1273,14 @@ layout: default
 |**2025-04-19**|**A Multimodal Recaptioning Framework to Account for Perceptual Diversity in Multilingual Vision-Language Modeling**|Kyle Buettner et.al.|[2504.14359](http://arxiv.org/abs/2504.14359)|null|
 |**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172](http://arxiv.org/abs/2504.13172)|null|
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
-|**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134](http://arxiv.org/abs/2504.11134)|**[link](https://github.com/ghanning/gcsa)**|
+|**2025-07-01**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134](http://arxiv.org/abs/2504.11134)|null|
 |**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995](http://arxiv.org/abs/2504.10995)|null|
 |**2025-04-14**|**Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**|Changwei Wang et.al.|[2504.09881](http://arxiv.org/abs/2504.09881)|**[link](https://github.com/chenshunpeng/FoL)**|
 |**2025-04-12**|**Evolved Hierarchical Masking for Self-Supervised Learning**|Zhanzhou Feng et.al.|[2504.09155](http://arxiv.org/abs/2504.09155)|null|
 |**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901](http://arxiv.org/abs/2504.08901)|null|
 |**2025-04-11**|**Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**|Joshua Fixelle et.al.|[2504.08710](http://arxiv.org/abs/2504.08710)|null|
+|**2025-04-23**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
+|**2025-03-18**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090](http://arxiv.org/abs/2503.13090)|null|
 |**2024-12-24**|**ERVD: An Efficient and Robust ViT-Based Distillation Framework for Remote Sensing Image Retrieval**|Le Dong et.al.|[2412.18136](http://arxiv.org/abs/2412.18136)|**[link](https://github.com/milkyfun0/ERVD)**|
 |**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|**[link](https://github.com/yejy53/CVG-Text)**|
 |**2024-12-22**|**Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**|Shenghai Yuan et.al.|[2412.16880](http://arxiv.org/abs/2412.16880)|null|
@@ -1103,6 +1291,50 @@ layout: default
 |**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475](http://arxiv.org/abs/2412.14475)|**[link](https://github.com/VectorSpaceLab/MegaPairs)**|
 |**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113](http://arxiv.org/abs/2412.14113)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
 |**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834](http://arxiv.org/abs/2412.13834)|null|
+|**2024-12-19**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
+|**2024-10-28**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341](http://arxiv.org/abs/2410.19341)|null|
+|**2024-10-28**|**On Model-Free Re-ranking for Visual Place Recognition with Deep Learned Local Features**|Tomáš Pivoňka et.al.|[2410.18573](http://arxiv.org/abs/2410.18573)|null|
+|**2024-09-27**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|null|
+|**2025-02-07**|**SOLVR: Submap Oriented LiDAR-Visual Re-Localisation**|Joshua Knights et.al.|[2409.10247](http://arxiv.org/abs/2409.10247)|null|
+|**2024-07-23**|**MSSPlace: Multi-Sensor Place Recognition with Visual and Text Semantics**|Alexander Melekhin et.al.|[2407.15663](http://arxiv.org/abs/2407.15663)|null|
+|**2024-07-03**|**Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**|Sergio Izquierdo et.al.|[2407.02422](http://arxiv.org/abs/2407.02422)|null|
+|**2024-12-05**|**Breaking the Frame: Visual Place Recognition by Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|null|
+|**2024-07-25**|**MeshVPR: Citywide Visual Place Recognition Using 3D Meshes**|Gabriele Berton et.al.|[2406.02776](http://arxiv.org/abs/2406.02776)|null|
+|**2024-11-01**|**Visual place recognition for aerial imagery: A survey**|Ivan Moskalenko et.al.|[2406.00885](http://arxiv.org/abs/2406.00885)|null|
+|**2024-05-21**|**Register assisted aggregation for Visual Place Recognition**|Xuan Yu et.al.|[2405.11526](http://arxiv.org/abs/2405.11526)|null|
+|**2025-03-10**|**PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**|Fei Xue et.al.|[2404.07785](http://arxiv.org/abs/2404.07785)|null|
+|**2024-04-02**|**On the Estimation of Image-matching Uncertainty in Visual Place Recognition**|Mubariz Zaffar et.al.|[2404.00546](http://arxiv.org/abs/2404.00546)|null|
+|**2024-02-27**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|null|
+|**2024-01-30**|**Regressing Transformers for Data-efficient Visual Place Recognition**|María Leyva-Vallina et.al.|[2401.16304](http://arxiv.org/abs/2401.16304)|null|
+|**2023-12-21**|**Aggregating Multiple Bio-Inspired Image Region Classifiers For Effective And Lightweight Visual Place Recognition**|Bruno Arcanjo et.al.|[2312.12995](http://arxiv.org/abs/2312.12995)|null|
+|**2023-10-10**|**Collaborative Visual Place Recognition**|Yiming Li et.al.|[2310.05541](http://arxiv.org/abs/2310.05541)|null|
+|**2023-04-13**|**Are Local Features All You Need for Cross-Domain Visual Place Recognition?**|Giovanni Barbarani et.al.|[2304.05887](http://arxiv.org/abs/2304.05887)|null|
+|**2023-10-31**|**Visual Place Recognition: A Tutorial**|Stefan Schubert et.al.|[2303.03281](http://arxiv.org/abs/2303.03281)|null|
+|**2022-09-27**|**Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**|Jonathan J. Y. Kim et.al.|[2209.11894](http://arxiv.org/abs/2209.11894)|null|
+|**2022-07-26**|**ALTO: A Large-Scale Dataset for UAV Visual Place Recognition and Localization**|Ivan Cisneros et.al.|[2207.12317](http://arxiv.org/abs/2207.12317)|null|
+|**2022-06-01**|**Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**|Martin Humenberger et.al.|[2205.15761](http://arxiv.org/abs/2205.15761)|null|
+|**2022-05-25**|**VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**|Michael Schleiss et.al.|[2205.11567](http://arxiv.org/abs/2205.11567)|null|
+|**2022-11-10**|**The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**|Konstantinos A. Tsintotas et.al.|[2204.12831](http://arxiv.org/abs/2204.12831)|null|
+|**2022-06-28**|**AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**|Burak Yildiz et.al.|[2203.16291](http://arxiv.org/abs/2203.16291)|null|
+|**2021-11-29**|**Inside Out Visual Place Recognition**|Sarah Ibrahimi et.al.|[2111.13546](http://arxiv.org/abs/2111.13546)|null|
+|**2021-10-01**|**Forming a sparse representation for visual place recognition using a neurorobotic approach**|Sylvain Colomer et.al.|[2109.14916](http://arxiv.org/abs/2109.14916)|null|
+|**2021-06-25**|**What makes visual place recognition easy or hard?**|Stefan Schubert et.al.|[2106.12671](http://arxiv.org/abs/2106.12671)|null|
+|**2021-05-10**|**Probabilistic Visual Place Recognition for Hierarchical Localization**|Ming Xu et.al.|[2105.03091](http://arxiv.org/abs/2105.03091)|null|
+|**2021-03-03**|**Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition**|Stephen Hausler et.al.|[2103.01486](http://arxiv.org/abs/2103.01486)|null|
+|**2021-02-26**|**Scene Retrieval for Contextual Visual Mapping**|William H. B. Smith et.al.|[2102.12728](http://arxiv.org/abs/2102.12728)|null|
+|**2021-02-03**|**Graph-based non-linear least squares optimization for visual place recognition in changing environments**|Stefan Schubert et.al.|[2012.14766](http://arxiv.org/abs/2012.14766)|null|
+|**2023-05-02**|**City-Scale Visual Place Recognition with Deep Local Features Based on Multi-Scale Ordered VLAD Pooling**|Duc Canh Le et.al.|[2009.09255](http://arxiv.org/abs/2009.09255)|null|
+|**2021-02-25**|**Online Visual Place Recognition via Saliency Re-identification**|Han Wang et.al.|[2007.14549](http://arxiv.org/abs/2007.14549)|null|
+|**2020-02-20**|**A Hybrid Compact Neural Architecture for Visual Place Recognition**|Marvin Chancán et.al.|[1910.06840](http://arxiv.org/abs/1910.06840)|null|
+|**2020-08-14**|**CAMAL: Context-Aware Multi-layer Attention framework for Lightweight Environment Invariant Visual Place Recognition**|Ahmad Khaliq et.al.|[1909.08153](http://arxiv.org/abs/1909.08153)|null|
+|**2020-07-28**|**A Fast and Robust Place Recognition Approach for Stereo Visual Odometry Using LiDAR Descriptors**|Jiawei Mo et.al.|[1909.07267](http://arxiv.org/abs/1909.07267)|null|
+|**2019-07-01**|**Place recognition in gardens by learning visual representations: data set and benchmark analysis**|Maria Leyva-Vallina et.al.|[1906.12151](http://arxiv.org/abs/1906.12151)|null|
+|**2019-05-14**|**Self-Supervised Visual Place Recognition Learning in Mobile Robots**|Sudeep Pillai et.al.|[1905.04453](http://arxiv.org/abs/1905.04453)|null|
+|**2019-04-16**|**Localizing Discriminative Visual Landmarks for Place Recognition**|Zhe Xin et.al.|[1904.06635](http://arxiv.org/abs/1904.06635)|null|
+|**2017-10-23**|**Light-weight place recognition and loop detection using road markings**|Oleksandr Bailo et.al.|[1710.07434](http://arxiv.org/abs/1710.07434)|null|
+|**2017-09-19**|**Beyond SIFT using Binary features for Loop Closure Detection**|Lei Han et.al.|[1709.05833](http://arxiv.org/abs/1709.05833)|null|
+|**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
+|**2016-05-03**|**NetVLAD: CNN architecture for weakly supervised place recognition**|Relja Arandjelović et.al.|[1511.07247](http://arxiv.org/abs/1511.07247)|null|
 
 ## Keypoint Detection
 
@@ -1134,8 +1366,8 @@ layout: default
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
 |**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102](http://arxiv.org/abs/2507.11102)|null|
 |**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077](http://arxiv.org/abs/2507.11077)|null|
-|**2025-07-14**|**FPC-Net: Revisiting SuperPoint with Descriptor-Free Keypoint Detection via Feature Pyramids and Consistency-Based Implicit Matching**|Ionuţ Grigore et.al.|[2507.10770](http://arxiv.org/abs/2507.10770)|null|
-|**2025-07-27**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
+|**2025-07-16**|**FPC-Net: Revisiting SuperPoint with Descriptor-Free Keypoint Detection via Feature Pyramids and Consistency-Based Implicit Matching**|Ionuţ Grigore et.al.|[2507.10770](http://arxiv.org/abs/2507.10770)|null|
+|**2025-07-29**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994](http://arxiv.org/abs/2507.07994)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
@@ -1159,12 +1391,13 @@ layout: default
 |**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063](http://arxiv.org/abs/2504.11063)|null|
 |**2025-04-15**|**Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**|Timm Linder et.al.|[2504.11031](http://arxiv.org/abs/2504.11031)|null|
 |**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252](http://arxiv.org/abs/2504.08252)|null|
-|**2025-09-29**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM**|Yannick Burkhardt et.al.|[2504.00139](http://arxiv.org/abs/2504.00139)|null|
+|**2025-10-01**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM**|Yannick Burkhardt et.al.|[2504.00139](http://arxiv.org/abs/2504.00139)|null|
 |**2025-03-29**|**Deep Visual Servoing of an Aerial Robot Using Keypoint Feature Extraction**|Shayan Sepahvand et.al.|[2503.23171](http://arxiv.org/abs/2503.23171)|null|
 |**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278](http://arxiv.org/abs/2503.19278)|null|
 |**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541](http://arxiv.org/abs/2503.12541)|null|
 |**2025-04-12**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|null|
+|**2025-03-12**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-12-21**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2412.16755](http://arxiv.org/abs/2412.16755)|null|
 |**2024-12-19**|**Corn Ear Detection and Orientation Estimation Using Deep Learning**|Nathan Sprague et.al.|[2412.14954](http://arxiv.org/abs/2412.14954)|null|
@@ -1175,6 +1408,52 @@ layout: default
 |**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472](http://arxiv.org/abs/2412.03472)|**[link](https://github.com/StructuresComp/measure-anything)**|
 |**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422](http://arxiv.org/abs/2412.01422)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
+|**2024-10-01**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|null|
+|**2024-03-19**|**FE-DeTr: Keypoint Detection and Tracking in Low-quality Image Frames with Events**|Xiangyuan Wang et.al.|[2403.11662](http://arxiv.org/abs/2403.11662)|null|
+|**2024-02-27**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
+|**2024-07-18**|**X-Pose: Detecting Any Keypoints**|Jie Yang et.al.|[2310.08530](http://arxiv.org/abs/2310.08530)|null|
+|**2024-10-03**|**Open-Vocabulary Animal Keypoint Detection with Semantic-feature Matching**|Hao Zhang et.al.|[2310.05056](http://arxiv.org/abs/2310.05056)|null|
+|**2024-02-13**|**KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping**|Renlang Huang et.al.|[2309.15394](http://arxiv.org/abs/2309.15394)|null|
+|**2023-09-13**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|null|
+|**2023-08-29**|**S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction**|Emanuele Santellani et.al.|[2308.14598](http://arxiv.org/abs/2308.14598)|null|
+|**2023-08-22**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174](http://arxiv.org/abs/2308.10174)|null|
+|**2023-12-12**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|null|
+|**2023-04-04**|**Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints**|Guilherme Potje et.al.|[2304.00583](http://arxiv.org/abs/2304.00583)|null|
+|**2023-02-03**|**DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**|Xiangyu Xu et.al.|[2212.04575](http://arxiv.org/abs/2212.04575)|null|
+|**2023-02-13**|**Human keypoint detection for close proximity human-robot interaction**|Jan Docekal et.al.|[2207.07742](http://arxiv.org/abs/2207.07742)|null|
+|**2022-04-20**|**Self-Supervised Equivariant Learning for Oriented Keypoint Detection**|Jongmin Lee et.al.|[2204.08613](http://arxiv.org/abs/2204.08613)|null|
+|**2022-02-04**|**Sim2Real Object-Centric Keypoint Detection and Description**|Chengliang Zhong et.al.|[2202.00448](http://arxiv.org/abs/2202.00448)|null|
+|**2021-12-21**|**GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**|Jean-Baptiste Carluer et.al.|[2112.10258](http://arxiv.org/abs/2112.10258)|null|
+|**2022-04-04**|**Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species**|Changsheng Lu et.al.|[2112.06183](http://arxiv.org/abs/2112.06183)|null|
+|**2022-02-08**|**ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction**|Xiaoming Zhao et.al.|[2112.02906](http://arxiv.org/abs/2112.02906)|null|
+|**2021-11-29**|**Attend to Who You Are: Supervising Self-Attention for Keypoint Detection and Instance-Aware Association**|Sen Yang et.al.|[2111.12892](http://arxiv.org/abs/2111.12892)|null|
+|**2021-09-01**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|null|
+|**2021-12-16**|**GKNet: grasp keypoint network for grasp candidates detection**|Ruinian Xu et.al.|[2106.08497](http://arxiv.org/abs/2106.08497)|null|
+|**2021-06-29**|**OSKDet: Towards Orientation-sensitive Keypoint Localization for Rotated Object Detection**|Dongchen Lu et.al.|[2104.08697](http://arxiv.org/abs/2104.08697)|null|
+|**2021-07-30**|**P2-Net: Joint Description and Detection of Local Features for Pixel and Point Matching**|Bing Wang et.al.|[2103.01055](http://arxiv.org/abs/2103.01055)|null|
+|**2020-12-09**|**Performance Analysis of Keypoint Detectors and Binary Descriptors Under Varying Degrees of Photometric and Geometric Transformations**|Shuvo Kumar Paul et.al.|[2012.04135](http://arxiv.org/abs/2012.04135)|null|
+|**2020-12-01**|**Conditional Link Prediction of Category-Implicit Keypoint Detection**|Ellen Yi-Ge et.al.|[2011.14462](http://arxiv.org/abs/2011.14462)|null|
+|**2020-11-05**|**Realtime CNN-based Keypoint Detector with Sobel Filter and CNN-based Descriptor Trained with Keypoint Candidates**|Xun Yuan et.al.|[2011.02119](http://arxiv.org/abs/2011.02119)|null|
+|**2020-10-26**|**Efficient grouping for keypoint detection**|Alexey Sidnev et.al.|[2010.12390](http://arxiv.org/abs/2010.12390)|null|
+|**2022-12-06**|**CoKe: Localized Contrastive Learning for Robust Keypoint Detection**|Yutong Bai et.al.|[2009.14115](http://arxiv.org/abs/2009.14115)|null|
+|**2020-06-11**|**SEKD: Self-Evolving Keypoint Detection and Description**|Yafei Song et.al.|[2006.05077](http://arxiv.org/abs/2006.05077)|null|
+|**2020-06-02**|**GoodPoint: unsupervised learning of keypoint detection and description**|Anatoly Belikov et.al.|[2006.01030](http://arxiv.org/abs/2006.01030)|null|
+|**2021-05-25**|**Towards High Performance Human Keypoint Detection**|Jing Zhang et.al.|[2002.00537](http://arxiv.org/abs/2002.00537)|null|
+|**2019-12-24**|**Neural Outlier Rejection for Self-Supervised Keypoint Learning**|Jiexiong Tang et.al.|[1912.10615](http://arxiv.org/abs/1912.10615)|null|
+|**2019-10-29**|**Human Keypoint Detection by Progressive Context Refinement**|Jing Zhang et.al.|[1910.12223](http://arxiv.org/abs/1910.12223)|null|
+|**2019-01-25**|**MREAK : Morphological Retina Keypoint Descriptor**|Himanshu Vaghela et.al.|[1901.08213](http://arxiv.org/abs/1901.08213)|null|
+|**2018-09-21**|**Learning a Local Feature Descriptor for 3D LiDAR Scans**|Ayush Dewan et.al.|[1809.07494](http://arxiv.org/abs/1809.07494)|null|
+|**2019-06-20**|**Object Sorting Using a Global Texture-Shape 3D Feature Descriptor**|Zhun Fan et.al.|[1802.01116](http://arxiv.org/abs/1802.01116)|null|
+|**2018-05-04**|**Detect-and-Track: Efficient Pose Estimation in Videos**|Rohit Girdhar et.al.|[1712.09184](http://arxiv.org/abs/1712.09184)|null|
+|**2018-09-25**|**Robust Stereo Feature Descriptor for Visual Odometry**|Ehsan Shojaedini et.al.|[1708.07933](http://arxiv.org/abs/1708.07933)|null|
+|**2017-08-22**|**Learning Spread-out Local Feature Descriptors**|Xu Zhang et.al.|[1708.06320](http://arxiv.org/abs/1708.06320)|null|
+|**2017-06-19**|**Local Feature Descriptor Learning with Adaptive Siamese Network**|Chong Huang et.al.|[1706.05358](http://arxiv.org/abs/1706.05358)|null|
+|**2017-04-14**|**Interspecies Knowledge Transfer for Facial Keypoint Detection**|Maheen Rashid et.al.|[1704.04023](http://arxiv.org/abs/1704.04023)|null|
+|**2017-02-16**|**A Fast Keypoint Based Hybrid Method for Copy Move Forgery Detection**|Sunil Kumar et.al.|[1612.03989](http://arxiv.org/abs/1612.03989)|null|
+|**2016-03-07**|**Keypoint Encoding for Improved Feature Extraction from Compressed Video at Low Bitrates**|Jianshu Chao et.al.|[1506.08316](http://arxiv.org/abs/1506.08316)|null|
+|**2016-11-18**|**Fast keypoint detection in video sequences**|Luca Baroffio et.al.|[1503.06959](http://arxiv.org/abs/1503.06959)|null|
+|**2009-10-08**|**Visual object categorization with new keypoint-based adaBoost features**|Taoufik Bdiri et.al.|[0910.1294](http://arxiv.org/abs/0910.1294)|null|
+|**2009-10-08**|**Adaboost with "Keypoint Presence Features" for Real-Time Vehicle Visual Detection**|Taoufik Bdiri et.al.|[0910.1273](http://arxiv.org/abs/0910.1273)|null|
 
 ## Image Matching
 
@@ -1187,7 +1466,7 @@ layout: default
 |**2025-10-08**|**Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera**|Mikihiro Ikura et.al.|[2510.06829](http://arxiv.org/abs/2510.06829)|null|
 |**2025-10-08**|**StyleKeeper: Prevent Content Leakage using Negative Visual Query Guidance**|Jaeseok Jeong et.al.|[2510.06827](http://arxiv.org/abs/2510.06827)|null|
 |**2025-10-08**|**Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking**|Mitchell Keren Taraday et.al.|[2510.06820](http://arxiv.org/abs/2510.06820)|null|
-|**2025-10-24**|**SegMASt3R: Geometry Grounded Segment Matching**|Rohit Jayanti et.al.|[2510.05051](http://arxiv.org/abs/2510.05051)|null|
+|**2025-10-27**|**SegMASt3R: Geometry Grounded Segment Matching**|Rohit Jayanti et.al.|[2510.05051](http://arxiv.org/abs/2510.05051)|null|
 |**2025-09-23**|**Hierarchical Neural Semantic Representation for 3D Semantic Correspondence**|Keyu Du et.al.|[2509.17431](http://arxiv.org/abs/2509.17431)|null|
 |**2025-09-20**|**PM25Vision: A Large-Scale Benchmark Dataset for Visual Estimation of Air Quality**|Yang Han et.al.|[2509.16519](http://arxiv.org/abs/2509.16519)|null|
 |**2025-09-19**|**DistillMatch: Leveraging Knowledge Distillation from Vision Foundation Model for Multimodal Image Matching**|Meng Yang et.al.|[2509.16017](http://arxiv.org/abs/2509.16017)|null|
@@ -1208,7 +1487,7 @@ layout: default
 |**2025-08-09**|**SGAD: Semantic and Geometric-aware Descriptor for Local Feature Matching**|Xiangzeng Liu et.al.|[2508.02278](http://arxiv.org/abs/2508.02278)|null|
 |**2025-07-31**|**VMatcher: State-Space Semi-Dense Local Feature Matching**|Ali Youssef et.al.|[2507.23371](http://arxiv.org/abs/2507.23371)|null|
 |**2025-07-30**|**Modality-Aware Feature Matching: A Comprehensive Review of Single- and Cross-Modality Techniques**|Weide Liu et.al.|[2507.22791](http://arxiv.org/abs/2507.22791)|null|
-|**2025-07-25**|**Cross Spatial Temporal Fusion Attention for Remote Sensing Object Detection via Image Feature Matching**|Abu Sadat Mohammad Salehin Amit et.al.|[2507.19118](http://arxiv.org/abs/2507.19118)|null|
+|**2025-10-03**|**Cross Spatial Temporal Fusion Attention for Remote Sensing Object Detection via Image Feature Matching**|Abu Sadat Mohammad Salehin Amit et.al.|[2507.19118](http://arxiv.org/abs/2507.19118)|null|
 |**2025-07-24**|**A 3D Cross-modal Keypoint Descriptor for MR-US Matching and Registration**|Daniil Morozov et.al.|[2507.18551](http://arxiv.org/abs/2507.18551)|null|
 |**2025-07-22**|**A Single-step Accurate Fingerprint Registration Method Based on Local Feature Matching**|Yuwei Jia et.al.|[2507.16201](http://arxiv.org/abs/2507.16201)|null|
 |**2025-07-09**|**Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching**|Yafei Zhang et.al.|[2507.06744](http://arxiv.org/abs/2507.06744)|null|
@@ -1241,6 +1520,7 @@ layout: default
 |**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang et.al.|[2504.19398](http://arxiv.org/abs/2504.19398)|null|
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346](http://arxiv.org/abs/2504.16346)|null|
 |**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
+|**2025-04-16**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063](http://arxiv.org/abs/2504.11063)|null|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
 |**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|**[link](https://github.com/jh-chung1/imgregister2dto3d)**|
 |**2025-04-22**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
@@ -1253,6 +1533,7 @@ layout: default
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
+|**2025-03-13**|**Keypoint Semantic Integration for Improved Feature Matching in Outdoor Agricultural Environments**|Rajitha de Silva et.al.|[2503.08843](http://arxiv.org/abs/2503.08843)|null|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
 |**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
@@ -1260,9 +1541,54 @@ layout: default
 |**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
-|**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
+|**2024-11-05**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
 |**2024-11-05**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
+|**2024-10-31**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
+|**2024-10-30**|**EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data**|Zhonghua Yi et.al.|[2410.21743](http://arxiv.org/abs/2410.21743)|**[link](https://github.com/ZhonghuaYi/EI-Nexus_official)**|
+|**2024-09-13**|**Learning to Match 2D Keypoints Across Preoperative MR and Intraoperative Ultrasound**|Hassan Rasheed et.al.|[2409.08169](http://arxiv.org/abs/2409.08169)|null|
+|**2024-07-16**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789](http://arxiv.org/abs/2407.07789)|null|
+|**2024-05-01**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
+|**2024-04-16**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692](http://arxiv.org/abs/2404.09692)|null|
+|**2024-04-16**|**DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**|Johan Edstedt et.al.|[2404.08928](http://arxiv.org/abs/2404.08928)|null|
+|**2024-03-12**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
+|**2023-11-30**|**LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**|Wenhao Zhong et.al.|[2311.17571](http://arxiv.org/abs/2311.17571)|null|
+|**2023-10-23**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
+|**2024-10-03**|**Open-Vocabulary Animal Keypoint Detection with Semantic-feature Matching**|Hao Zhang et.al.|[2310.05056](http://arxiv.org/abs/2310.05056)|null|
+|**2023-09-13**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|null|
+|**2025-04-01**|**TKwinFormer: Top k Window Attention in Vision Transformers for Feature Matching**|Yun Liao et.al.|[2308.15144](http://arxiv.org/abs/2308.15144)|null|
+|**2023-07-06**|**Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural Network**|Zizhuo Li et.al.|[2307.01447](http://arxiv.org/abs/2307.01447)|null|
+|**2023-05-30**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463](http://arxiv.org/abs/2305.17463)|null|
+|**2024-01-17**|**Image Matching by Bare Homography**|Fabio Bellavia et.al.|[2305.08946](http://arxiv.org/abs/2305.08946)|null|
+|**2023-04-04**|**Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints**|Guilherme Potje et.al.|[2304.00583](http://arxiv.org/abs/2304.00583)|null|
+|**2023-04-14**|**Structured Epipolar Matcher for Local Feature Matching**|Jiahao Chang et.al.|[2303.16646](http://arxiv.org/abs/2303.16646)|null|
+|**2023-07-19**|**Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints**|Chenjie Cao et.al.|[2303.02885](http://arxiv.org/abs/2303.02885)|null|
+|**2024-06-18**|**OAMatcher: An Overlapping Areas-based Network for Accurate Local Feature Matching**|Kun Dai et.al.|[2302.05846](http://arxiv.org/abs/2302.05846)|null|
+|**2023-01-10**|**DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching**|Tao Xie et.al.|[2301.02993](http://arxiv.org/abs/2301.02993)|**[link](https://github.com/XT-1997/DeepMatcher)**|
+|**2022-12-20**|**Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images**|Welerson Melo et.al.|[2212.09589](http://arxiv.org/abs/2212.09589)|null|
+|**2023-02-03**|**DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**|Xiangyu Xu et.al.|[2212.04575](http://arxiv.org/abs/2212.04575)|null|
+|**2022-11-08**|**A Geometrically Constrained Point Matching based on View-invariant Cross-ratios, and Homography**|Yueh-Cheng Huang et.al.|[2211.03007](http://arxiv.org/abs/2211.03007)|null|
+|**2022-07-19**|**Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching**|Jiazhen Liu et.al.|[2207.07932](http://arxiv.org/abs/2207.07932)|null|
+|**2022-05-31**|**Image Keypoint Matching using Graph Neural Networks**|Nancy Xu et.al.|[2205.14275](http://arxiv.org/abs/2205.14275)|null|
+|**2022-04-25**|**Efficient Linear Attention for Fast and Accurate Keypoint Matching**|Suwichaya Suwanwimolkul et.al.|[2204.07731](http://arxiv.org/abs/2204.07731)|null|
+|**2022-02-24**|**Guide Local Feature Matching by Overlap Estimation**|Ying Chen et.al.|[2202.09050](http://arxiv.org/abs/2202.09050)|null|
+|**2021-11-24**|**Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**|Xiaoming Zhao et.al.|[2111.09006](http://arxiv.org/abs/2111.09006)|null|
+|**2022-05-03**|**HarrisZ $^+$ : Harris Corner Selection for Next-Gen Image Matching Pipelines**|Fabio Bellavia et.al.|[2109.12925](http://arxiv.org/abs/2109.12925)|null|
+|**2021-08-30**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
+|**2021-08-20**|**Learning to Match Features with Seeded Graph Matching Network**|Hongkai Chen et.al.|[2108.08771](http://arxiv.org/abs/2108.08771)|**[link](https://github.com/vdvchen/SGMNet)**|
+|**2021-06-16**|**DFM: A Performance Baseline for Deep Feature Matching**|Ufuk Efe et.al.|[2106.07791](http://arxiv.org/abs/2106.07791)|null|
+|**2021-04-05**|**End-to-end learning of keypoint detection and matching for relative pose estimation**|Antoine Fond et.al.|[2104.01085](http://arxiv.org/abs/2104.01085)|null|
+|**2021-04-02**|**LoFTR: Detector-Free Local Feature Matching with Transformers**|Jiaming Sun et.al.|[2104.00680](http://arxiv.org/abs/2104.00680)|null|
+|**2021-07-30**|**P2-Net: Joint Description and Detection of Local Features for Pixel and Point Matching**|Bing Wang et.al.|[2103.01055](http://arxiv.org/abs/2103.01055)|**[link](https://github.com/BingCS/P2-Net)**|
+|**2021-05-03**|**Learning to Guide Local Feature Matches**|François Darmon et.al.|[2010.10959](http://arxiv.org/abs/2010.10959)|null|
+|**2021-03-29**|**Co-Attention for Conditioned Image Matching**|Olivia Wiles et.al.|[2007.08480](http://arxiv.org/abs/2007.08480)|null|
+|**2019-06-17**|**Direct Image to Point Cloud Descriptors Matching for 6-DOF Camera Localization in Dense 3D Point Cloud**|Uzair Nadeem et.al.|[1906.06064](http://arxiv.org/abs/1906.06064)|null|
+|**2018-10-01**|**SConE: Siamese Constellation Embedding Descriptor for Image Matching**|Tomasz Trzcinski et.al.|[1809.11054](http://arxiv.org/abs/1809.11054)|null|
+|**2018-09-14**|**Deep Spectral Correspondence for Matching Disparate Image Pairs**|Arun CS Kumar et.al.|[1809.04642](http://arxiv.org/abs/1809.04642)|null|
+|**2018-08-08**|**Image Matching: An Application-oriented Benchmark**|JiaWang Bian et.al.|[1709.03917](http://arxiv.org/abs/1709.03917)|null|
+|**2017-11-06**|**Anisotropic-Scale Junction Detection and Matching for Indoor Images**|Nan Xue et.al.|[1703.05630](http://arxiv.org/abs/1703.05630)|null|
+|**2017-08-29**|**Improved Descriptors for Patch Matching and Reconstruction**|Rahul Mitra et.al.|[1701.06854](http://arxiv.org/abs/1701.06854)|null|
+|**2019-05-08**|**Learning Local Descriptors by Optimizing the Keypoint-Correspondence Criterion: Applications to Face Matching, Learning from Unlabeled Videos and 3D-Shape Retrieval**|Nenad Markuš et.al.|[1603.09095](http://arxiv.org/abs/1603.09095)|null|
 
 ## NeRF
 
@@ -1365,7 +1691,7 @@ layout: default
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
 |**2025-06-23**|**Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions**|Vineet Kumar Rakesh et.al.|[2507.02900](http://arxiv.org/abs/2507.02900)|null|
-|**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
+|**2025-08-01**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
 |**2025-07-01**|**PlantSegNeRF: A few-shot, cross-dataset method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**|Xin Yang et.al.|[2507.00371](http://arxiv.org/abs/2507.00371)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
@@ -1379,7 +1705,7 @@ layout: default
 |**2025-06-24**|**HoliGS: Holistic Gaussian Splatting for Embodied View Synthesis**|Xiaoyuan Wang et.al.|[2506.19291](http://arxiv.org/abs/2506.19291)|null|
 |**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng et.al.|[2506.18678](http://arxiv.org/abs/2506.18678)|null|
 |**2025-06-26**|**2D Triangle Splatting for Direct Differentiable Mesh Training**|Kaifeng Sheng et.al.|[2506.18575](http://arxiv.org/abs/2506.18575)|**[link](https://github.com/GaodeRender/triangle-splatting)**|
-|**2025-06-22**|**Limitations of NERF with pre-trained Vision Features for Few-Shot 3D Reconstruction**|Ankit Sanjyal et.al.|[2506.18208](http://arxiv.org/abs/2506.18208)|null|
+|**2025-06-24**|**Limitations of NERF with pre-trained Vision Features for Few-Shot 3D Reconstruction**|Ankit Sanjyal et.al.|[2506.18208](http://arxiv.org/abs/2506.18208)|null|
 |**2025-06-21**|**3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene**|Shihan Chen et.al.|[2506.17636](http://arxiv.org/abs/2506.17636)|null|
 |**2025-06-23**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262](http://arxiv.org/abs/2506.16262)|**[link](https://github.com/cmlab-korea/awesome-3d-low-level-vision)**|
 |**2025-06-24**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
@@ -1437,6 +1763,8 @@ layout: default
 |**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|**[link](https://github.com/JohannaXie/GauSS-MI)**|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
+|**2025-05-30**|**Weight Space Representation Learning on Diverse NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623](http://arxiv.org/abs/2502.09623)|null|
+|**2025-01-17**|**Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**|Ji Shi et.al.|[2501.09460](http://arxiv.org/abs/2501.09460)|null|
 |**2024-12-23**|**Editing Implicit and Explicit Representations of Radiance Fields: A Survey**|Arthur Hubert et.al.|[2412.17628](http://arxiv.org/abs/2412.17628)|null|
 |**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532](http://arxiv.org/abs/2412.17532)|null|
 |**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737](http://arxiv.org/abs/2412.16737)|null|
@@ -1447,6 +1775,52 @@ layout: default
 |**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579](http://arxiv.org/abs/2412.14579)|null|
 |**2024-12-19**|**Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**|Min Wang et.al.|[2412.14547](http://arxiv.org/abs/2412.14547)|null|
 |**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
+|**2024-11-22**|**Robust SG-NeRF: Robust Scene Graph Aided Neural Surface Reconstruction**|Yi Gu et.al.|[2411.13620](http://arxiv.org/abs/2411.13620)|null|
+|**2024-10-01**|**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**|Weng Fei Low et.al.|[2409.17988](http://arxiv.org/abs/2409.17988)|null|
+|**2024-12-05**|**TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene**|Sandika Biswas et.al.|[2409.17459](http://arxiv.org/abs/2409.17459)|null|
+|**2024-07-16**|**RS-NeRF: Neural Radiance Fields from Rolling Shutter Images**|Muyao Niu et.al.|[2407.10267](http://arxiv.org/abs/2407.10267)|null|
+|**2024-06-07**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723](http://arxiv.org/abs/2406.03723)|null|
+|**2024-06-04**|**NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild**|Weining Ren et.al.|[2405.18715](http://arxiv.org/abs/2405.18715)|null|
+|**2024-05-24**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871](http://arxiv.org/abs/2405.14871)|null|
+|**2024-05-07**|**Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**|Junchen Liu et.al.|[2405.02386](http://arxiv.org/abs/2405.02386)|null|
+|**2024-08-06**|**HaLo-NeRF: Learning Geometry-Guided Semantics for Exploring Unconstrained Photo Collections**|Chen Dudai et.al.|[2404.16845](http://arxiv.org/abs/2404.16845)|null|
+|**2024-04-16**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[2404.09271](http://arxiv.org/abs/2404.09271)|null|
+|**2024-07-19**|**NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields**|Muhammad Zubair Irshad et.al.|[2404.01300](http://arxiv.org/abs/2404.01300)|null|
+|**2024-04-04**|**MI-NeRF: Learning a Single Face NeRF from Multiple Identities**|Aggelina Chatziagapi et.al.|[2403.19920](http://arxiv.org/abs/2403.19920)|null|
+|**2024-02-02**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864](http://arxiv.org/abs/2402.00864)|null|
+|**2024-01-08**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|null|
+|**2023-11-29**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657](http://arxiv.org/abs/2311.16657)|null|
+|**2023-11-09**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784](http://arxiv.org/abs/2311.03784)|null|
+|**2024-08-14**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|null|
+|**2023-10-04**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821](http://arxiv.org/abs/2310.01821)|null|
+|**2023-09-18**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596](http://arxiv.org/abs/2309.08596)|null|
+|**2023-08-22**|**Strata-NeRF : Neural Radiance Fields for Stratified Scenes**|Ankit Dhiman et.al.|[2308.10337](http://arxiv.org/abs/2308.10337)|null|
+|**2023-08-08**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280](http://arxiv.org/abs/2308.03280)|null|
+|**2023-08-08**|**Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis**|Yuxin Wang et.al.|[2308.02840](http://arxiv.org/abs/2308.02840)|null|
+|**2024-07-17**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760](http://arxiv.org/abs/2306.12760)|null|
+|**2023-06-09**|**LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs**|Zezhou Cheng et.al.|[2306.05410](http://arxiv.org/abs/2306.05410)|null|
+|**2024-07-16**|**Deceptive-NeRF/3DGS: Diffusion-Generated Pseudo-Observations for High-Quality Sparse-View Reconstruction**|Xinhang Liu et.al.|[2305.15171](http://arxiv.org/abs/2305.15171)|null|
+|**2023-04-27**|**Super-NeRF: View-consistent Detail Generation for NeRF super-resolution**|Yuqi Han et.al.|[2304.13518](http://arxiv.org/abs/2304.13518)|null|
+|**2023-07-17**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406](http://arxiv.org/abs/2304.10406)|null|
+|**2023-08-22**|**Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra**|Jonas Kulhanek et.al.|[2304.09987](http://arxiv.org/abs/2304.09987)|null|
+|**2023-04-07**|**DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**|Hoigi Seo et.al.|[2304.02827](http://arxiv.org/abs/2304.02827)|null|
+|**2023-03-31**|**NeRF-Supervised Deep Stereo**|Fabio Tosi et.al.|[2303.17603](http://arxiv.org/abs/2303.17603)|null|
+|**2023-03-29**|**F $^{2}$ -NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**|Peng Wang et.al.|[2303.15951](http://arxiv.org/abs/2303.15951)|null|
+|**2023-03-10**|**PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**|Xuan Li et.al.|[2303.05512](http://arxiv.org/abs/2303.05512)|null|
+|**2025-09-17**|**MEIL-NeRF: Memory-Efficient Incremental Learning of Neural Radiance Fields**|Jaeyoung Chung et.al.|[2212.08328](http://arxiv.org/abs/2212.08328)|null|
+|**2023-06-27**|**BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields**|Peng Wang et.al.|[2211.12853](http://arxiv.org/abs/2211.12853)|null|
+|**2023-03-10**|**DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors**|Dogyoon Lee et.al.|[2211.12046](http://arxiv.org/abs/2211.12046)|null|
+|**2023-03-13**|**DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images**|Bing Wang et.al.|[2208.07227](http://arxiv.org/abs/2208.07227)|null|
+|**2022-06-14**|**AR-NeRF: Unsupervised Learning of Depth and Defocus Effects from Natural Images with Aperture Rendering Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2206.06100](http://arxiv.org/abs/2206.06100)|null|
+|**2022-04-28**|**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**|Lin Yen-Chen et.al.|[2203.01913](http://arxiv.org/abs/2203.01913)|null|
+|**2022-02-11**|**Block-NeRF: Scalable Large Scene Neural View Synthesis**|Matthew Tancik et.al.|[2202.05263](http://arxiv.org/abs/2202.05263)|null|
+|**2022-03-30**|**Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs**|Haithem Turki et.al.|[2112.10703](http://arxiv.org/abs/2112.10703)|null|
+|**2022-07-22**|**NeRF for Outdoor Scene Relighting**|Viktor Rudnev et.al.|[2112.05140](http://arxiv.org/abs/2112.05140)|null|
+|**2022-07-22**|**NeRF-SR: High-Quality Neural Radiance Fields using Supersampling**|Chen Wang et.al.|[2112.01759](http://arxiv.org/abs/2112.01759)|null|
+|**2023-04-26**|**HDR-NeRF: High Dynamic Range Neural Radiance Fields**|Xin Huang et.al.|[2111.14451](http://arxiv.org/abs/2111.14451)|null|
+|**2021-08-20**|**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis**|Yudong Guo et.al.|[2103.11078](http://arxiv.org/abs/2103.11078)|null|
+|**2021-01-18**|**Neural Volume Rendering: NeRF And Beyond**|Frank Dellaert et.al.|[2101.05204](http://arxiv.org/abs/2101.05204)|null|
+|**2021-01-07**|**NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections**|Ricardo Martin-Brualla et.al.|[2008.02268](http://arxiv.org/abs/2008.02268)|null|
 
 ## Object Dection and Track
 
@@ -1742,6 +2116,7 @@ layout: default
 |**2025-09-15**|**SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection**|Zhenni Yu et.al.|[2509.11884](http://arxiv.org/abs/2509.11884)|null|
 |**2025-09-15**|**Multi-animal tracking in Transition: Comparative Insights into Established and Emerging Methods**|Anne Marthe Sophie Ngo Bibinbe et.al.|[2509.11873](http://arxiv.org/abs/2509.11873)|null|
 |**2025-09-15**|**Seg2Track-SAM2: SAM2-based Multi-object Tracking and Segmentation for Zero-shot Generalization**|Diogo Mendonça et.al.|[2509.11772](http://arxiv.org/abs/2509.11772)|null|
+|**2025-08-19**|**Omni Survey for Multimodality Analysis in Visual Object Tracking**|Zhangyong Tang et.al.|[2508.13000](http://arxiv.org/abs/2508.13000)|null|
 |**2025-07-22**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
 |**2025-07-21**|**Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering**|Saeed A. Khan et.al.|[2507.15845](http://arxiv.org/abs/2507.15845)|null|
 |**2025-07-21**|**SDSO1 is a Ghost Planetary Nebula Bow Shock in Front of M31**|Patrick Ogle et.al.|[2507.15834](http://arxiv.org/abs/2507.15834)|null|
@@ -2282,31 +2657,84 @@ layout: default
 |**2025-05-15**|**Uncovering Magnetic Phases with Synthetic Data and Physics-Informed Training**|Agustin Medina et.al.|[2505.10393](http://arxiv.org/abs/2505.10393)|null|
 |**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|**[link](https://github.com/rufimelo99/SAE-Java-Bug-Detection)**|
 |**2025-05-15**|**Arbitrarily Small Execution-Time Certificate: What was Missed in Analog Optimization**|Liang Wu et.al.|[2505.10366](http://arxiv.org/abs/2505.10366)|**[link](https://github.com/liangwu2019/AnalogOptimization)**|
+|**2025-05-02**|**A Robust Deep Networks based Multi-Object MultiCamera Tracking System for City Scale Traffic**|Muhammad Imran Zaman et.al.|[2505.00534](http://arxiv.org/abs/2505.00534)|null|
+|**2025-05-06**|**SAM2MOT: A Novel Paradigm of Multi-Object Tracking by Segmentation**|Junjie Jiang et.al.|[2504.04519](http://arxiv.org/abs/2504.04519)|null|
+|**2025-04-03**|**COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking**|Chunhui Zhang et.al.|[2504.01321](http://arxiv.org/abs/2504.01321)|null|
+|**2025-03-28**|**MCBLT: Multi-Camera Multi-Object 3D Tracking in Long Videos**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
+|**2025-05-20**|**Underwater Camouflaged Object Tracking Meets Vision-Language SAM2**|Chunhui Zhang et.al.|[2409.16902](http://arxiv.org/abs/2409.16902)|null|
+|**2024-09-02**|**UTrack: Multi-Object Tracking with Uncertain Detections**|Edgardo Solano-Carrillo et.al.|[2408.17098](http://arxiv.org/abs/2408.17098)|null|
+|**2024-11-05**|**eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking**|Yucheng Chen et.al.|[2406.20024](http://arxiv.org/abs/2406.20024)|null|
+|**2024-06-04**|**Multi-Object Tracking based on Imaging Radar 3D Object Detection**|Patrick Palmer et.al.|[2406.01011](http://arxiv.org/abs/2406.01011)|null|
+|**2024-06-03**|**Awesome Multi-modal Object Tracking**|Chunhui Zhang et.al.|[2405.14200](http://arxiv.org/abs/2405.14200)|null|
+|**2024-12-16**|**ADA-Track++: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association**|Shuxiao Ding et.al.|[2405.08909](http://arxiv.org/abs/2405.08909)|null|
+|**2024-07-31**|**Fast-Poly: A Fast Polyhedral Framework For 3D Multi-Object Tracking**|Xiaoyu Li et.al.|[2403.13443](http://arxiv.org/abs/2403.13443)|null|
+|**2025-01-22**|**MambaMOT: State-Space Model as Motion Predictor for Multi-Object Tracking**|Hsiang-Wei Huang et.al.|[2403.10826](http://arxiv.org/abs/2403.10826)|null|
+|**2024-05-01**|**UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**|Chang Won Lee et.al.|[2402.12303](http://arxiv.org/abs/2402.12303)|null|
+|**2023-11-27**|**Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking**|Cheng-Yen Yang et.al.|[2311.03561](http://arxiv.org/abs/2311.03561)|null|
+|**2025-01-08**|**Siamese-DETR for Generic Multi-Object Tracking**|Qiankun Liu et.al.|[2310.17875](http://arxiv.org/abs/2310.17875)|null|
+|**2023-08-24**|**Multi-object Detection, Tracking and Prediction in Rugged Dynamic Environments**|Shixing Huang et.al.|[2308.11870](http://arxiv.org/abs/2308.11870)|null|
+|**2024-02-22**|**DiffusionTrack: Diffusion Model For Multi-Object Tracking**|Run Luo et.al.|[2308.09905](http://arxiv.org/abs/2308.09905)|null|
+|**2023-08-01**|**Poly-MOT: A Polyhedral Framework For 3D Multi-Object Tracking**|Xiaoyu Li et.al.|[2307.16675](http://arxiv.org/abs/2307.16675)|null|
+|**2024-03-28**|**Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking**|Xin Chen et.al.|[2304.14394](http://arxiv.org/abs/2304.14394)|null|
+|**2023-03-14**|**Referring Multi-Object Tracking**|Dongming Wu et.al.|[2303.03366](http://arxiv.org/abs/2303.03366)|null|
+|**2023-10-13**|**Universal Object Detection with Large Vision Model**|Feng Lin et.al.|[2212.09408](http://arxiv.org/abs/2212.09408)|null|
+|**2022-12-19**|**Detection-aware multi-object tracking evaluation**|Juan C. SanMiguel et.al.|[2212.08536](http://arxiv.org/abs/2212.08536)|null|
+|**2022-09-13**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540](http://arxiv.org/abs/2209.02540)|null|
+|**2022-07-18**|**Tracking Objects as Pixel-wise Distributions**|Zelin Zhao et.al.|[2207.05518](http://arxiv.org/abs/2207.05518)|null|
+|**2022-04-18**|**Towards PAC Multi-Object Detection and Tracking**|Shuo Li et.al.|[2204.07482](http://arxiv.org/abs/2204.07482)|null|
+|**2022-04-01**|**MeMOT: Multi-Object Tracking with Memory**|Jiarui Cai et.al.|[2203.16761](http://arxiv.org/abs/2203.16761)|null|
+|**2022-11-09**|**Reliable Multi-Object Tracking in the Presence of Unreliable Detections**|Travis Mandel et.al.|[2112.08345](http://arxiv.org/abs/2112.08345)|null|
+|**2022-04-08**|**ByteTrack: Multi-Object Tracking by Associating Every Detection Box**|Yifu Zhang et.al.|[2110.06864](http://arxiv.org/abs/2110.06864)|null|
+|**2021-08-24**|**Exploring Simple 3D Multi-Object Tracking for Autonomous Driving**|Chenxu Luo et.al.|[2108.10312](http://arxiv.org/abs/2108.10312)|null|
+|**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
+|**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
+|**2021-07-02**|**On the detection-to-track association for online multi-object tracking**|Xufeng Lin et.al.|[2107.00500](http://arxiv.org/abs/2107.00500)|null|
+|**2021-04-13**|**Global Correlation Network: End-to-End Joint Multi-Object Detection and Tracking**|Xuewu Lin et.al.|[2103.12511](http://arxiv.org/abs/2103.12511)|null|
+|**2021-03-17**|**Track to Detect and Segment: An Online Multi-Object Tracker**|Jialian Wu et.al.|[2103.08808](http://arxiv.org/abs/2103.08808)|null|
+|**2021-10-12**|**Probabilistic 3D Multi-Modal, Multi-Object Tracking for Autonomous Driving**|Hsu-kuang Chiu et.al.|[2012.13755](http://arxiv.org/abs/2012.13755)|null|
+|**2020-11-02**|**SMOT: Single-Shot Multi Object Tracking**|Wei Li et.al.|[2010.16031](http://arxiv.org/abs/2010.16031)|null|
+|**2020-10-27**|**Multi-object tracking with self-supervised associating network**|Tae-young Chung et.al.|[2010.13424](http://arxiv.org/abs/2010.13424)|null|
+|**2020-06-25**|**IA-MOT: Instance-Aware Multi-Object Tracking with Motion Consistency**|Jiarui Cai et.al.|[2006.13458](http://arxiv.org/abs/2006.13458)|null|
+|**2020-06-23**|**Semi-Supervised Object Detection with Sparsely Annotated Dataset**|Jihun Yoon et.al.|[2006.11692](http://arxiv.org/abs/2006.11692)|null|
+|**2021-09-09**|**Quasi-Dense Similarity Learning for Multiple Object Tracking**|Jiangmiao Pang et.al.|[2006.06664](http://arxiv.org/abs/2006.06664)|null|
+|**2020-09-16**|**How to track your dragon: A Multi-Attentional Framework for real-time RGB-D 6-DOF Object Pose Tracking**|Isidoros Marougkas et.al.|[2004.10335](http://arxiv.org/abs/2004.10335)|null|
+|**2020-04-17**|**Multi-Object Tracking with Siamese Track-RCNN**|Bing Shuai et.al.|[2004.07786](http://arxiv.org/abs/2004.07786)|null|
+|**2020-03-23**|**MOT20: A benchmark for multi object tracking in crowded scenes**|Patrick Dendorfer et.al.|[2003.09003](http://arxiv.org/abs/2003.09003)|null|
+|**2019-03-07**|**The H3D Dataset for Full-Surround 3D Multi-Object Detection and Tracking in Crowded Urban Scenes**|Abhishek Patil et.al.|[1903.01568](http://arxiv.org/abs/1903.01568)|null|
+|**2018-09-05**|**PFDet: 2nd Place Solution to Open Images Challenge 2018 Object Detection Track**|Takuya Akiba et.al.|[1809.00778](http://arxiv.org/abs/1809.00778)|null|
+|**2019-10-29**|**Tracking Multiple Vehicles Using a Variational Radar Model**|Alexander Scheel et.al.|[1711.03799](http://arxiv.org/abs/1711.03799)|null|
+|**2018-05-30**|**Multi-Class Multi-Object Tracking using Changing Point Detection**|Byungjae Lee et.al.|[1608.08434](http://arxiv.org/abs/1608.08434)|null|
+|**2016-03-15**|**Region Graph Based Method for Multi-Object Detection and Tracking using Depth Cameras**|Sachin Mehta et.al.|[1603.03783](http://arxiv.org/abs/1603.03783)|null|
+|**2020-01-28**|**UA-DETRAC: A New Benchmark and Protocol for Multi-Object Detection and Tracking**|Longyin Wen et.al.|[1511.04136](http://arxiv.org/abs/1511.04136)|null|
 
 ## Point Track
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2006-12-14**|**Optimal Point-to-Point Trajectory Tracking of Redundant Manipulators using Generalized Pattern Search**|Atef A. Ata et.al.|[cs/0601063](http://arxiv.org/abs/cs/0601063)|null|
+|**2008-02-03**|**Tracking Point of View in Narrative**|Janyce M. Wiebe et.al.|[cmp-lg/9407019](http://arxiv.org/abs/cmp-lg/9407019)|null|
+|**2009-11-06**|**Wide-field tracking with zenth-pointing telescopes**|Paul Hickson et.al.|[astro-ph/0106191](http://arxiv.org/abs/astro-ph/0106191)|null|
 |**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[2511.02830](http://arxiv.org/abs/2511.02830)|null|
 |**2025-11-02**|**Anatomically Constrained Transformers for Echocardiogram Analysis**|Alexander Thorley et.al.|[2511.01109](http://arxiv.org/abs/2511.01109)|null|
 |**2025-10-30**|**PointSt3R: Point Tracking through 3D Grounded Correspondence**|Rhodri Guerrier et.al.|[2510.26443](http://arxiv.org/abs/2510.26443)|null|
-|**2025-10-23**|**Generative Point Tracking with Flow Matching**|Mattie Tesfaldet et.al.|[2510.20951](http://arxiv.org/abs/2510.20951)|null|
+|**2025-10-27**|**Generative Point Tracking with Flow Matching**|Mattie Tesfaldet et.al.|[2510.20951](http://arxiv.org/abs/2510.20951)|null|
 |**2025-10-22**|**Is This Tracker On? A Benchmark Protocol for Dynamic Tracking**|Ilona Demler et.al.|[2510.19819](http://arxiv.org/abs/2510.19819)|null|
 |**2025-10-16**|**C4D: 4D Made from 3D through Dual Correspondences**|Shizun Wang et.al.|[2510.14960](http://arxiv.org/abs/2510.14960)|null|
 |**2025-10-15**|**Trace Anything: Representing Any Video in 4D via Trajectory Fields**|Xinhang Liu et.al.|[2510.13802](http://arxiv.org/abs/2510.13802)|null|
 |**2025-10-15**|**Leveraging 2D Priors and SDF Guidance for Dynamic Urban Scene Rendering**|Siddharth Tourani et.al.|[2510.13381](http://arxiv.org/abs/2510.13381)|null|
-|**2025-10-13**|**Point Prompting: Counterfactual Tracking with Video Diffusion Models**|Ayush Shrivastava et.al.|[2510.11715](http://arxiv.org/abs/2510.11715)|null|
+|**2025-10-14**|**Point Prompting: Counterfactual Tracking with Video Diffusion Models**|Ayush Shrivastava et.al.|[2510.11715](http://arxiv.org/abs/2510.11715)|null|
 |**2025-10-11**|**Low-cost Pyranometer-Based ANN Approach for MPPT in Solar PV Systems**|Luiz Fernando M. Arruda et.al.|[2510.10313](http://arxiv.org/abs/2510.10313)|null|
 |**2025-10-08**|**SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis**|Jipeng Lyu et.al.|[2510.06694](http://arxiv.org/abs/2510.06694)|null|
 |**2025-10-07**|**Unbiased Extremum Seeking for MPPT in Photovoltaic Systems**|Cemal Tugrul Yilmaz et.al.|[2510.05563](http://arxiv.org/abs/2510.05563)|null|
 |**2025-10-03**|**Economic zone data-enabled predictive control for connected open water systems**|Xiaoqiao Chen et.al.|[2510.03043](http://arxiv.org/abs/2510.03043)|null|
+|**2025-10-03**|**When Tracking Fails: Analyzing Failure Modes of SAM2 for Point-Based Tracking in Surgical Videos**|Woowon Jang et.al.|[2510.02100](http://arxiv.org/abs/2510.02100)|null|
 |**2025-09-29**|**PAD3R: Pose-Aware Dynamic 3D Reconstruction from Casual Videos**|Ting-Hsuan Liao et.al.|[2509.25183](http://arxiv.org/abs/2509.25183)|null|
-|**2025-09-23**|**Track-On2: Enhancing Online Point Tracking with Memory**|Görkay Aydemir et.al.|[2509.19115](http://arxiv.org/abs/2509.19115)|null|
+|**2025-09-24**|**Track-On2: Enhancing Online Point Tracking with Memory**|Görkay Aydemir et.al.|[2509.19115](http://arxiv.org/abs/2509.19115)|null|
 |**2025-09-21**|**History-Aware Visuomotor Policy Learning via Point Tracking**|Jingjing Chen et.al.|[2509.17141](http://arxiv.org/abs/2509.17141)|null|
 |**2025-11-01**|**Lattice Boltzmann Model for Learning Real-World Pixel Dynamicity**|Guangze Zheng et.al.|[2509.16527](http://arxiv.org/abs/2509.16527)|null|
 |**2025-09-10**|**Analysis and Control of Acoustic Emissions from Marine Energy Converters**|Jiaqin He et.al.|[2509.08656](http://arxiv.org/abs/2509.08656)|null|
 |**2025-09-01**|**Articulated Object Estimation in the Wild**|Abdelrhman Werby et.al.|[2509.01708](http://arxiv.org/abs/2509.01708)|null|
-|**2025-08-28**|**Multi-View 3D Point Tracking**|Frano Rajič et.al.|[2508.21060](http://arxiv.org/abs/2508.21060)|null|
+|**2025-08-29**|**Multi-View 3D Point Tracking**|Frano Rajič et.al.|[2508.21060](http://arxiv.org/abs/2508.21060)|null|
 |**2025-08-24**|**Minimal Solvers for Full DoF Motion Estimation from Asynchronous Tracks**|Petr Hruby et.al.|[2508.17537](http://arxiv.org/abs/2508.17537)|null|
 |**2025-08-24**|**Analysis of Circuit-based Per-Panel Diode Model of Photovoltaic Array**|Peng Sang et.al.|[2508.17374](http://arxiv.org/abs/2508.17374)|null|
 |**2025-08-21**|**Demystifying Reward Design in Reinforcement Learning for Upper Extremity Interaction: Practical Guidelines for Biomechanical Simulations in HCI**|Hannah Selder et.al.|[2508.15727](http://arxiv.org/abs/2508.15727)|null|
@@ -2324,7 +2752,7 @@ layout: default
 |**2025-07-14**|**Taming Modern Point Tracking for Speckle Tracking Echocardiography via Impartial Motion**|Md Abulkalam Azad et.al.|[2507.10127](http://arxiv.org/abs/2507.10127)|null|
 |**2025-07-14**|**MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second**|Chenguo Lin et.al.|[2507.10065](http://arxiv.org/abs/2507.10065)|null|
 |**2025-07-12**|**Online Long-term Point Tracking in the Foundation Model Era**|Görkay Aydemir et.al.|[2507.09217](http://arxiv.org/abs/2507.09217)|null|
-|**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233](http://arxiv.org/abs/2507.06233)|null|
+|**2025-07-09**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233](http://arxiv.org/abs/2507.06233)|null|
 |**2025-07-03**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al.|[2507.02393](http://arxiv.org/abs/2507.02393)|null|
 |**2025-07-04**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990](http://arxiv.org/abs/2507.00990)|null|
 |**2025-06-26**|**Linear and Second-order-cone Valid Inequalities for Problems with Storage**|Juan M. Morales et.al.|[2506.21470](http://arxiv.org/abs/2506.21470)|null|
@@ -2346,30 +2774,95 @@ layout: default
 |**2025-04-30**|**Model-Free Two-Degree-of-Freedom PID Controller Design for Unknown LTI Systems**|Taiga Kiyota et.al.|[2504.21341](http://arxiv.org/abs/2504.21341)|null|
 |**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788](http://arxiv.org/abs/2504.17788)|null|
 |**2025-04-23**|**PRaDA: Projective Radial Distortion Averaging**|Daniil Sinitsyn et.al.|[2504.16499](http://arxiv.org/abs/2504.16499)|null|
-|**2025-05-26**|**TAPIP3D: Tracking Any Point in Persistent 3D Geometry**|Bowei Zhang et.al.|[2504.14717](http://arxiv.org/abs/2504.14717)|null|
+|**2025-05-28**|**TAPIP3D: Tracking Any Point in Persistent 3D Geometry**|Bowei Zhang et.al.|[2504.14717](http://arxiv.org/abs/2504.14717)|null|
 |**2025-04-20**|**Seurat: From Moving Points to Depth**|Seokju Cho et.al.|[2504.14687](http://arxiv.org/abs/2504.14687)|null|
 |**2025-04-17**|**St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**|Haiwen Feng et.al.|[2504.13152](http://arxiv.org/abs/2504.13152)|null|
+|**2025-04-16**|**Intelligent driving vehicle front multi-target tracking and detection based on YOLOv5 and point cloud 3D projection**|Dayong Liu et.al.|[2504.11310](http://arxiv.org/abs/2504.11310)|null|
 |**2025-04-14**|**LiteTracker: Leveraging Temporal Causality for Accurate Low-latency Tissue Tracking**|Mert Asim Karaoglu et.al.|[2504.09904](http://arxiv.org/abs/2504.09904)|**[link](https://github.com/ImFusionGmbH/lite-tracker)**|
 |**2025-08-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692](http://arxiv.org/abs/2504.05692)|null|
 |**2025-03-31**|**Point Tracking in Surgery--The 2024 Surgical Tattoos in Infrared (STIR) Challenge**|Adam Schmidt et.al.|[2503.24306](http://arxiv.org/abs/2503.24306)|null|
+|**2025-03-18**|**GIFT: Generated Indoor video frames for Texture-less point tracking**|Jianzheng Huang et.al.|[2503.12944](http://arxiv.org/abs/2503.12944)|null|
+|**2025-01-31**|**Track-On: Transformer-based Online Point Tracking with Memory**|Görkay Aydemir et.al.|[2501.18487](http://arxiv.org/abs/2501.18487)|null|
+|**2025-04-22**|**Exploring Temporally-Aware Features for Point Tracking**|Inès Hyeonsu Kim et.al.|[2501.12218](http://arxiv.org/abs/2501.12218)|null|
+|**2025-03-11**|**ProTracker: Probabilistic Integration for Robust and Accurate Point Tracking**|Tingyang Zhang et.al.|[2501.03220](http://arxiv.org/abs/2501.03220)|null|
+|**2025-04-08**|**Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation**|Hyeonho Jeong et.al.|[2412.06016](http://arxiv.org/abs/2412.06016)|null|
+|**2024-12-09**|**EgoPoints: Advancing Point Tracking for Egocentric Videos**|Ahmad Darkhalil et.al.|[2412.04592](http://arxiv.org/abs/2412.04592)|null|
+|**2024-09-10**|**Leveraging Object Priors for Point Tracking**|Bikram Boote et.al.|[2409.05786](http://arxiv.org/abs/2409.05786)|null|
+|**2024-07-31**|**Autogenic Language Embedding for Coherent Point Tracking**|Zikai Song et.al.|[2407.20730](http://arxiv.org/abs/2407.20730)|null|
+|**2024-05-28**|**Clustering-based Learning for UAV Tracking and Pose Estimation**|Jiaping Xiao et.al.|[2405.16867](http://arxiv.org/abs/2405.16867)|null|
+|**2024-06-28**|**Fast Encoder-Based 3D from Casual Videos via Point Track Processing**|Yoni Kasten et.al.|[2404.07097](http://arxiv.org/abs/2404.07097)|null|
+|**2024-03-21**|**TAPTR: Tracking Any Point with Transformers as Detection**|Hongyang Li et.al.|[2403.13042](http://arxiv.org/abs/2403.13042)|null|
+|**2024-08-01**|**PIPsUS: Self-Supervised Point Tracking in Ultrasound**|Wanwen Chen et.al.|[2403.04969](http://arxiv.org/abs/2403.04969)|null|
+|**2024-05-24**|**BootsTAP: Bootstrapped Training for Tracking-Any-Point**|Carl Doersch et.al.|[2402.00847](http://arxiv.org/abs/2402.00847)|null|
+|**2025-11-07**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
+|**2023-12-05**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197](http://arxiv.org/abs/2307.01197)|null|
+|**2023-08-31**|**TAPIR: Tracking Any Point with per-frame Initialization and temporal Refinement**|Carl Doersch et.al.|[2306.08637](http://arxiv.org/abs/2306.08637)|null|
+|**2023-10-13**|**An Effective Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds**|Chaoda Zheng et.al.|[2303.12535](http://arxiv.org/abs/2303.12535)|null|
+|**2023-04-03**|**TAP-Vid: A Benchmark for Tracking Any Point in a Video**|Carl Doersch et.al.|[2211.03726](http://arxiv.org/abs/2211.03726)|null|
+|**2022-11-03**|**3DMODT: Attention-Guided Affinities for Joint Detection & Tracking in 3D Point Clouds**|Jyoti Kini et.al.|[2211.00746](http://arxiv.org/abs/2211.00746)|null|
+|**2022-10-04**|**Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking**|Yubo Cui et.al.|[2210.00519](http://arxiv.org/abs/2210.00519)|null|
+|**2022-08-11**|**Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer**|Zhipeng Luo et.al.|[2208.05216](http://arxiv.org/abs/2208.05216)|null|
+|**2022-09-07**|**Transformers for Multi-Object Tracking on Point Clouds**|Felicia Ruppel et.al.|[2205.15730](http://arxiv.org/abs/2205.15730)|null|
+|**2022-04-22**|**Sequential Point Clouds: A Survey**|Haiyan Wang et.al.|[2204.09337](http://arxiv.org/abs/2204.09337)|null|
+|**2022-03-22**|**Point3D: tracking actions as moving points with 3D CNNs**|Shentong Mo et.al.|[2203.10584](http://arxiv.org/abs/2203.10584)|null|
+|**2022-03-31**|**PTTR: Relational 3D Point Cloud Object Tracking with Transformer**|Changqing Zhou et.al.|[2112.02857](http://arxiv.org/abs/2112.02857)|null|
+|**2021-10-19**|**Deep Models with Fusion Strategies for MVP Point Cloud Registration**|Lifa Zhu et.al.|[2110.09129](http://arxiv.org/abs/2110.09129)|null|
+|**2021-10-08**|**PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds**|Jiayao Shan et.al.|[2108.06455](http://arxiv.org/abs/2108.06455)|null|
+|**2021-08-13**|**3D-SiamRPN: An End-to-End Learning Method for Real-Time 3D Single Object Tracking Using Raw Point Cloud**|Zheng Fang et.al.|[2108.05630](http://arxiv.org/abs/2108.05630)|null|
+|**2021-06-01**|**Polygonal Point Set Tracking**|Gunhee Nam et.al.|[2105.14584](http://arxiv.org/abs/2105.14584)|null|
+|**2020-08-24**|**Tracking Objects as Points**|Xingyi Zhou et.al.|[2004.01177](http://arxiv.org/abs/2004.01177)|null|
+|**2020-04-28**|**MMC-Based Distributed Maximum Power Point Tracking for Photovoltaic Systems**|Farog Mohamed et.al.|[2002.12919](http://arxiv.org/abs/2002.12919)|null|
+|**2018-09-18**|**Fast Maximum Power Point Tracking for PV Arrays under Partial shaded Conditions**|M. Amin Ghasemi et.al.|[1809.06005](http://arxiv.org/abs/1809.06005)|null|
+|**2025-11-07**|**Real-Time Shape Tracking of Facial Landmarks**|Hyungjoon Kim et.al.|[1807.05333](http://arxiv.org/abs/1807.05333)|null|
+|**2017-06-09**|**Automatic tracking of vessel-like structures from a single starting point**|Dario Augusto Borges Oliveira et.al.|[1706.02434](http://arxiv.org/abs/1706.02434)|null|
+|**2017-06-09**|**CoMaL Tracking: Tracking Points at the Object Boundaries**|Santhosh K. Ramakrishnan et.al.|[1706.02331](http://arxiv.org/abs/1706.02331)|null|
+|**2018-05-30**|**Multi-Class Multi-Object Tracking using Changing Point Detection**|Byungjae Lee et.al.|[1608.08434](http://arxiv.org/abs/1608.08434)|null|
+|**2018-03-05**|**On point processes in multitarget tracking**|Ronald Mahler et.al.|[1603.02373](http://arxiv.org/abs/1603.02373)|null|
+|**2016-07-05**|**Tracking Dynamic Point Processes on Networks**|Eric C. Hall et.al.|[1409.0031](http://arxiv.org/abs/1409.0031)|null|
+|**2014-11-21**|**Interest Point Detection for Reconstruction in High Granularity Tracking Detectors**|Ben Morgan et.al.|[1006.3012](http://arxiv.org/abs/1006.3012)|null|
 
 ## Video Camouflaged Object Detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-08**|**Phantom-Insight: Adaptive Multi-cue Fusion for Video Camouflaged Object Detection with Multimodal LLM**|Hua Zhang et.al.|[2509.06422](http://arxiv.org/abs/2509.06422)|null|
-|**2025-07-31**|**Mamba-based Efficient Spatio-Frequency Motion Perception for Video Camouflaged Object Detection**|Xin Li et.al.|[2507.23601](http://arxiv.org/abs/2507.23601)|null|
-|**2025-07-18**|**ZS-VCOS: Zero-Shot Video Camouflaged Object Segmentation By Optical Flow and Open Vocabulary Object Detection**|Wenqi Guo et.al.|[2505.01431](http://arxiv.org/abs/2505.01431)|null|
-|**2025-04-01**|**CamoSAM2: Motion-Appearance Induced Auto-Refining Prompts for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2504.00375](http://arxiv.org/abs/2504.00375)|null|
-|**2025-03-26**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730](http://arxiv.org/abs/2503.19730)|**[link](https://github.com/zhoustan/CamSAM2)**|
-|**2025-03-21**|**Scoring, Remember, and Reference: Catching Camouflaged Objects in Videos**|Yuang Feng et.al.|[2503.17050](http://arxiv.org/abs/2503.17050)|null|
-|**2025-05-30**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859](http://arxiv.org/abs/2502.13859)|null|
-|**2025-01-19**|**Green Video Camouflaged Object Detection**|Xinyu Wang et.al.|[2501.10914](http://arxiv.org/abs/2501.10914)|null|
-|**2025-05-10**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653](http://arxiv.org/abs/2409.18653)|null|
-|**2024-06-09**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|null|
-|**2025-04-28**|**Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2403.01968](http://arxiv.org/abs/2403.01968)|null|
-|**2024-02-01**|**TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection**|Zifan Yu et.al.|[2311.02535](http://arxiv.org/abs/2311.02535)|null|
-|**2022-03-15**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363](http://arxiv.org/abs/2203.07363)|null|
+|**2025-11-07**|**HideAndSeg: an AI-based tool with automated prompting for octopus segmentation in natural habitats**|Alan de Aguiar et.al.|[2511.04426](http://arxiv.org/abs/2511.04426)|null|
+|**2025-10-07**|**SPEGNet: Synergistic Perception-Guided Network for Camouflaged Object Detection**|Baber Jan et.al.|[2510.04472](http://arxiv.org/abs/2510.04472)|null|
+|**2025-09-09**|**Phantom-Insight: Adaptive Multi-cue Fusion for Video Camouflaged Object Detection with Multimodal LLM**|Hua Zhang et.al.|[2509.06422](http://arxiv.org/abs/2509.06422)|null|
+|**2025-09-23**|**MOSEv2: A More Challenging Dataset for Video Object Segmentation in Complex Scenes**|Henghui Ding et.al.|[2508.05630](http://arxiv.org/abs/2508.05630)|null|
+|**2025-08-01**|**Mamba-based Efficient Spatio-Frequency Motion Perception for Video Camouflaged Object Detection**|Xin Li et.al.|[2507.23601](http://arxiv.org/abs/2507.23601)|null|
+|**2025-07-22**|**ZS-VCOS: Zero-Shot Video Camouflaged Object Segmentation By Optical Flow and Open Vocabulary Object Detection**|Wenqi Guo et.al.|[2505.01431](http://arxiv.org/abs/2505.01431)|null|
+|**2025-04-02**|**CamoSAM2: Motion-Appearance Induced Auto-Refining Prompts for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2504.00375](http://arxiv.org/abs/2504.00375)|null|
+|**2025-04-01**|**Context in object detection: a systematic literature review**|Mahtab Jamali et.al.|[2503.23249](http://arxiv.org/abs/2503.23249)|null|
+|**2025-03-27**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730](http://arxiv.org/abs/2503.19730)|null|
+|**2025-03-24**|**Scoring, Remember, and Reference: Catching Camouflaged Objects in Videos**|Yuang Feng et.al.|[2503.17050](http://arxiv.org/abs/2503.17050)|null|
+|**2025-06-02**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859](http://arxiv.org/abs/2502.13859)|null|
+|**2025-01-22**|**Green Video Camouflaged Object Detection**|Xinyu Wang et.al.|[2501.10914](http://arxiv.org/abs/2501.10914)|null|
+|**2025-08-27**|**Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes**|Xiaoqi Zhao et.al.|[2412.01240](http://arxiv.org/abs/2412.01240)|null|
+|**2025-05-13**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653](http://arxiv.org/abs/2409.18653)|null|
+|**2024-08-28**|**A Survey of Camouflaged Object Detection and Beyond**|Fengyang Xiao et.al.|[2408.14562](http://arxiv.org/abs/2408.14562)|null|
+|**2024-08-01**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
+|**2024-07-30**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|null|
+|**2025-04-29**|**Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2403.01968](http://arxiv.org/abs/2403.01968)|null|
+|**2024-02-05**|**TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection**|Zifan Yu et.al.|[2311.02535](http://arxiv.org/abs/2311.02535)|null|
+|**2024-07-16**|**ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection**|Youwei Pang et.al.|[2310.20208](http://arxiv.org/abs/2310.20208)|null|
+|**2023-09-28**|**Learning Spatial-Temporal Regularized Tensor Sparse RPCA for Background Subtraction**|Basit Alawode et.al.|[2309.15576](http://arxiv.org/abs/2309.15576)|null|
+|**2023-09-01**|**Improving Underwater Visual Tracking With a Large Scale Dataset and Image Enhancement**|Basit Alawode et.al.|[2308.15816](http://arxiv.org/abs/2308.15816)|null|
+|**2022-12-22**|**Video Segmentation Learning Using Cascade Residual Convolutional Neural Network**|Daniel F. S. Santos et.al.|[2212.10570](http://arxiv.org/abs/2212.10570)|null|
+|**2022-07-15**|**Graph CNN for Moving Object Detection in Complex Environments from Unseen Videos**|Jhony H. Giraldo et.al.|[2207.06440](http://arxiv.org/abs/2207.06440)|null|
+|**2022-07-12**|**Physical Attack on Monocular Depth Estimation with Optimal Adversarial Patches**|Zhiyuan Cheng et.al.|[2207.04718](http://arxiv.org/abs/2207.04718)|null|
+|**2023-01-04**|**Towards Deeper Understanding of Camouflaged Object Detection**|Yunqiu Lv et.al.|[2205.11333](http://arxiv.org/abs/2205.11333)|null|
+|**2022-03-16**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363](http://arxiv.org/abs/2203.07363)|**[link](https://github.com/XuelianCheng/SLT-Net)**|
+|**2021-11-03**|**Saliency detection with moving camera via background model completion**|Yupei Zhang et.al.|[2111.01681](http://arxiv.org/abs/2111.01681)|null|
+|**2021-07-08**|**Bio-Inspired Adversarial Attack Against Deep Neural Networks**|Bowei Xi et.al.|[2107.02895](http://arxiv.org/abs/2107.02895)|null|
+|**2021-05-27**|**Detecting Biological Locomotion in Video: A Computational Approach**|Soo Min Kang et.al.|[2105.12661](http://arxiv.org/abs/2105.12661)|null|
+|**2021-08-12**|**Self-supervised Video Object Segmentation by Motion Grouping**|Charig Yang et.al.|[2104.07658](http://arxiv.org/abs/2104.07658)|null|
+|**2020-11-24**|**Betrayed by Motion: Camouflaged Object Discovery via Motion Segmentation**|Hala Lamdouar et.al.|[2011.11630](http://arxiv.org/abs/2011.11630)|null|
+|**2020-06-16**|**Hyper RPCA: Joint Maximum Correntropy Criterion and Laplacian Scale Mixture Modeling On-the-Fly for Moving Object Detection**|Zerui Shao et.al.|[2006.07795](http://arxiv.org/abs/2006.07795)|null|
+|**2019-08-30**|**Great Ape Detection in Challenging Jungle Camera Trap Footage via Attention-Based Spatial and Temporal Feature Blending**|Xinyu Yang et.al.|[1908.11240](http://arxiv.org/abs/1908.11240)|null|
+|**2019-04-29**|**Improved visible to IR image transformation using synthetic data augmentation with cycle-consistent adversarial networks**|Kyongsik Yun et.al.|[1904.11620](http://arxiv.org/abs/1904.11620)|null|
+|**2018-11-06**|**Unsupervised RGBD Video Object Segmentation Using GANs**|Maryam Sultana et.al.|[1811.01526](http://arxiv.org/abs/1811.01526)|null|
+|**2017-07-12**|**Foreground Detection in Camouflaged Scenes**|Shuai Li et.al.|[1707.03166](http://arxiv.org/abs/1707.03166)|null|
+|**2017-07-06**|**Multi-Scale Saliency Detection using Dictionary Learning**|Shubham Pachori et.al.|[1611.06307](http://arxiv.org/abs/1611.06307)|null|
 
 ## Camouflaged Object Detection
 
@@ -2383,13 +2876,13 @@ layout: default
 |**2025-09-17**|**Performance Optimization of YOLO-FEDER FusionNet for Robust Drone Detection in Visually Complex Environments**|Tamara R. Lenhard et.al.|[2509.14012](http://arxiv.org/abs/2509.14012)|null|
 |**2025-09-15**|**SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection**|Zhenni Yu et.al.|[2509.11884](http://arxiv.org/abs/2509.11884)|null|
 |**2025-09-16**|**SFGNet: Semantic and Frequency Guided Network for Camouflaged Object Detection**|Dezhen Wang et.al.|[2509.11539](http://arxiv.org/abs/2509.11539)|null|
-|**2025-09-08**|**Phantom-Insight: Adaptive Multi-cue Fusion for Video Camouflaged Object Detection with Multimodal LLM**|Hua Zhang et.al.|[2509.06422](http://arxiv.org/abs/2509.06422)|null|
+|**2025-09-09**|**Phantom-Insight: Adaptive Multi-cue Fusion for Video Camouflaged Object Detection with Multimodal LLM**|Hua Zhang et.al.|[2509.06422](http://arxiv.org/abs/2509.06422)|null|
 |**2025-09-05**|**SLENet: A Guidance-Enhanced Network for Underwater Camouflaged Object Detection**|Xinxin Huang et.al.|[2509.03786](http://arxiv.org/abs/2509.03786)|null|
 |**2025-08-25**|**ArgusCogito: Chain-of-Thought for Cross-Modal Synergy and Omnidirectional Reasoning in Camouflaged Object Segmentation**|Jianwen Tan et.al.|[2508.18050](http://arxiv.org/abs/2508.18050)|null|
 |**2025-08-25**|**SCOUT: Semi-supervised Camouflaged Object Detection by Utilizing Text and Adaptive Data Selection**|Weiqi Yan et.al.|[2508.17843](http://arxiv.org/abs/2508.17843)|null|
 |**2025-09-15**|**First RAG, Second SEG: A Training-Free Paradigm for Camouflaged Object Detection**|Wutao Liu et.al.|[2508.15313](http://arxiv.org/abs/2508.15313)|null|
 |**2025-08-13**|**A Simple yet Powerful Instance-Aware Prompting Framework for Training-free Camouflaged Object Segmentation**|Chao Yin et.al.|[2508.06904](http://arxiv.org/abs/2508.06904)|null|
-|**2025-08-08**|**Distribution-Specific Learning for Joint Salient and Camouflaged Object Detection**|Chao Hao et.al.|[2508.06063](http://arxiv.org/abs/2508.06063)|null|
+|**2025-08-11**|**Distribution-Specific Learning for Joint Salient and Camouflaged Object Detection**|Chao Hao et.al.|[2508.06063](http://arxiv.org/abs/2508.06063)|null|
 |**2025-08-05**|**SAM2-UNeXT: An Improved High-Resolution Baseline for Adapting Foundation Models to Downstream Segmentation Tasks**|Xinyu Xiong et.al.|[2508.03566](http://arxiv.org/abs/2508.03566)|null|
 |**2025-07-31**|**Mamba-based Efficient Spatio-Frequency Motion Perception for Video Camouflaged Object Detection**|Xin Li et.al.|[2507.23601](http://arxiv.org/abs/2507.23601)|null|
 |**2025-07-31**|**ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection**|Xihang Hu et.al.|[2507.23307](http://arxiv.org/abs/2507.23307)|null|
@@ -2399,46 +2892,81 @@ layout: default
 |**2025-06-24**|**Open-Vocabulary Camouflaged Object Segmentation with Cascaded Vision Language Models**|Kai Zhao et.al.|[2506.19300](http://arxiv.org/abs/2506.19300)|null|
 |**2025-06-18**|**Retrospective Memory for Camouflaged Object Detection**|Chenxi Zhang et.al.|[2506.15244](http://arxiv.org/abs/2506.15244)|null|
 |**2025-06-12**|**Uncertainty-Masked Bernoulli Diffusion for Camouflaged Object Detection Refinement**|Yuqi Shen et.al.|[2506.10712](http://arxiv.org/abs/2506.10712)|null|
-|**2025-06-08**|**UCOD-DPL: Unsupervised Camouflaged Object Detection via Dynamic Pseudo-label Learning**|Weiqi Yan et.al.|[2506.07087](http://arxiv.org/abs/2506.07087)|null|
+|**2025-06-10**|**UCOD-DPL: Unsupervised Camouflaged Object Detection via Dynamic Pseudo-label Learning**|Weiqi Yan et.al.|[2506.07087](http://arxiv.org/abs/2506.07087)|null|
 |**2025-08-14**|**Stepwise Decomposition and Dual-stream Focus: A Novel Approach for Training-free Camouflaged Object Segmentation**|Chao Yin et.al.|[2506.06818](http://arxiv.org/abs/2506.06818)|null|
 |**2025-05-14**|**DRRNet: Macro-Micro Feature Fusion and Dual Reverse Refinement for Camouflaged Object Detection**|Jianlin Sun et.al.|[2505.09168](http://arxiv.org/abs/2505.09168)|null|
-|**2025-05-14**|**Promoting SAM for Camouflaged Object Detection via Selective Key Point-based Guidance**|Guoying Liang et.al.|[2505.09123](http://arxiv.org/abs/2505.09123)|null|
-|**2025-07-18**|**ZS-VCOS: Zero-Shot Video Camouflaged Object Segmentation By Optical Flow and Open Vocabulary Object Detection**|Wenqi Guo et.al.|[2505.01431](http://arxiv.org/abs/2505.01431)|null|
+|**2025-05-15**|**Promoting SAM for Camouflaged Object Detection via Selective Key Point-based Guidance**|Guoying Liang et.al.|[2505.09123](http://arxiv.org/abs/2505.09123)|null|
+|**2025-07-22**|**ZS-VCOS: Zero-Shot Video Camouflaged Object Segmentation By Optical Flow and Open Vocabulary Object Detection**|Wenqi Guo et.al.|[2505.01431](http://arxiv.org/abs/2505.01431)|null|
 |**2025-10-13**|**LSP-ST: Ladder Shape-Biased Side-Tuning for Robust Infrared Small Target Detection**|Guoyi Zhang et.al.|[2504.14481](http://arxiv.org/abs/2504.14481)|null|
-|**2025-04-01**|**CamoSAM2: Motion-Appearance Induced Auto-Refining Prompts for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2504.00375](http://arxiv.org/abs/2504.00375)|null|
+|**2025-04-02**|**CamoSAM2: Motion-Appearance Induced Auto-Refining Prompts for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2504.00375](http://arxiv.org/abs/2504.00375)|null|
 |**2025-03-29**|**Context in object detection: a systematic literature review**|Mahtab Jamali et.al.|[2503.23249](http://arxiv.org/abs/2503.23249)|null|
 |**2025-03-28**|**Knowledge Rectification for Camouflaged Object Detection: Unlocking Insights from Low-Quality Data**|Juwei Guan et.al.|[2503.22180](http://arxiv.org/abs/2503.22180)|null|
 |**2025-03-26**|**CamSAM2: Segment Anything Accurately in Camouflaged Videos**|Yuli Zhou et.al.|[2503.19730](http://arxiv.org/abs/2503.19730)|null|
 |**2025-03-21**|**Scoring, Remember, and Reference: Catching Camouflaged Objects in Videos**|Yuang Feng et.al.|[2503.17050](http://arxiv.org/abs/2503.17050)|null|
-|**2025-03-18**|**A Revisit to the Decoder for Camouflaged Object Detection**|Seung Woo Ko et.al.|[2503.14035](http://arxiv.org/abs/2503.14035)|null|
+|**2025-03-19**|**A Revisit to the Decoder for Camouflaged Object Detection**|Seung Woo Ko et.al.|[2503.14035](http://arxiv.org/abs/2503.14035)|null|
 |**2025-05-31**|**FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection**|Ming Deng et.al.|[2503.11030](http://arxiv.org/abs/2503.11030)|null|
-|**2025-03-28**|**Improving SAM for Camouflaged Object Detection via Dual Stream Adapters**|Jiaming Liu et.al.|[2503.06042](http://arxiv.org/abs/2503.06042)|null|
+|**2025-03-31**|**Improving SAM for Camouflaged Object Detection via Dual Stream Adapters**|Jiaming Liu et.al.|[2503.06042](http://arxiv.org/abs/2503.06042)|null|
 |**2025-05-19**|**Integrating Extra Modality Helps Segmentor Find Camouflaged Objects Well**|Chengyu Fang et.al.|[2502.14471](http://arxiv.org/abs/2502.14471)|null|
 |**2025-05-30**|**MSVCOD:A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection**|Shuyong Gao et.al.|[2502.13859](http://arxiv.org/abs/2502.13859)|null|
 |**2025-02-12**|**Uncertainty Aware Human-machine Collaboration in Camouflaged Object Detection**|Ziyue Yang et.al.|[2502.08373](http://arxiv.org/abs/2502.08373)|null|
 |**2025-01-31**|**Let Human Sketches Help: Empowering Challenging Image Segmentation Task with Freehand Sketches**|Ying Zang et.al.|[2501.19329](http://arxiv.org/abs/2501.19329)|null|
 |**2025-01-19**|**Green Video Camouflaged Object Detection**|Xinyu Wang et.al.|[2501.10914](http://arxiv.org/abs/2501.10914)|null|
-|**2025-01-13**|**Toward Realistic Camouflaged Object Detection: Benchmarks and Method**|Zhimeng Xin et.al.|[2501.07297](http://arxiv.org/abs/2501.07297)|null|
+|**2025-01-14**|**Toward Realistic Camouflaged Object Detection: Benchmarks and Method**|Zhimeng Xin et.al.|[2501.07297](http://arxiv.org/abs/2501.07297)|null|
 |**2025-01-10**|**A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection**|Tsui Qin Mok et.al.|[2501.06038](http://arxiv.org/abs/2501.06038)|null|
 |**2024-12-31**|**B2Net: Camouflaged Object Detection via Boundary Aware and Boundary Fusion**|Junmin Cai et.al.|[2501.00426](http://arxiv.org/abs/2501.00426)|null|
-|**2025-01-15**|**CGCOD: Class-Guided Camouflaged Object Detection**|Chenxi Zhang et.al.|[2412.18977](http://arxiv.org/abs/2412.18977)|null|
-|**2024-12-22**|**Seamless Detection: Unifying Salient Object Detection and Camouflaged Object Detection**|Yi Liu et.al.|[2412.16840](http://arxiv.org/abs/2412.16840)|null|
+|**2025-09-09**|**CGCOD: Class-Guided Camouflaged Object Detection**|Chenxi Zhang et.al.|[2412.18977](http://arxiv.org/abs/2412.18977)|null|
+|**2025-03-26**|**Seamless Detection: Unifying Salient Object Detection and Camouflaged Object Detection**|Yi Liu et.al.|[2412.16840](http://arxiv.org/abs/2412.16840)|null|
 |**2025-07-07**|**Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes**|Zhangjun Zhou et.al.|[2412.10943](http://arxiv.org/abs/2412.10943)|null|
-|**2024-11-28**|**COMPrompter: reconceptualized segment anything model with multiprompt network for camouflaged object detection**|Xiaoqin Zhang et.al.|[2411.18858](http://arxiv.org/abs/2411.18858)|null|
+|**2024-12-02**|**COMPrompter: reconceptualized segment anything model with multiprompt network for camouflaged object detection**|Xiaoqin Zhang et.al.|[2411.18858](http://arxiv.org/abs/2411.18858)|null|
 |**2024-10-23**|**PlantCamo: Plant Camouflage Detection**|Jinyu Yang et.al.|[2410.17598](http://arxiv.org/abs/2410.17598)|null|
 |**2024-10-22**|**Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations**|Cheng Lei et.al.|[2410.16953](http://arxiv.org/abs/2410.16953)|null|
-|**2024-10-05**|**Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection**|Dingwen Zhang et.al.|[2410.03987](http://arxiv.org/abs/2410.03987)|null|
-|**2024-09-19**|**Frequency-Guided Spatial Adaptation for Camouflaged Object Detection**|Shizhou Zhang et.al.|[2409.12421](http://arxiv.org/abs/2409.12421)|null|
+|**2024-10-08**|**Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection**|Dingwen Zhang et.al.|[2410.03987](http://arxiv.org/abs/2410.03987)|null|
+|**2025-05-13**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653](http://arxiv.org/abs/2409.18653)|null|
+|**2024-09-20**|**Frequency-Guided Spatial Adaptation for Camouflaged Object Detection**|Shizhou Zhang et.al.|[2409.12421](http://arxiv.org/abs/2409.12421)|null|
 |**2024-09-15**|**GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.09588](http://arxiv.org/abs/2409.09588)|null|
 |**2024-09-03**|**Frequency-Spatial Entanglement Learning for Camouflaged Object Detection**|Yanguang Sun et.al.|[2409.01686](http://arxiv.org/abs/2409.01686)|null|
 |**2024-09-21**|**Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection**|Siyuan Yao et.al.|[2408.15020](http://arxiv.org/abs/2408.15020)|null|
-|**2024-08-26**|**A Survey of Camouflaged Object Detection and Beyond**|Fengyang Xiao et.al.|[2408.14562](http://arxiv.org/abs/2408.14562)|null|
+|**2024-08-28**|**A Survey of Camouflaged Object Detection and Beyond**|Fengyang Xiao et.al.|[2408.14562](http://arxiv.org/abs/2408.14562)|null|
 |**2024-08-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10777](http://arxiv.org/abs/2408.10777)|null|
 |**2024-08-20**|**SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection**|Huafeng Chen et.al.|[2408.10760](http://arxiv.org/abs/2408.10760)|null|
 |**2024-08-17**|**Depth-guided Texture Diffusion for Image Semantic Segmentation**|Wei Sun et.al.|[2408.09097](http://arxiv.org/abs/2408.09097)|null|
 |**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870](http://arxiv.org/abs/2408.08870)|null|
 |**2024-08-15**|**CamoTeacher: Dual-Rotation Consistency Learning for Semi-Supervised Camouflaged Object Detection**|Xunfa Lai et.al.|[2408.08050](http://arxiv.org/abs/2408.08050)|null|
 |**2024-08-12**|**Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes**|Ke Zhou et.al.|[2408.05936](http://arxiv.org/abs/2408.05936)|null|
+|**2024-08-01**|**Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2**|Lv Tang et.al.|[2407.21596](http://arxiv.org/abs/2407.21596)|null|
+|**2024-07-19**|**Learning Camouflaged Object Detection from Noisy Pseudo Label**|Jin Zhang et.al.|[2407.13157](http://arxiv.org/abs/2407.13157)|null|
+|**2024-07-18**|**Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection**|Zhenni Yu et.al.|[2407.12339](http://arxiv.org/abs/2407.12339)|null|
+|**2024-07-30**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al.|[2406.05802](http://arxiv.org/abs/2406.05802)|null|
+|**2024-06-11**|**Utilizing Grounded SAM for self-supervised frugal camouflaged human detection**|Matthias Pijarowski et.al.|[2406.05776](http://arxiv.org/abs/2406.05776)|null|
+|**2024-05-08**|**Adaptive Guidance Learning for Camouflaged Object Detection**|Zhennan Chen et.al.|[2405.02824](http://arxiv.org/abs/2405.02824)|null|
+|**2025-04-29**|**Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection**|Xin Zhang et.al.|[2403.01968](http://arxiv.org/abs/2403.01968)|null|
+|**2024-02-06**|**CoFiNet: Unveiling Camouflaged Objects with Multi-Scale Finesse**|Cunhan Guo et.al.|[2402.02217](http://arxiv.org/abs/2402.02217)|null|
+|**2023-11-30**|**Large Model Based Referring Camouflaged Object Detection**|Shupeng Cheng et.al.|[2311.17122](http://arxiv.org/abs/2311.17122)|null|
+|**2024-12-04**|**CamoFA: A Learnable Fourier-based Augmentation for Camouflage Segmentation**|Minh-Quan Le et.al.|[2308.15660](http://arxiv.org/abs/2308.15660)|null|
+|**2023-08-30**|**A Unified Query-based Paradigm for Camouflaged Instance Segmentation**|Bo Dong et.al.|[2308.07392](http://arxiv.org/abs/2308.07392)|null|
+|**2024-03-12**|**Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects**|Chunming He et.al.|[2308.03166](http://arxiv.org/abs/2308.03166)|null|
+|**2023-08-08**|**Diffusion Model for Camouflaged Object Detection**|Zhennan Chen et.al.|[2308.00303](http://arxiv.org/abs/2308.00303)|null|
+|**2023-08-23**|**Pre-train, Adapt and Detect: Multi-Task Adapter Tuning for Camouflaged Object Detection**|Yinghui Xing et.al.|[2307.10685](http://arxiv.org/abs/2307.10685)|null|
+|**2023-07-11**|**Camouflaged Object Detection with Feature Grafting and Distractor Aware**|Yuxuan Song et.al.|[2307.03943](http://arxiv.org/abs/2307.03943)|null|
+|**2023-07-11**|**Edge-Aware Mirror Network for Camouflaged Object Detection**|Dongyue Sun et.al.|[2307.03932](http://arxiv.org/abs/2307.03932)|null|
+|**2025-03-25**|**Referring Camouflaged Object Detection**|Xuying Zhang et.al.|[2306.07532](http://arxiv.org/abs/2306.07532)|null|
+|**2023-05-30**|**CamoDiffusion: Camouflaged Object Detection via Conditional Diffusion Models**|Zhongxi Chen et.al.|[2305.17932](http://arxiv.org/abs/2305.17932)|null|
+|**2023-06-07**|**A bioinspired three-stage model for camouflaged object detection**|Tianyou Chen et.al.|[2305.12635](http://arxiv.org/abs/2305.12635)|null|
+|**2024-08-07**|**The Art of Camouflage: Few-Shot Learning for Animal Detection and Segmentation**|Thanh-Danh Nguyen et.al.|[2304.07444](http://arxiv.org/abs/2304.07444)|null|
+|**2023-04-12**|**Can SAM Segment Anything? When SAM Meets Camouflaged Object Detection**|Lv Tang et.al.|[2304.04709](http://arxiv.org/abs/2304.04709)|null|
+|**2022-12-14**|**CamoFormer: Masked Separable Attention for Camouflaged Object Detection**|Bowen Yin et.al.|[2212.06570](http://arxiv.org/abs/2212.06570)|null|
+|**2022-12-05**|**Feature Aggregation and Propagation Network for Camouflaged Object Detection**|Tao Zhou et.al.|[2212.00990](http://arxiv.org/abs/2212.00990)|null|
+|**2022-11-29**|**Weakly-Supervised Camouflaged Object Detection with Scribble Annotations**|Ruozhen He et.al.|[2207.14083](http://arxiv.org/abs/2207.14083)|null|
+|**2022-07-28**|**Camouflaged Object Detection via Context-aware Cross-level Fusion**|Geng Chen et.al.|[2207.13362](http://arxiv.org/abs/2207.13362)|null|
+|**2025-08-21**|**Boundary-Guided Camouflaged Object Detection**|Yujia Sun et.al.|[2207.00794](http://arxiv.org/abs/2207.00794)|null|
+|**2023-06-06**|**Deep Gradient Learning for Efficient Camouflaged Object Detection**|Ge-Peng Ji et.al.|[2205.12853](http://arxiv.org/abs/2205.12853)|null|
+|**2023-01-04**|**Towards Deeper Understanding of Camouflaged Object Detection**|Yunqiu Lv et.al.|[2205.11333](http://arxiv.org/abs/2205.11333)|null|
+|**2022-03-16**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363](http://arxiv.org/abs/2203.07363)|null|
+|**2024-02-20**|**Fast Camouflaged Object Detection via Edge-based Reversible Re-calibration Network**|Ge-Peng Ji et.al.|[2111.03216](http://arxiv.org/abs/2111.03216)|null|
+|**2022-01-14**|**Exploring Depth Contribution for Camouflaged Object Detection**|Mochu Xiang et.al.|[2106.13217](http://arxiv.org/abs/2106.13217)|null|
+|**2021-04-22**|**Camouflaged Object Segmentation with Distraction Mining**|Haiyang Mei et.al.|[2104.10475](http://arxiv.org/abs/2104.10475)|null|
+|**2021-04-14**|**Simultaneously Localize, Segment and Rank the Camouflaged Objects**|Yunqiu Lv et.al.|[2103.04011](http://arxiv.org/abs/2103.04011)|null|
+|**2021-03-12**|**MirrorNet: Bio-Inspired Camouflaged Object Segmentation**|Jinnan Yan et.al.|[2007.12881](http://arxiv.org/abs/2007.12881)|null|
 
 ## Salient Object Detection
 
@@ -2449,7 +2977,7 @@ layout: default
 |**2025-10-20**|**Split-Fuse-Transport: Annotation-Free Saliency via Dual Clustering and Optimal Transport Alignment**|Muhammad Umer Ramzan et.al.|[2510.17484](http://arxiv.org/abs/2510.17484)|null|
 |**2025-10-14**|**WaterFlow: Explicit Physics-Prior Rectified Flow for Underwater Saliency Mask Generation**|Runting Li et.al.|[2510.12605](http://arxiv.org/abs/2510.12605)|null|
 |**2025-10-04**|**SAMSOD: Rethinking SAM Optimization for RGB-T Salient Object Detection**|Zhengyi Liu et.al.|[2510.03689](http://arxiv.org/abs/2510.03689)|null|
-|**2025-09-21**|**A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision--Revised**|Runmin Wu et.al.|[2509.21363](http://arxiv.org/abs/2509.21363)|null|
+|**2025-09-29**|**A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision--Revised**|Runmin Wu et.al.|[2509.21363](http://arxiv.org/abs/2509.21363)|null|
 |**2025-09-23**|**HyPSAM: Hybrid Prompt-driven Segment Anything Model for RGB-Thermal Salient Object Detection**|Ruichao Hou et.al.|[2509.18738](http://arxiv.org/abs/2509.18738)|null|
 |**2025-09-23**|**LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection**|Lanhu Wu et.al.|[2509.18683](http://arxiv.org/abs/2509.18683)|null|
 |**2025-10-03**|**Towards Size-invariant Salient Object Detection: A Generic Evaluation and Optimization Approach**|Shilong Bao et.al.|[2509.15573](http://arxiv.org/abs/2509.15573)|null|
@@ -2483,18 +3011,18 @@ layout: default
 |**2025-03-18**|**HSOD-BIT-V2: A New Challenging Benchmarkfor Hyperspectral Salient Object Detection**|Yuhao Qiu et.al.|[2503.13906](http://arxiv.org/abs/2503.13906)|null|
 |**2025-03-04**|**SSNet: Saliency Prior and State Space Model-based Network for Salient Object Detection in RGB-D Images**|Gargi Panda et.al.|[2503.02270](http://arxiv.org/abs/2503.02270)|null|
 |**2025-03-02**|**Unifying Light Field Perception with Field of Parallax**|Fei Teng et.al.|[2503.00747](http://arxiv.org/abs/2503.00747)|null|
-|**2025-02-23**|**Geometry-Aware 3D Salient Object Detection Network**|Chen Wang et.al.|[2502.16488](http://arxiv.org/abs/2502.16488)|null|
+|**2025-02-25**|**Geometry-Aware 3D Salient Object Detection Network**|Chen Wang et.al.|[2502.16488](http://arxiv.org/abs/2502.16488)|null|
 |**2025-06-16**|**Multi-Knowledge-oriented Nighttime Haze Imaging Enhancer for Vision-driven Intelligent Systems**|Ai Chen et.al.|[2502.07351](http://arxiv.org/abs/2502.07351)|null|
 |**2025-01-14**|**Learning Motion and Temporal Cues for Unsupervised Video Object Segmentation**|Yunzhi Zhuge et.al.|[2501.07806](http://arxiv.org/abs/2501.07806)|null|
 |**2025-01-11**|**CPDR: Towards Highly-Efficient Salient Object Detection via Crossed Post-decoder Refinement**|Yijie Li et.al.|[2501.06441](http://arxiv.org/abs/2501.06441)|null|
 |**2025-01-08**|**Boosting Salient Object Detection with Knowledge Distillated from Large Foundation Models**|Miaoyang He et.al.|[2501.04582](http://arxiv.org/abs/2501.04582)|null|
 |**2025-01-03**|**Dual Mutual Learning Network with Global-local Awareness for RGB-D Salient Object Detection**|Kang Yi et.al.|[2501.01648](http://arxiv.org/abs/2501.01648)|null|
 |**2024-12-24**|**Spectrum-oriented Point-supervised Saliency Detector for Hyperspectral Images**|Peifu Liu et.al.|[2412.18112](http://arxiv.org/abs/2412.18112)|null|
-|**2024-12-22**|**Seamless Detection: Unifying Salient Object Detection and Camouflaged Object Detection**|Yi Liu et.al.|[2412.16840](http://arxiv.org/abs/2412.16840)|null|
+|**2025-03-26**|**Seamless Detection: Unifying Salient Object Detection and Camouflaged Object Detection**|Yi Liu et.al.|[2412.16840](http://arxiv.org/abs/2412.16840)|null|
 |**2025-09-18**|**IV-tuning: Parameter-Efficient Transfer Learning for Infrared-Visible Tasks**|Yaming Zhang et.al.|[2412.16654](http://arxiv.org/abs/2412.16654)|null|
 |**2025-06-17**|**Concept Guided Co-salient Object Detection**|Jiayi Zhu et.al.|[2412.16609](http://arxiv.org/abs/2412.16609)|null|
 |**2024-12-19**|**Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network**|Kunpeng Wang et.al.|[2412.14576](http://arxiv.org/abs/2412.14576)|null|
-|**2025-07-07**|**Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes**|Zhangjun Zhou et.al.|[2412.10943](http://arxiv.org/abs/2412.10943)|null|
+|**2025-07-08**|**Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes**|Zhangjun Zhou et.al.|[2412.10943](http://arxiv.org/abs/2412.10943)|null|
 |**2024-12-02**|**Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection**|Hao Tang et.al.|[2412.01556](http://arxiv.org/abs/2412.01556)|null|
 |**2025-02-10**|**Deep Fourier-embedded Network for RGB and Thermal Salient Object Detection**|Pengfei Lyu et.al.|[2411.18409](http://arxiv.org/abs/2411.18409)|null|
 |**2024-11-21**|**Transforming Static Images Using Generative Models for Video Salient Object Detection**|Suhwan Cho et.al.|[2411.13975](http://arxiv.org/abs/2411.13975)|null|
@@ -2503,6 +3031,52 @@ layout: default
 |**2024-11-11**|**LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection**|Zhengyi Liu et.al.|[2411.06652](http://arxiv.org/abs/2411.06652)|null|
 |**2025-04-17**|**Efficient Fourier Filtering Network with Contrastive Learning for UAV-based Unaligned Bi-modal Salient Object Detection**|Pengfei Lyu et.al.|[2411.03728](http://arxiv.org/abs/2411.03728)|null|
 |**2024-10-31**|**Localization, balance and affinity: a stronger multifaceted collaborative salient object detector in remote sensing images**|Yakun Xie et.al.|[2410.23991](http://arxiv.org/abs/2410.23991)|null|
+|**2024-09-05**|**Pluralistic Salient Object Detection**|Xuelu Feng et.al.|[2409.02368](http://arxiv.org/abs/2409.02368)|null|
+|**2023-09-07**|**Salient Object Detection for Images Taken by People With Vision Impairments**|Jarek Reynolds et.al.|[2301.05323](http://arxiv.org/abs/2301.05323)|null|
+|**2022-11-15**|**Multistep feature aggregation framework for salient object detection**|Xiaogang Liu Shuang Song et.al.|[2211.06697](http://arxiv.org/abs/2211.06697)|null|
+|**2023-08-14**|**Generalised Co-Salient Object Detection**|Jiawei Liu et.al.|[2208.09668](http://arxiv.org/abs/2208.09668)|null|
+|**2022-07-26**|**Salient Object Detection for Point Clouds**|Songlin Fan et.al.|[2207.11889](http://arxiv.org/abs/2207.11889)|null|
+|**2022-03-24**|**Unsupervised Salient Object Detection with Spectral Cluster Voting**|Gyungin Shin et.al.|[2203.12614](http://arxiv.org/abs/2203.12614)|null|
+|**2021-09-09**|**RGB-D Salient Object Detection with Ubiquitous Target Awareness**|Yifan Zhao et.al.|[2109.03425](http://arxiv.org/abs/2109.03425)|null|
+|**2021-04-07**|**Uncertainty-aware Joint Salient Object and Camouflaged Object Detection**|Aixuan Li et.al.|[2104.02628](http://arxiv.org/abs/2104.02628)|null|
+|**2021-04-06**|**Few-Cost Salient Object Detection with Adversarial-Paced Learning**|Dingwen Zhang et.al.|[2104.01928](http://arxiv.org/abs/2104.01928)|null|
+|**2021-08-10**|**BiconNet: An Edge-preserved Connectivity-based Approach for Salient Object Detection**|Ziyun Yang et.al.|[2103.00334](http://arxiv.org/abs/2103.00334)|null|
+|**2021-09-08**|**Progressive Self-Guided Loss for Salient Object Detection**|Sheng Yang et.al.|[2101.02412](http://arxiv.org/abs/2101.02412)|null|
+|**2022-05-24**|**RGBT Salient Object Detection: A Large-scale Dataset and Benchmark**|Zhengzheng Tu et.al.|[2007.03262](http://arxiv.org/abs/2007.03262)|null|
+|**2020-03-20**|**Evaluating Salient Object Detection in Natural Images with Multiple Objects having Multi-level Saliency**|Gökhan Yildirim et.al.|[2003.08514](http://arxiv.org/abs/2003.08514)|null|
+|**2021-05-12**|**Cross-layer Feature Pyramid Network for Salient Object Detection**|Zun Li et.al.|[2002.10864](http://arxiv.org/abs/2002.10864)|null|
+|**2019-12-10**|**SaLite : A light-weight model for salient object detection**|Kitty Varghese et.al.|[1912.03641](http://arxiv.org/abs/1912.03641)|null|
+|**2019-10-04**|**Motion Guided Attention for Video Salient Object Detection**|Haofeng Li et.al.|[1909.07061](http://arxiv.org/abs/1909.07061)|null|
+|**2019-08-23**|**EGNet:Edge Guidance Network for Salient Object Detection**|Jia-Xing Zhao et.al.|[1908.08297](http://arxiv.org/abs/1908.08297)|null|
+|**2019-08-21**|**Towards High-Resolution Salient Object Detection**|Yi Zeng et.al.|[1908.07274](http://arxiv.org/abs/1908.07274)|null|
+|**2019-05-10**|**ROSA: Robust Salient Object Detection against Adversarial Attacks**|Haofeng Li et.al.|[1905.03434](http://arxiv.org/abs/1905.03434)|null|
+|**2019-04-19**|**Salient Object Detection: A Distinctive Feature Integration Model**|Abdullah J. Alzahrani et.al.|[1904.08868](http://arxiv.org/abs/1904.08868)|null|
+|**2019-08-20**|**SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection**|Sanping Zhou et.al.|[1904.00048](http://arxiv.org/abs/1904.00048)|null|
+|**2019-04-02**|**Salient Object Detection via High-to-Low Hierarchical Context Aggregation**|Yun Liu et.al.|[1812.10956](http://arxiv.org/abs/1812.10956)|null|
+|**2020-01-20**|**Super Diffusion for Salient Object Detection**|Peng Jiang et.al.|[1811.09038](http://arxiv.org/abs/1811.09038)|null|
+|**2020-02-24**|**Salient Object Detection in Video using Deep Non-Local Neural Networks**|Mohammad Shokri et.al.|[1810.07097](http://arxiv.org/abs/1810.07097)|null|
+|**2019-04-16**|**Reverse Attention for Salient Object Detection**|Shuhan Chen et.al.|[1807.09940](http://arxiv.org/abs/1807.09940)|null|
+|**2018-07-03**|**Hyperspectral Image Dataset for Benchmarking on Salient Object Detection**|Nevrez Imamoglu et.al.|[1806.11314](http://arxiv.org/abs/1806.11314)|null|
+|**2019-09-04**|**Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground**|Deng-Ping Fan et.al.|[1803.06091](http://arxiv.org/abs/1803.06091)|null|
+|**2018-03-26**|**Revisiting Salient Object Detection: Simultaneous Detection, Ranking, and Subitizing of Multiple Salient Objects**|Md Amirul Islam et.al.|[1803.05082](http://arxiv.org/abs/1803.05082)|null|
+|**2018-04-18**|**Salient Object Detection by Lossless Feature Reflection**|Pingping Zhang et.al.|[1802.06527](http://arxiv.org/abs/1802.06527)|null|
+|**2018-01-15**|**MSDNN: Multi-Scale Deep Neural Network for Salient Object Detection**|Fen Xiao et.al.|[1801.04187](http://arxiv.org/abs/1801.04187)|null|
+|**2017-08-21**|**Self-explanatory Deep Salient Object Detection**|Huaxin Xiao et.al.|[1708.05595](http://arxiv.org/abs/1708.05595)|null|
+|**2017-08-03**|**Towards the Success Rate of One: Real-time Unconstrained Salient Object Detection**|Mahyar Najibi et.al.|[1708.00079](http://arxiv.org/abs/1708.00079)|null|
+|**2017-06-05**|**Integrated Deep and Shallow Networks for Salient Object Detection**|Jing Zhang et.al.|[1706.00530](http://arxiv.org/abs/1706.00530)|null|
+|**2017-05-24**|**Salient Object Detection with Semantic Priors**|Tam V. Nguyen et.al.|[1705.08207](http://arxiv.org/abs/1705.08207)|null|
+|**2017-12-12**|**Video Salient Object Detection via Fully Convolutional Networks**|Wenguan Wang et.al.|[1702.00871](http://arxiv.org/abs/1702.00871)|null|
+|**2020-10-19**|**Salient Object Detection with Convex Hull Overlap**|Yongqing Liang et.al.|[1612.03284](http://arxiv.org/abs/1612.03284)|null|
+|**2018-08-15**|**Backtracking Spatial Pyramid Pooling (SPP)-based Image Classifier for Weakly Supervised Top-down Salient Object Detection**|Hisham Cholakkal et.al.|[1611.05345](http://arxiv.org/abs/1611.05345)|null|
+|**2018-03-19**|**Deeply supervised salient object detection with short connections**|Qibin Hou et.al.|[1611.04849](http://arxiv.org/abs/1611.04849)|null|
+|**2016-04-25**|**A Classifier-guided Approach for Top-down Salient Object Detection**|Hisham Cholakkal et.al.|[1604.06570](http://arxiv.org/abs/1604.06570)|null|
+|**2015-09-09**|**Weakly Supervised Learning for Salient Object Detection**|Huaizu Jiang et.al.|[1501.07492](http://arxiv.org/abs/1501.07492)|null|
+|**2015-08-13**|**On the Distribution of Salient Objects in Web Images and its Influence on Salient Object Detection**|Boris Schauerte et.al.|[1501.03383](http://arxiv.org/abs/1501.03383)|null|
+|**2018-03-02**|**Salient Object Detection: A Benchmark**|Ali Borji et.al.|[1501.02741](http://arxiv.org/abs/1501.02741)|null|
+|**2015-06-23**|**What is a salient object? A dataset and a baseline model for salient object detection**|Ali Borji et.al.|[1412.5027](http://arxiv.org/abs/1412.5027)|null|
+|**2019-07-02**|**Salient Object Detection: A Survey**|Ali Borji et.al.|[1411.5878](http://arxiv.org/abs/1411.5878)|null|
+|**2013-10-23**|**Contextual Hypergraph Modelling for Salient Object Detection**|Xi Li et.al.|[1310.5767](http://arxiv.org/abs/1310.5767)|null|
+|**2013-11-11**|**Geodesic-based Salient Object Detection**|Richard M Jiang et.al.|[1302.6557](http://arxiv.org/abs/1302.6557)|null|
 
 ## Object Detection
 
@@ -2691,7 +3265,7 @@ layout: default
 |**2025-09-26**|**Rate-Distortion Optimized Communication for Collaborative Perception**|Genjia Liu et.al.|[2509.21994](http://arxiv.org/abs/2509.21994)|null|
 |**2025-09-26**|**Learnable Conformal Prediction with Context-Aware Nonconformity Functions for Robotic Planning and Perception**|Divake Kumar et.al.|[2509.21955](http://arxiv.org/abs/2509.21955)|null|
 |**2025-09-26**|**PANICL: Mitigating Over-Reliance on Single Prompt in Visual In-Context Learning**|Jiahao Zhang et.al.|[2509.21926](http://arxiv.org/abs/2509.21926)|null|
-|**2025-09-25**|**MS-YOLO: Infrared Object Detection for Edge Deployment via MobileNetV4 and SlideLoss**|Jiali Zhang et.al.|[2509.21696](http://arxiv.org/abs/2509.21696)|null|
+|**2025-09-29**|**MS-YOLO: Infrared Object Detection for Edge Deployment via MobileNetV4 and SlideLoss**|Jiali Zhang et.al.|[2509.21696](http://arxiv.org/abs/2509.21696)|null|
 |**2025-09-23**|**TUN3D: Towards Real-World Scene Understanding from Unposed Images**|Anton Konushin et.al.|[2509.21388](http://arxiv.org/abs/2509.21388)|null|
 |**2025-09-23**|**Assessing the Alignment of Popular CNNs to the Brain for Valence Appraisal**|Laurent Mertens et.al.|[2509.21384](http://arxiv.org/abs/2509.21384)|null|
 |**2025-09-25**|**Task-Oriented Computation Offloading for Edge Inference: An Integrated Bayesian Optimization and Deep Reinforcement Learning Framework**|Xian Li et.al.|[2509.21090](http://arxiv.org/abs/2509.21090)|null|
@@ -2769,6 +3343,55 @@ layout: default
 |**2025-09-13**|**Group Evidence Matters: Tiling-based Semantic Gating for Dense Object Detection**|Yilun Xiao et.al.|[2509.10779](http://arxiv.org/abs/2509.10779)|null|
 |**2025-09-11**|**WAVE-DETR Multi-Modal Visible and Acoustic Real-Life Drone Detector**|Razvan Stefanescu et.al.|[2509.09859](http://arxiv.org/abs/2509.09859)|null|
 |**2025-09-11**|**A Co-Training Semi-Supervised Framework Using Faster R-CNN and YOLO Networks for Object Detection in Densely Packed Retail Images**|Hossein Yazdanjouei et.al.|[2509.09750](http://arxiv.org/abs/2509.09750)|null|
+|**2025-10-01**|**Object Detection with Multimodal Large Vision-Language Models: An In-depth Review**|Ranjan Sapkota et.al.|[2508.19294](http://arxiv.org/abs/2508.19294)|null|
+|**2025-04-15**|**Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation**|Yongchao Feng et.al.|[2504.09480](http://arxiv.org/abs/2504.09480)|null|
+|**2025-04-01**|**Context in object detection: a systematic literature review**|Mahtab Jamali et.al.|[2503.23249](http://arxiv.org/abs/2503.23249)|null|
+|**2024-11-06**|**Correlation of Object Detection Performance with Visual Saliency and Depth Estimation**|Matthias Bartolo et.al.|[2411.02844](http://arxiv.org/abs/2411.02844)|null|
+|**2024-10-17**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[2410.12394](http://arxiv.org/abs/2410.12394)|null|
+|**2024-08-28**|**PVAFN: Point-Voxel Attention Fusion Network with Multi-Pooling Enhancing for 3D Object Detection**|Yidi Li et.al.|[2408.14600](http://arxiv.org/abs/2408.14600)|null|
+|**2024-06-19**|**The Solution for CVPR2024 Foundational Few-Shot Object Detection Challenge**|Hongpeng Pan et.al.|[2406.12225](http://arxiv.org/abs/2406.12225)|null|
+|**2024-03-21**|**D-YOLO a robust framework for object detection in adverse weather conditions**|Zihan Chu et.al.|[2403.09233](http://arxiv.org/abs/2403.09233)|null|
+|**2023-09-28**|**Object-aware Gaze Target Detection**|Francesco Tonini et.al.|[2307.09662](http://arxiv.org/abs/2307.09662)|null|
+|**2024-02-16**|**Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection**|Thang Doan et.al.|[2306.14291](http://arxiv.org/abs/2306.14291)|null|
+|**2025-08-25**|**Oriented object detection in optical remote sensing images using deep learning: a survey**|Kun Wang et.al.|[2302.10473](http://arxiv.org/abs/2302.10473)|null|
+|**2023-02-07**|**Uncertainty Calibration and its Application to Object Detection**|Fabian Küppers et.al.|[2302.02622](http://arxiv.org/abs/2302.02622)|null|
+|**2025-09-03**|**OA-DET3D: Embedding Object Awareness as a General Plug-in for Multi-Camera 3D Object Detection**|Xiaomeng Chu et.al.|[2301.05711](http://arxiv.org/abs/2301.05711)|null|
+|**2023-01-09**|**Super Sparse 3D Object Detection**|Lue Fan et.al.|[2301.02562](http://arxiv.org/abs/2301.02562)|null|
+|**2023-10-13**|**Universal Object Detection with Large Vision Model**|Feng Lin et.al.|[2212.09408](http://arxiv.org/abs/2212.09408)|null|
+|**2022-11-29**|**Weakly-Supervised Camouflaged Object Detection with Scribble Annotations**|Ruozhen He et.al.|[2207.14083](http://arxiv.org/abs/2207.14083)|null|
+|**2023-04-05**|**3D Object Detection for Autonomous Driving: A Comprehensive Survey**|Jiageng Mao et.al.|[2206.09474](http://arxiv.org/abs/2206.09474)|null|
+|**2024-10-23**|**Exploring Diversity-based Active Learning for 3D Object Detection in Autonomous Driving**|Jinpeng Lin et.al.|[2205.07708](http://arxiv.org/abs/2205.07708)|null|
+|**2022-05-12**|**An Empirical Study Of Self-supervised Learning Approaches For Object Detection With Transformers**|Gokul Karthik Kumar et.al.|[2205.05543](http://arxiv.org/abs/2205.05543)|null|
+|**2022-05-09**|**Multitask AET with Orthogonal Tangent Regularity for Dark Object Detection**|Ziteng Cui et.al.|[2205.03346](http://arxiv.org/abs/2205.03346)|null|
+|**2022-02-08**|**Recent Trends in 2D Object Detection and Applications in Video Event Recognition**|Prithwish Jana et.al.|[2202.03206](http://arxiv.org/abs/2202.03206)|null|
+|**2022-06-17**|**BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View**|Junjie Huang et.al.|[2112.11790](http://arxiv.org/abs/2112.11790)|null|
+|**2022-08-24**|**A Survey of Self-Supervised and Few-Shot Object Detection**|Gabriel Huang et.al.|[2110.14711](http://arxiv.org/abs/2110.14711)|null|
+|**2021-10-04**|**MonoCInIS: Camera Independent Monocular 3D Object Detection using Instance Segmentation**|Jonas Heylen et.al.|[2110.00464](http://arxiv.org/abs/2110.00464)|null|
+|**2022-01-12**|**GraphFPN: Graph Feature Pyramid Network for Object Detection**|Gangming Zhao et.al.|[2108.00580](http://arxiv.org/abs/2108.00580)|null|
+|**2022-01-14**|**Exploring Depth Contribution for Camouflaged Object Detection**|Mochu Xiang et.al.|[2106.13217](http://arxiv.org/abs/2106.13217)|null|
+|**2023-07-21**|**Waste detection in Pomerania: non-profit project for detecting waste in environment**|Sylwia Majchrowska et.al.|[2105.06808](http://arxiv.org/abs/2105.06808)|null|
+|**2021-02-02**|**Latent-Space Inpainting for Packet Loss Concealment in Collaborative Object Detection**|Ivan V. Bajić et.al.|[2102.00142](http://arxiv.org/abs/2102.00142)|null|
+|**2020-11-19**|**TJU-DHD: A Diverse High-Resolution Dataset for Object Detection**|Yanwei Pang et.al.|[2011.09170](http://arxiv.org/abs/2011.09170)|null|
+|**2020-10-07**|**The 1st Tiny Object Detection Challenge:Methods and Results**|Xuehui Yu et.al.|[2009.07506](http://arxiv.org/abs/2009.07506)|null|
+|**2020-08-14**|**Shift Equivariance in Object Detection**|Marco Manfredi et.al.|[2008.05787](http://arxiv.org/abs/2008.05787)|null|
+|**2020-07-20**|**2nd Place Solution to ECCV 2020 VIPriors Object Detection Challenge**|Yinzheng Gu et.al.|[2007.08849](http://arxiv.org/abs/2007.08849)|null|
+|**2021-06-16**|**Top-Related Meta-Learning Method for Few-Shot Object Detection**|Qian Li et.al.|[2007.06837](http://arxiv.org/abs/2007.06837)|null|
+|**2020-07-10**|**Attention Neural Network for Trash Detection on Water Channels**|Mohbat Tharani et.al.|[2007.04639](http://arxiv.org/abs/2007.04639)|null|
+|**2022-05-24**|**RGBT Salient Object Detection: A Large-scale Dataset and Benchmark**|Zhengzheng Tu et.al.|[2007.03262](http://arxiv.org/abs/2007.03262)|null|
+|**2020-06-30**|**DHARI Report to EPIC-Kitchens 2020 Object Detection Challenge**|Kaide Li et.al.|[2006.15553](http://arxiv.org/abs/2006.15553)|null|
+|**2020-06-23**|**Semi-Supervised Object Detection with Sparsely Annotated Dataset**|Jihun Yoon et.al.|[2006.11692](http://arxiv.org/abs/2006.11692)|null|
+|**2020-06-12**|**TensorFlow with user friendly Graphical Framework for object detection API**|Heemoon Yoon et.al.|[2006.06385](http://arxiv.org/abs/2006.06385)|null|
+|**2021-04-01**|**MobileDets: Searching for Object Detection Architectures for Mobile Accelerators**|Yunyang Xiong et.al.|[2004.14525](http://arxiv.org/abs/2004.14525)|null|
+|**2020-07-21**|**Broad Area Search and Detection of Surface-to-Air Missile Sites Using Spatial Fusion of Component Object Detections from Deep Neural Networks**|Alan B. Cannaday et.al.|[2003.10566](http://arxiv.org/abs/2003.10566)|null|
+|**2019-07-16**|**ALFA: Agglomerative Late Fusion Algorithm for Object Detection**|Evgenii Razinkov et.al.|[1907.06067](http://arxiv.org/abs/1907.06067)|null|
+|**2019-06-25**|**Cascade R-CNN: High Quality Object Detection and Instance Segmentation**|Zhaowei Cai et.al.|[1906.09756](http://arxiv.org/abs/1906.09756)|null|
+|**2019-08-26**|**Object Contour and Edge Detection with RefineContourNet**|Andre Peter Kelm et.al.|[1904.13353](http://arxiv.org/abs/1904.13353)|null|
+|**2019-04-02**|**Salient Object Detection via High-to-Low Hierarchical Context Aggregation**|Yun Liu et.al.|[1812.10956](http://arxiv.org/abs/1812.10956)|null|
+|**2018-10-05**|**Domain Specific Approximation for Object Detection**|Ting-Wu Chin et.al.|[1810.02010](http://arxiv.org/abs/1810.02010)|null|
+|**2018-09-05**|**PFDet: 2nd Place Solution to Open Images Challenge 2018 Object Detection Track**|Takuya Akiba et.al.|[1809.00778](http://arxiv.org/abs/1809.00778)|null|
+|**2018-05-25**|**Towards Human-Machine Cooperation: Self-supervised Sample Mining for Object Detection**|Keze Wang et.al.|[1803.09867](http://arxiv.org/abs/1803.09867)|null|
+|**2016-10-11**|**Crafting GBD-Net for Object Detection**|Xingyu Zeng et.al.|[1610.02579](http://arxiv.org/abs/1610.02579)|null|
+|**2016-04-15**|**Factors in Finetuning Deep Model for object detection**|Wanli Ouyang et.al.|[1601.05150](http://arxiv.org/abs/1601.05150)|null|
 
 ## SAM
 
@@ -2926,6 +3549,56 @@ layout: default
 |**2025-09-26**|**CubistMerge: Spatial-Preserving Token Merging For Diverse ViT Backbones**|Wenyi Gong et.al.|[2509.21764](http://arxiv.org/abs/2509.21764)|null|
 |**2025-09-26**|**KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields**|Yu Li et.al.|[2509.21750](http://arxiv.org/abs/2509.21750)|null|
 |**2025-09-25**|**The Morita $(\infty,2)$-category of a monoidal category as a $2$ -complicial set**|Arghan Dutta et.al.|[2509.21472](http://arxiv.org/abs/2509.21472)|null|
+|**2025-09-26**|**P3-SAM: Native 3D Part Segmentation**|Changfeng Ma et.al.|[2509.06784](http://arxiv.org/abs/2509.06784)|null|
+|**2025-10-17**|**Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**|Gheorghe Comanici et.al.|[2507.06261](http://arxiv.org/abs/2507.06261)|null|
+|**2025-05-14**|**Profinite properties of Coxeter groups**|Sam Hughes et.al.|[2505.08701](http://arxiv.org/abs/2505.08701)|null|
+|**2025-09-16**|**Problem list on Foliations and Diffeomorphism groups**|Sam Nariman et.al.|[2503.18274](http://arxiv.org/abs/2503.18274)|null|
+|**2025-03-27**|**PG-SAM: Prior-Guided SAM with Medical for Multi-organ Segmentation**|Yiheng Zhong et.al.|[2503.18227](http://arxiv.org/abs/2503.18227)|null|
+|**2025-02-04**|**Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation**|Bin Xie et.al.|[2502.00630](http://arxiv.org/abs/2502.00630)|null|
+|**2024-12-23**|**SSE-SAM: Balancing Head and Tail Classes Gradually through Stage-Wise SAM**|Xingyu Lyu et.al.|[2412.13715](http://arxiv.org/abs/2412.13715)|null|
+|**2024-12-18**|**SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation**|Shuangping Huang et.al.|[2412.12660](http://arxiv.org/abs/2412.12660)|null|
+|**2024-12-17**|**SAM-IF: Leveraging SAM for Incremental Few-Shot Instance Segmentation**|Xudong Zhou et.al.|[2412.11034](http://arxiv.org/abs/2412.11034)|null|
+|**2024-08-28**|**SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images**|Zafer Yildiz et.al.|[2408.15224](http://arxiv.org/abs/2408.15224)|null|
+|**2024-08-23**|**Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes**|Sota Kato et.al.|[2408.12406](http://arxiv.org/abs/2408.12406)|null|
+|**2024-08-23**|**SAM-SP: Self-Prompting Makes SAM Great Again**|Chunpeng Zhou et.al.|[2408.12364](http://arxiv.org/abs/2408.12364)|null|
+|**2024-08-13**|**From SAM to SAM 2: Exploring Improvements in Meta's Segment Anything Model**|Athulya Sundaresan Geetha et.al.|[2408.06305](http://arxiv.org/abs/2408.06305)|null|
+|**2024-08-09**|**SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation**|Jieming Yu et.al.|[2408.04593](http://arxiv.org/abs/2408.04593)|null|
+|**2025-04-16**|**Is SAM 2 Better than SAM in Medical Image Segmentation?**|Sourya Sengupta et.al.|[2408.04212](http://arxiv.org/abs/2408.04212)|null|
+|**2025-04-15**|**SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation**|Pengfei Chen et.al.|[2407.16682](http://arxiv.org/abs/2407.16682)|null|
+|**2025-03-11**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|null|
+|**2025-05-28**|**Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset**|Shijie Lian et.al.|[2406.06039](http://arxiv.org/abs/2406.06039)|null|
+|**2024-05-31**|**SAM-E: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation**|Junjie Zhang et.al.|[2405.19586](http://arxiv.org/abs/2405.19586)|null|
+|**2024-04-24**|**Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images**|Zhengzheng Tu et.al.|[2404.14837](http://arxiv.org/abs/2404.14837)|null|
+|**2025-02-11**|**RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation**|Jie Zhang et.al.|[2402.19004](http://arxiv.org/abs/2402.19004)|null|
+|**2025-11-04**|**VRP-SAM: SAM with Visual Reference Prompt**|Yanpeng Sun et.al.|[2402.17726](http://arxiv.org/abs/2402.17726)|null|
+|**2024-03-12**|**BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM**|Li Zhang et.al.|[2402.16338](http://arxiv.org/abs/2402.16338)|null|
+|**2024-11-11**|**Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation**|Maoyuan Ye et.al.|[2401.17904](http://arxiv.org/abs/2401.17904)|null|
+|**2024-01-25**|**PA-SAM: Prompt Adapter SAM for High-Quality Image Segmentation**|Zhaozhi Xie et.al.|[2401.13051](http://arxiv.org/abs/2401.13051)|null|
+|**2024-03-26**|**SurgicalPart-SAM: Part-to-Whole Collaborative Prompting for Surgical Instrument Segmentation**|Wenxi Yue et.al.|[2312.14481](http://arxiv.org/abs/2312.14481)|null|
+|**2024-03-01**|**RepViT-SAM: Towards Real-Time Segmenting Anything**|Ao Wang et.al.|[2312.05760](http://arxiv.org/abs/2312.05760)|null|
+|**2023-11-29**|**Adapting Segment Anything Model (SAM) through Prompt-based Learning for Enhanced Protein Identification in Cryo-EM Micrographs**|Fei He et.al.|[2311.16140](http://arxiv.org/abs/2311.16140)|null|
+|**2024-03-07**|**SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation**|Jiehong Lin et.al.|[2311.15707](http://arxiv.org/abs/2311.15707)|null|
+|**2023-10-23**|**Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models**|Sumit Pandey et.al.|[2310.12995](http://arxiv.org/abs/2310.12995)|null|
+|**2024-02-20**|**PassViz: A Visualisation System for Analysing Leaked Passwords**|Sam Parker et.al.|[2309.12968](http://arxiv.org/abs/2309.12968)|null|
+|**2023-08-31**|**SAM-Med2D**|Junlong Cheng et.al.|[2308.16184](http://arxiv.org/abs/2308.16184)|null|
+|**2023-12-19**|**SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction**|Zelin Peng et.al.|[2308.14604](http://arxiv.org/abs/2308.14604)|null|
+|**2023-08-15**|**Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?**|Risab Biswas et.al.|[2308.06623](http://arxiv.org/abs/2308.06623)|null|
+|**2023-07-21**|**Kernelization for Finding Lineal Topologies (Depth-First Spanning Trees) with Many or Few Leaves**|Emmanuel Sam et.al.|[2307.00362](http://arxiv.org/abs/2307.00362)|null|
+|**2023-07-04**|**Faster Segment Anything: Towards Lightweight SAM for Mobile Applications**|Chaoning Zhang et.al.|[2306.14289](http://arxiv.org/abs/2306.14289)|null|
+|**2023-06-27**|**When SAM Meets Sonar Images**|Lin Wang et.al.|[2306.14109](http://arxiv.org/abs/2306.14109)|null|
+|**2023-09-06**|**Robustness of SAM: Segment Anything Under Corruptions and Beyond**|Yu Qiao et.al.|[2306.07713](http://arxiv.org/abs/2306.07713)|null|
+|**2024-10-22**|**A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering**|Chaoning Zhang et.al.|[2306.06211](http://arxiv.org/abs/2306.06211)|null|
+|**2023-05-18**|**SAM for Poultry Science**|Xiao Yang et.al.|[2305.10254](http://arxiv.org/abs/2305.10254)|null|
+|**2023-05-02**|**Polyp-SAM: Transfer SAM for Polyp Segmentation**|Yuheng Li et.al.|[2305.00293](http://arxiv.org/abs/2305.00293)|null|
+|**2024-01-01**|**Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation**|Junde Wu et.al.|[2304.12620](http://arxiv.org/abs/2304.12620)|null|
+|**2023-05-03**|**SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More**|Tianrun Chen et.al.|[2304.09148](http://arxiv.org/abs/2304.09148)|null|
+|**2023-04-18**|**Deep learning universal crater detection using Segment Anything Model (SAM)**|Iraklis Giannakis et.al.|[2304.07764](http://arxiv.org/abs/2304.07764)|null|
+|**2023-04-12**|**Can SAM Segment Anything? When SAM Meets Camouflaged Object Detection**|Lv Tang et.al.|[2304.04709](http://arxiv.org/abs/2304.04709)|null|
+|**2022-11-29**|**Incidence-free sets and edge domination in incidence graphs**|Sam Spiro et.al.|[2211.14339](http://arxiv.org/abs/2211.14339)|null|
+|**2023-12-12**|**SAM as an Optimal Relaxation of Bayes**|Thomas Möllenhoff et.al.|[2210.01620](http://arxiv.org/abs/2210.01620)|null|
+|**2023-04-06**|**Topological Duality for Distributive Lattices: Theory and Applications**|Mai Gehrke et.al.|[2203.03286](http://arxiv.org/abs/2203.03286)|null|
+|**2021-06-30**|**The U-Net based GLOW for Optical-Flow-free Video Interframe Generation**|Saem Park et.al.|[2103.09576](http://arxiv.org/abs/2103.09576)|null|
+|**2020-06-18**|**Multi-Domain Level Generation and Blending with Sketches via Example-Driven BSP and Variational Autoencoders**|Sam Snodgrass et.al.|[2006.09807](http://arxiv.org/abs/2006.09807)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
